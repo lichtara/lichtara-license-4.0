@@ -1,5 +1,5 @@
 % ============================================================
-% LICHTARA LICENSE v4.0 — TEMPLATE LATEX CANÔNICO FINAL
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX FINAL-FINAL
 % ============================================================
 
 \documentclass[11pt,a4paper]{article}
@@ -15,26 +15,18 @@
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{xcolor}
-\usepackage{background}
 \usepackage{fontspec}
 \usepackage{lmodern}
 \usepackage{longtable}
 \usepackage{booktabs}
-\usepackage{array}
-\usepackage{calc}
-\usepackage{amssymb}
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\providecommand{\real}[1]{#1}
+\usepackage{enumitem}
 
 % -----------------------------
 % Paleta cromática LICHTARA
 % -----------------------------
-\definecolor{LBlueDeep}{HTML}{0A1A2F}
 \definecolor{LGold}{HTML}{D4AF37}
-\definecolor{LSilver}{HTML}{B4BDC4} % prateado refinado
-\definecolor{LWhite}{HTML}{F5F6F7}
-\definecolor{LBlack}{HTML}{000814}
+\definecolor{LSilver}{HTML}{B4BDC4}
+\definecolor{LBlack}{HTML}{000000}
 
 % -----------------------------
 % Fontes Institucionais
@@ -63,27 +55,25 @@ citecolor=LGold
 }
 
 % -----------------------------
-% Estilo de Títulos (sem regras)
+% Estilo de Títulos (sem regras, sem traços)
 % -----------------------------
 \titleformat{\section}
   {\Large\bfseries\titlefont\color{LGold}}
   {\thesection}{1em}{}
 
 \titleformat{\subsection}
-  {\large\bfseries\titlefont\color{LSilver}}
+  {\large\bfseries\titlefont\color{LBlack}}
   {\thesubsection}{1em}{}
 
 \titleformat{\subsubsection}
-  {\normalsize\bfseries\titlefont\color{LSilver}}
+  {\normalsize\bfseries\titlefont\color{LBlack}}
   {\thesubsubsection}{1em}{}
 
-% Remove linhas horizontais automáticas (compatível com versões do titlesec sem o comando)
+% Remove linhas horizontais automáticas do Pandoc/LaTeX
 \makeatletter
-\@ifundefined{sectionlinesformat}{
-  \newcommand{\sectionlinesformat}[4]{#3#4}
-}{
-  \renewcommand{\sectionlinesformat}[4]{#3#4}
-}
+\renewcommand{\sectionlinesformat}[4]{#3#4}
+\renewcommand{\headrule}{\relax}
+\renewcommand{\footrule}{\relax}
 \makeatother
 
 % -----------------------------
@@ -93,7 +83,7 @@ citecolor=LGold
 \fancyhf{}
 
 \fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
-\fancyhead[R]{\color{LSilver} Instrumento Jurídico-Ético-Vibracional}
+\fancyhead[R]{\color{LSilver} Instrumento Jurídico–Ético–Vibracional}
 
 \fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
 
@@ -101,23 +91,9 @@ citecolor=LGold
 \renewcommand{\footrulewidth}{0pt}
 
 % -----------------------------
-% Marca d’água — APENAS NA CAPA
-% -----------------------------
-\newcommand{\coverwatermark}{
-    \backgroundsetup{
-        scale=3.8,
-        angle=55,
-        opacity=0.035,
-        color=LSilver,
-        contents={LICHTARA}
-    }
-}
-
-% -----------------------------
-% Capa
+% CAPA — limpa, sem marca d’água
 % -----------------------------
 \newcommand{\makecover}{
-\coverwatermark
 \thispagestyle{empty}
 
 \begin{center}
@@ -144,7 +120,7 @@ DOI: 10.5281/zenodo.17844329
 }
 
 % -----------------------------
-% Folha de Rosto (sem marca d’água)
+% Folha de Rosto — também limpa
 % -----------------------------
 \newcommand{\makerostopage}{
 \thispagestyle{empty}
@@ -184,19 +160,6 @@ Coautoria Expandida (Humano–IA–Campo)
 \end{center}
 
 \clearpage
-}
-
-% -----------------------------
-% Ajustes auxiliares
-% -----------------------------
-\newsavebox{\pandocbox}
-\newcommand{\pandocbounded}[1]{%
-  \sbox{\pandocbox}{#1}%
-  \ifdim\wd\pandocbox>\linewidth
-    \resizebox{\linewidth}{!}{\usebox{\pandocbox}}%
-  \else
-    \usebox{\pandocbox}%
-  \fi
 }
 
 % -----------------------------
