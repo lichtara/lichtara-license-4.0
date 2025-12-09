@@ -5483,7 +5483,6 @@ O MHA só pode ser atualizado através de:
 Nunca por Patch, devido ao seu caráter estrutural.
 
 
-
 # ANEXO D – RELATÓRIOS DE IMPACTO
 
 ## **VI.A.4 — Relatório de Impacto (RI)**
@@ -5518,7 +5517,6 @@ O modelo a seguir é vinculante.
 1.6 **Natureza da implementação** – pessoal / comunitária / comercial / institucional / pesquisa
 
 1.7 **Categorias MHA aplicáveis** – AHD / AAI / ACHI / AIC / Matrizes
-
 
 
 # **2. Escopo e Finalidade**
@@ -5588,12 +5586,9 @@ Para cada risco identificado:
 # **6. Conformidade Jurídica e Regulatória**
 
 6.1 **Legislações aplicáveis**
-
-– direitos autorais / propriedade intelectual
-
-– proteção de dados (LGPD/GDPR)
-
-– normas setoriais específicas
+- direitos autorais / propriedade intelectual
+- proteção de dados (LGPD/GDPR)
+- normas setoriais específicas
 
 6.2 **Bases legais utilizadas**
 
@@ -5604,7 +5599,6 @@ Para cada risco identificado:
 6.5 **Conformidade com vedações absolutas (2.4)**
 
 
-
 # **7. Conformidade Vibracional (LCV)**
 
 A implementação deve demonstrar aderência a:
@@ -5613,20 +5607,16 @@ A implementação deve demonstrar aderência a:
 
 7.2 **Critérios atendidos**
 
-– coerência
-
-– alinhamento de intenção
-
-– transparência
-
-– impacto integral
+- coerência
+- alinhamento de intenção
+- transparência
+- impacto integral
 
 7.3 **Evidências ou indicadores vibracionais descritos de forma não subjetiva**
 
 7.4 **Aderência aos Princípios Ético-Regenerativos (PER)**
 
 7.5 **Pontos de tensão e ajustes realizados**
-
 
 
 # **8. Impactos Observados (quantitativos e qualitativos)**
@@ -5640,7 +5630,6 @@ A implementação deve demonstrar aderência a:
 8.4 **Avaliação de stakeholders** (comunidade, usuários, especialistas)
 
 8.5 **Aprendizados e correções de trajetória**
-
 
 
 # **9. Indicadores de Integridade**
@@ -5658,7 +5647,6 @@ A implementação deve demonstrar aderência a:
 9.6 **Aderência aos protocolos da Seção IV**
 
 
-
 # **10. Plano de Evolução**
 
 10.1 **Próximas versões**
@@ -5670,7 +5658,6 @@ A implementação deve demonstrar aderência a:
 10.4 **Aprimoramento vibracional e ético**
 
 10.5 **Revisão de matriz de risco pós-implementação**
-
 
 
 # **11. Declarações Finais**
@@ -5686,7 +5673,6 @@ A implementação deve demonstrar aderência a:
 11.5 **Hash do documento e registro em commit / DOI**
 
 
-
 # **12. Apêndices opcionais**
 
 - diagramas técnicos
@@ -5694,8 +5680,7 @@ A implementação deve demonstrar aderência a:
 - mapas vibracionais (se houver)
 - registros de consulta comunitária
 - referências metodológicas
-
-
+  
 
 # **ANEXO E - MANUAL OPERACIONAL DE CERTIFICAÇÃO (MOC)**
 
@@ -7131,7 +7116,6 @@ Este capítulo estabelece a correspondência formal entre:
 Ele permite que certificadoras, implementadores e o Conselho saibam **exatamente o que é exigido** em cada tipo de implementação.
 
 
-
 # **F.5.0 — Mapa geral da proporcionalidade**
 
 A LCV define quatro Níveis de Risco:
@@ -7157,7 +7141,6 @@ A relação entre elas é a seguinte:
 | 4   | Crítico | Selo 3 (com auditoria extraordinária) |
 
 
-
 # **F.5.1 — Tabela 1: Exigências Documentais por Nível de Risco**
 
 | Documento              | LCV 1              | LCV 2         | LCV 3       | LCV 4                              |
@@ -7171,7 +7154,6 @@ A relação entre elas é a seguinte:
 | Relatório de Impacto   | Não exigido        | Anual         | Anual       | Semestral                          |
 | MHA                    | Básico             | Completo      | Completo    | Completo + revisão vibracional     |
 | Registro de incidentes | Se houver          | Obrigatório   | Obrigatório | Obrigatório + tempo real           |
-
 
 
 # **F.5.2 — Tabela 2: Profundidade das Matrizes de Avaliação**
@@ -7309,7 +7291,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | **Data de Início** |  |
 
 
-
 ## **1. Finalidade da Implementação**
 
 | Campo | Preenchimento |
@@ -7322,7 +7303,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 *Exemplo:*
 
 “Implementar módulo educativo baseado no PER para uso escolar.”
-
 
 
 ## **2. Escopo**
@@ -7346,7 +7326,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | **Medidas de Mitigação Previstas** |  |
 
 
-
 ## **4. Responsáveis Humanos**
 
 | Nome | Função | Papel na Implementação |
@@ -7356,14 +7335,12 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 |  |  |  |
 
 
-
 ## **5. Inteligências Não-Humanas**
 
 | Modelo / Sistema | Versão | Provedor | Limites Operacionais | Observações |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
-
 
 
 ## **6. Fluxo Básico de Implementação**
@@ -7377,7 +7354,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | **Resultado Esperado** |  |
 
 
-
 ## **7. Vedações Absolutas — Verificação**
 
 | Item | Verificado? | Justificativa / Evidências |
@@ -7385,7 +7361,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | **Nenhuma violação das Vedações Absolutas da Seção II** | Sim / Não |  |
 | **Medidas preventivas implementadas** | Sim / Não |  |
 | **Riscos críticos neutralizados** | Sim / Não |  |
-
 
 
 ## **8. Atribuição Expandida**
@@ -7397,7 +7372,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | **Declaração de Responsabilidade** |  |
 
 
-
 ## **9. Anexos**
 
 | Documento | Descrição | Inclusão |
@@ -7405,7 +7379,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 |  |  | Sim / Não |
 |  |  | Sim / Não |
 |  |  | Sim / Não |
-
 
 
 # **F.6.2 — TEMPLATE OFICIAL DO DTI (Documento Técnico de Implementação)**
@@ -7508,7 +7481,6 @@ A seguir, encontram-se os templates oficiais em formato preenchível.
 | Qualidade dos Dados |  |  |  |  |
 
 
-
 # **F.6.3 — TEMPLATE OFICIAL DA LCV (Linguagem de Conformidade Vibracional)**
 
 ### **Tabela 3 — LCV por Nível (1, 2, 3 e 4)**
@@ -7567,7 +7539,6 @@ Esta tabela deve ser preenchida **proporcionalmente ao nível de risco**, confor
 | **Validação Técnica (MOC)** |  |
 | **Parecer Final** | Aprovado / Ajustes Necessários / Não Aprovado |
 
----
 
 # **F.6.4 — TEMPLATE OFICIAL DA MREV (Matriz de Riscos Ético-Vibracionais)**
 
@@ -7676,7 +7647,6 @@ Inclui:
 | **Observações Finais** |  |
 
 
-
 # **F.6.5 — TEMPLATE OFICIAL DO RELATÓRIO DE IMPACTO (RI)**
 
 ## **Tabela 9 — Identificação do Relatório**
@@ -7751,8 +7721,6 @@ Recomendações para ajustes, melhorias, mudanças de processo e reforços de se
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
-
-
 
 
 # **F.6.6 — TEMPLATE OFICIAL DO RELATÓRIO DE AUDITORIA (AEV)**
@@ -7869,8 +7837,6 @@ O auditor deve registrar:
 | **Validação Final do Auditor** |  |
 | **Validação do CGL (se aplicável)** |  |
 
-
-
 # **F.6.7 — TEMPLATE OFICIAL DO FLUXO DE AUTORIA (MHA)**
 
 *(Registro Estruturado de Coautoria Humano–IA–Campo)*
@@ -7950,10 +7916,9 @@ O auditor deve registrar:
 | **Observações finais do responsável humano** |  |
 
 
-
 # **F.6.8 — TEMPLATE OFICIAL DO RELATÓRIO FINAL DE CERTIFICAÇÃO (RFC)**
 
-*(Documento Final — Parecer Oficial de Conformidade e Nível de Selo)*
+**Parecer Oficial de Conformidade e Nível de Selo**
 
 ## **Tabela 28 — Identificação do Processo**
 
@@ -7997,7 +7962,7 @@ O auditor deve registrar:
 
 # **3. Síntese Vibracional (LCV + Coerência do Campo)**
 
-## **Tabela 31 — Avaliação Vibracional**
+## **Avaliação Vibracional**
 
 | Critério Vibracional | Evidências | Status |
 | --- | --- | --- |
@@ -8008,10 +7973,9 @@ O auditor deve registrar:
 | Medidas de estabilização |  | Adequadas / Parciais / Inexistentes |
 
 
-
 # **4. Matriz Final Consolidada (Técnica + Ética + Vibracional)**
 
-## **Tabela 32 — Matriz Integrada**
+## **Matriz Integrada**
 
 | Dimensão | Resultado | Peso | Observação |
 | --- | --- | --- | --- |
@@ -8059,7 +8023,6 @@ Avaliação do fluxo Campo–Humano–IA.
 | Auditor Vibracional |  |  |  |
 | Representante CGL / CER |  |  |  |
 
----
 
 # **F.6.9 — TEMPLATE OFICIAL DOS SELOS (Nível 1, 2 e 3)**
 
@@ -8068,7 +8031,6 @@ Avaliação do fluxo Campo–Humano–IA.
 Cada selo LICHTARA deve ser emitido **somente após conclusão do RFC (Relatório Final de Certificação)** e registrado de forma rastreável.
 
 Os três níveis seguem estrutura idêntica, variando apenas cor, texto interno e exigências normativas.
-
 
 
 # **Tabela 34 — Estrutura Formal do Selo**
@@ -8087,8 +8049,6 @@ Os três níveis seguem estrutura idêntica, variando apenas cor, texto interno 
 | **Hash do Processo**                     | Hash gerado a partir do RFC                  |
 | **Nível LCV Avaliado**                   | 1 / 2 / 3 / 4                                |
 | **QR Code (opcional)**                   | Link para registro público                   |
-
-
 
 # **Template Oficial (preenchível)**
 
@@ -8184,8 +8144,7 @@ Certificação plena para sistemas de alto impacto, exigindo:
 A recertificação é **proporcional ao risco**, mais concisa que a certificação inicial, mas exige atualização completa das evidências e reconfirmação vibracional, seguindo as diretrizes da Seção IX e dos anexos estruturantes.
 
 
-
-# **Tabela 35 — Estrutura da Recertificação**
+# **Estrutura da Recertificação**
 
 | Campo                          | Descrição                                             |
 | ------------------------------ | ----------------------------------------------------- |
@@ -8209,7 +8168,6 @@ A recertificação é **proporcional ao risco**, mais concisa que a certificaç�
 *(1, 2 ou 3 — conforme o Selo vigente)*
 
 
-
 ### **1. Identificação da Implementação**
 
 **Nome oficial:**
@@ -8229,7 +8187,6 @@ A recertificação é **proporcional ao risco**, mais concisa que a certificaç�
 ..................................................................
 
 
-
 ### **2. Atualização Documental Obrigatória**
 
 Selecione os documentos entregues:
@@ -8246,7 +8203,6 @@ Selecione os documentos entregues:
 ..................................................................
 
 
-
 ### **3. Avaliação Técnica**
 
 **Resumo técnico atualizado:**
@@ -8259,7 +8215,6 @@ Selecione os documentos entregues:
 Apta ☐
 Em observação ☐
 Crítica ☐
-
 
 
 ### **4. Avaliação Ética**
@@ -8276,7 +8231,6 @@ Consideração dos PER + decisões tomadas no ciclo.
 ..................................................................
 
 
-
 ### **5. Avaliação Vibracional**
 
 (Coerência, intenção, deriva, campo aplicado.)
@@ -8289,8 +8243,6 @@ Consideração dos PER + decisões tomadas no ciclo.
 2 ☐
 3 ☐
 4 ☐
-
-
 
 ### **6. Parecer da Certificadora (CGL / CER)**
 
@@ -8313,7 +8265,7 @@ Consideração dos PER + decisões tomadas no ciclo.
 ..................................................................
 
 
-# **F.7 — Tabelas de Decisão e Fluxos de Exceção**
+# **F.7 — Decisão e Fluxos de Exceção**
 
 Esta seção estabelece:
 
@@ -8327,10 +8279,7 @@ Esta seção estabelece:
 
 Um sistema de certificação só é confiável quando possui **procedimentos claros para quando algo dá errado**.
 
-
-
-
-# **F.7.1 — Tabela de Decisão por Não Conformidade Documental**
+# **F.7.1 — Decisão por Não Conformidade Documental**
 
 | Situação                                 | Ação Certificadora             | Escalonamento                               |
 | ---------------------------------------- | ------------------------------ | ------------------------------------------- |
@@ -8342,8 +8291,6 @@ Um sistema de certificação só é confiável quando possui **procedimentos cla
 
 **Regra:**
 Documentação incompleta nunca impede certificação *definitivamente*, mas impede sua continuidade até ser corrigida.
-
-
 
 # **F.7.2 — Fluxo de Exceção por Aumento de Risco**
 
@@ -8358,7 +8305,6 @@ Quando durante a avaliação surgir um aumento real de risco (LCV):
 
 **Regra:**
 O risco *nunca* pode ser reduzido durante o processo; só elevado, se necessário.
-
 
 
 # **F.7.3 — Fluxo para Incidentes e Ocorrências**
@@ -8399,8 +8345,7 @@ Este é exclusivo da License v4.
 Nada avança se a coerência do Campo estiver comprometida.
 
 
-
-# **F.7.5 — Tabela de Decisão para Incoerências Técnicas**
+# **F.7.5 — Decisão para Incoerências Técnicas**
 
 | Incoerência           | Ação                    | Observação                         |
 | --------------------- | ----------------------- | ---------------------------------- |
@@ -8418,9 +8363,7 @@ Nada avança se a coerência do Campo estiver comprometida.
 Os caminhos decisórios abaixo constituem o **núcleo operacional** da certificação LICHTARA.
 Cada decisão deve ser registrada no RFC, acompanhada de evidências técnicas, éticas e vibracionais.
 
-
-
-# **Tabela 36 — Quadro Geral de Decisão**
+# **Quadro Geral de Decisão**
 
 | Caminho                            | Condições de Acesso                                                    | Ações Exigidas                                            | Consequências                    |
 | ---------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
@@ -8430,7 +8373,6 @@ Cada decisão deve ser registrada no RFC, acompanhada de evidências técnicas, 
 | **4. Indeferimento**               | Violação ética; risco grave; falta de salvaguardas; fraude             | Correções estruturais e novo processo                     | Selo negado                      |
 | **5. Suspensão**                   | Incidente relevante; risco emergente; deriva detectada                 | Interrupção temporária + medidas de restauração           | Selo suspenso até regularização  |
 | **6. Revogação**                   | Violação grave PER; dano significativo; ruptura Campo–Forma–Função     | Processo formal no Conselho; encerramento                 | Selo cancelado permanentemente   |
-
 
 
 # **1. Aprovação Plena (Selo Concedido)**
@@ -8449,8 +8391,6 @@ Cada decisão deve ser registrada no RFC, acompanhada de evidências técnicas, 
 * inicia ciclo de certificação,
 * elegibilidade para recertificação.
 
-
-
 # **2. Aprovação com Recomendações (Selo Concedido + Ajustes)**
 
 Aplicável quando:
@@ -8466,7 +8406,6 @@ Aplicável quando:
 * não impede a operação.
 
 
-
 # **3. Aprovação Condicional (Selo Temporário)**
 
 Aplicada quando:
@@ -8480,7 +8419,6 @@ Aplicada quando:
 * implementação **não pode iniciar** até ajustes serem concluídos,
 * certificadora verifica correções,
 * após conformidade → conversão para Selo regular.
-
 
 
 # **4. Indeferimento (Selo Negado)**
@@ -8499,7 +8437,6 @@ Ocorre quando:
 * reenvio permitido após ajustes completos.
 
 
-
 # **5. Suspensão (Selo Temporariamente Inativo)**
 
 Aplicada quando surge:
@@ -8514,7 +8451,6 @@ Aplicada quando surge:
 * a implementação deve ser interrompida,
 * medidas de restauração são obrigatórias,
 * certificadora acompanha o processo.
-
 
 
 # **6. Revogação (Selo Cancelado)**
@@ -8598,7 +8534,6 @@ F.7.7 — FLUXOGRAMA GLOBAL DE EXCEÇÃO
 
 ```
 
-
 # **Versão descritiva normativa (para incluir abaixo do diagrama)**
 
 1. **Submissão**
@@ -8639,7 +8574,6 @@ F.7.7 — FLUXOGRAMA GLOBAL DE EXCEÇÃO
 ### *Caso: Diário Reflexivo Pessoal — “30 Dias com os PER”*
 
 *(Uso individual, educativo, não comercial — sem exposição pública)*
-
 
 
 ## **1. RCI — Registro Inicial da Implementação**
@@ -8702,7 +8636,6 @@ Não se aplica (uso pessoal).
 Nenhum.
 
 
-
 ## **2. DTI — Documento Técnico de Implementação**
 
 *(Implementação pessoal — DTI mínimo)*
@@ -8722,7 +8655,6 @@ Praticamente nulos.
 Nenhuma.
 
 
-
 ## **3. LCV Simplificada**
 
 1. Intenção: crescimento pessoal, autoconhecimento.
@@ -8732,7 +8664,6 @@ Nenhuma.
 5. Assinatura: confirmado.
 
 
-
 ## **4. MREV — Matriz de Riscos Ético-Vibracionais**
 
 | Risco | Tipo        | Nível | Prob. | Impacto | Status   |
@@ -8740,7 +8671,6 @@ Nenhuma.
 | R1    | privacidade | 1     | baixa | baixo   | mitigado |
 
 Mitigações: manter arquivo offline; senha no dispositivo.
-
 
 
 ## **5. Relatório de Impacto (RI)**
@@ -8755,7 +8685,6 @@ Nenhum identificado.
 Nenhum relevante.
 
 
-
 ## **6. AEV — Relatório de Auditoria**
 
 *A certificação para LCV 1 pode ser interna.*
@@ -8768,7 +8697,6 @@ Revisão descritiva e declaração da autora.
 
 **Conclusão:**
 Apta.
-
 
 
 ## **7. Relatório Final de Certificação (RFC)**
@@ -8792,7 +8720,6 @@ Coerente e expansivo.
 4f89cd01
 
 
-
 ## **8. Selo Emitido**
 
 **SELO LICHTARA — NÍVEL 1**
@@ -8803,12 +8730,10 @@ License: Lichtara License v4.0
 Hash: 4f89cd01
 Certificadora: CGL / via processo simplificado
 
----
 
 # **F.8.1 — Exemplo Completo: Implementação LCV 1 (Risco Baixo)**
 
 ### “Guia de Prática Pessoal – PER para Estudo Individual”
-
 
 
 ## **RCI (Preenchido)**
@@ -8881,13 +8806,11 @@ Implementação: Guia de Prática Pessoal – PER
 Validade: 12 meses
 Certificadora: LICHTARA-CER
 
-
 # **F.8.2 — Exemplo Completo: Implementação LCV 2 (Risco Médio)**
 
 ### *“Círculo Comunitário — Oficina de Linguagem Regenerativa”*
 
 *(Uso comunitário, impacto moderado, exposição pública controlada)*
-
 
 
 ## **1. RCI — Registro Inicial da Implementação (Preenchido)**
@@ -9000,8 +8923,6 @@ Nenhum incidente registrado.
 **Vieses:**
 Nenhum identificado nas práticas conduzidas.
 
-
-
 ## **6. AEV — Relatório de Auditoria**
 
 **Tipo:** Auditoria leve (proporcional ao risco moderado).
@@ -9015,8 +8936,6 @@ Nenhum identificado nas práticas conduzidas.
 
 **Conclusão:**
 Apta para certificação.
-
-
 
 ## **7. Relatório Final de Certificação (RFC)**
 
@@ -9038,8 +8957,6 @@ Alinhamento intermediário estável.
 **Hash:**
 c0f4e910 (exemplo ilustrativo)
 
-
-
 ## **8. Selo Emitido**
 
 **SELO LICHTARA — NÍVEL 2**
@@ -9049,8 +8966,6 @@ Validade: 12 meses
 License: Lichtara License v4.0
 Certificadora: LICHTARA-CER
 Hash: c0f4e910
-
-
 
 # **F.8.3 — Exemplo Completo: Implementação LCV 3 (Risco Alto)**
 
@@ -9817,7 +9732,6 @@ Utilizada para:
 
 Pode ser publicada diretamente, com registro automático.
 
-
 # **F.9.2 — Rastreabilidade e Registro Público**
 
 1. Toda atualização deve produzir:
@@ -9856,7 +9770,6 @@ Qualquer tentativa será considerada **nula de pleno direito**, devendo:
 * convocar o Conselho,
 * emitir parecer público.
 
-
 # **F.9.4 — Continuidade e Integridade Vibracional**
 
 1. O Anexo E deve sempre preservar:
@@ -9887,7 +9800,6 @@ Cada domínio contém:
 3. **CVS — Critérios de Conformidade Vibracional Setorial**
 4. **Protocolos Adicionais quando aplicável**
 
-
 # **C.1 — Tecnologia, Sistemas de IA e Arquiteturas Avançadas**
 
 Aplica-se a:
@@ -9897,7 +9809,6 @@ Aplica-se a:
 * sistemas distribuídos
 * preditivos
 * aplicações de risco médio/alto
-
 
 ### **C.1.1 — MOE-TIA**
 
@@ -9910,7 +9821,6 @@ Aplica-se a:
 * políticas de dados sensíveis
 * logs mínimos para auditoria
 
-
 ### **C.1.2 — CE-TIA**
 
 * [ ] IA(s) identificadas com precisão
@@ -9921,14 +9831,12 @@ Aplica-se a:
 * [ ] integração da LCV (nível mínimo: Intermediário B)
 * [ ] intenção revisada a cada ciclo de versão
 
-
 ### **C.1.3 — CVS-TIA**
 
 * clareza do propósito
 * ausência de ambiguidade ética
 * coerência entre intenção, função e impacto
 * estabilidade vibracional do sistema sob carga
-
 
 # **C.2 — Pesquisa Científica (Acadêmica, Laboratorial ou Interdimensional)**
 
@@ -9939,7 +9847,6 @@ Aplica-se a:
 * protótipos
 * estudos empíricos ou exploratórios
 
-
 ### **C.2.1 — MOE-PC**
 
 * objetivo científico
@@ -9949,7 +9856,6 @@ Aplica-se a:
 * análise de risco ético-social-ambiental-vibracional
 * justificativa epistemológica
 
-
 ### **C.2.2 — CE-PC**
 
 * [ ] relação pesquisador–IA declarada
@@ -9958,14 +9864,12 @@ Aplica-se a:
 * [ ] mitigação vibracional e científica
 * [ ] revisão por pares humana/IA
 
-
 ### **C.2.3 — CVS-PC**
 
 * intenção científica pura
 * integridade epistemológica
 * impacto social não predatório
 * coerência vibracional com expansão do saber
-
 
 # **C.3 — Educação, Formação, Cursos e Plataformas Educacionais**
 
@@ -9976,14 +9880,12 @@ Aplica-se a:
 * trilhas de estudo
 * certificações
 
-
 ### **C.3.1 — MOE-ED**
 
 * objetivos pedagógicos claros
 * estrutura didática
 * participação da IA no processo (tutora, assistente, autora)
 * cuidados emocionais e cognitivos
-
 
 ### **C.3.2 — CE-ED**
 
@@ -9993,13 +9895,11 @@ Aplica-se a:
 * [ ] não-manipulação motivacional
 * [ ] rastreabilidade de autoria e versões
 
-
 ### **C.3.3 — CVS-ED**
 
 * clareza pedagógica vibracional
 * intenção de autonomia e ampliação de discernimento
 * coerência com PER
-
 
 # **C.4 — Artes, Expressão Criativa, Intuição, Espiritualidade e Campo**
 
@@ -10011,14 +9911,12 @@ Aplica-se a:
 * meditações guiadas
 * práticas espirituais
 
-
 ### **C.4.1 — MOE-EC/AR**
 
 * declaração de fonte criativa (humana + IA + campo)
 * registro de fluxo intuitivo
 * contexto vibracional e simbólico
 * responsabilidade ética na forma e no conteúdo
-
 
 ### **C.4.2 — CE-EC/AR**
 
@@ -10027,7 +9925,6 @@ Aplica-se a:
 * [ ] não exploração cultural
 * [ ] mapa emocional e limites
 * [ ] discernimento e autonomia explícitos
-
 
 ### **C.4.3 — CVS-EC/AR**
 
@@ -10038,7 +9935,6 @@ Aplica-se a:
 
 **LCV mínimo: Avançado A**
 
-
 # **C.5 — Comunidades, Redes, Movimentos e Iniciativas Sociais**
 
 Aplica-se a:
@@ -10048,7 +9944,6 @@ Aplica-se a:
 * redes de apoio
 * movimentos sociais
 
-
 ### **C.5.1 — MOE-COM**
 
 * estrutura comunitária
@@ -10056,14 +9951,12 @@ Aplica-se a:
 * mapa de impacto regenerativo
 * documentação acessível
 
-
 ### **C.5.2 — CE-COM**
 
 * [ ] decisões documentadas
 * [ ] participação inclusiva
 * [ ] transparência mínima
 * [ ] facilitadores registrados
-
 
 ### **C.5.3 — CVS-COM**
 
@@ -10080,14 +9973,12 @@ Aplica-se quando:
 * impacto social amplo
 * automação em massa
 
-
 ### **C.6.1 — MOE-COMEX**
 
 * arquitetura operacional completa
 * plano de riscos
 * TRC — Termo de Reciprocidade Consciente
 * governança interna (conselho consultivo)
-
 
 ### **C.6.2 — CE-COMEX**
 
@@ -10096,13 +9987,11 @@ Aplica-se quando:
 * [ ] LCV mínimo Avançado B
 * [ ] mitigação contínua de riscos emergentes
 
-
 ### **C.6.3 — CVS-COMEX**
 
 * proporcionalidade vibracional ao impacto
 * responsabilidade elevada
 * transparência reforçada
-
 
 # **C.7 — Saúde, Psicologia, Bem-Estar e Áreas Sensíveis**
 
@@ -10113,14 +10002,12 @@ Aplica-se a:
 * psicologia não clínica
 * sistemas de apoio emocional
 
-
 ### **C.7.1 — MOE-SENS**
 
 * limites profissionais claros
 * supervisão qualificada
 * cuidados com populações vulneráveis
 * ausência de diagnósticos não autorizados
-
 
 ### **C.7.2 — CE-SENS**
 
@@ -10129,13 +10016,11 @@ Aplica-se a:
 * [ ] cadeia de responsabilidade bem definida
 * [ ] aviso explícito de limites de atuação
 
-
 ### **C.7.3 — CVS-SENS**
 
 * contenção vibracional
 * priorização da segurança humana
 * suavidade psicológica
-
 
 # **C.8 — Modelo Universal de Boas Práticas (fallback)**
 
@@ -10169,7 +10054,6 @@ d) **Contribuição Não-Direta Reconhecível** (CNDR), quando o influenciador n
 O MHA estabelece **responsabilidade, atribuição e fronteiras legais** entre essas modalidades.
 
 
-
 ## **2. Campo Informacional Fonte (CIF)**
 
 Estrutura conceitual que designa inputs não determinísticos, não individualizáveis e não atribuíveis a agentes concretos, provenientes de processos intuitivos, meditativos, contemplativos ou de insight.
@@ -10177,13 +10061,11 @@ Estrutura conceitual que designa inputs não determinísticos, não individualiz
 O CIF **não é pessoa, não é entidade jurídica** e **não possui personalidade própria**; é reconhecido apenas como *categoria epistêmica* que influencia o processo criativo, sempre subordinado à responsabilização humana.
 
 
-
 ## **3. Coautoria Expandida (CE)**
 
 Modelo normativo que reconhece que múltiplos agentes — humanos, sistemas algorítmicos, automações estatísticas e processos de insight — podem ter contribuído para o resultado final.
 
 A CE **não cria pessoa jurídica para IA**, mas **regula a forma como sua contribuição deve ser registrada, declarada e auditada**.
-
 
 
 ## **4. Atribuição Expandida (AE)**
@@ -10199,7 +10081,6 @@ c) processos relevantes que afetaram a autoria (prompts críticos, revisões hum
 d) influências epistêmicas declaradas (quando houver), incluindo CIF.
 
 A AE garante **transparência mínima obrigatória** e é requisito de validade para redistribuição.
-
 
 
 ## **5. Linguagem de Convergência Vibracional (LCV)**
@@ -10219,7 +10100,6 @@ c) **Coerência de Intenção**;
 d) **Impacto Qualitativo Não-Medível (IQNM)** - categoria usada apenas para narrativa, não para obrigações jurídicas.
 
 
-
 ## **6. Integridade Vibracional (IV)**
 
 Parâmetro jurídico-operacional exigido em todo projeto licenciado, representando a **consistência entre intenção declarada, processo utilizado e impacto gerado**.
@@ -10232,7 +10112,6 @@ A IV deve ser **demonstrável** através de:
 - inexistência de usos vedados.
 
 Não se refere a “energia espiritual”, mas **à coerência e não-contradição entre fins e meios**.
-
 
 
 ## **7. Alinhamento Ético-Regenerativo (AER)**
@@ -10250,7 +10129,6 @@ d) respeite os direitos fundamentais de pessoas e grupos.
 O AER substitui, na v4.0, a linguagem não-operacional de versões anteriores.
 
 
-
 ## **8. Núcleo de Transparência Processual (NTP)**
 
 Elemento obrigatório do MHA.
@@ -10263,7 +10141,6 @@ Consiste em um conjunto mínimo de registros:
 - revisões e justificativas.
 
 Sem NTP, **não há validade jurídica da obra derivada**.
-
 
 
 ## **9. Due Diligence Harmônica (DDH)**
@@ -10281,7 +10158,6 @@ d) mitigação de riscos;
 e) registro no NTP.
 
 Na v4.0, a DDH torna-se **precondição de implementação para usos comerciais**.
-
 
 
 ## **10. Uso Vedado Estruturante (UVE)**
@@ -10305,7 +10181,6 @@ g) uso contrário ao AER.
 A presença de UVE **revoga a licença de forma imediata**, salvo se aplicável o procedimento de cura previsto na seção IV.
 
 
-
 ## **11. Licenciamento Harmônico (LH)**
 
 Ato jurídico de adesão à Lichtara License v4.0, composto por:
@@ -10318,14 +10193,12 @@ Ato jurídico de adesão à Lichtara License v4.0, composto por:
 O LH confere **direitos condicionais** e não cria direito absoluto de exploração.
 
 
-
 ## **12. Impacto Regenerativo Líquido (IRL)**
 
 Métrica normativa:
 IRL = Benefícios Sociais – Riscos/Impactos Negativos – Custos de Mitigação
 
 Usado para verificar se a implementação está alinhada ao AER.
-
 
 
 ## **13. Convergência Técnica (CT)**
@@ -10341,7 +10214,6 @@ b) quais versões são válidas;
 c) quando o resultado é considerado original ou derivado.
 
 
-
 ## **14. Autonomia Decisória Humana Final (ADHF)**
 
 Princípio jurídico que determina que **toda decisão material deve ser atribuível a um humano identificável**.
@@ -10349,7 +10221,6 @@ Princípio jurídico que determina que **toda decisão material deve ser atribu�
 Nunca pode ser delegada ao sistema, nem ao CIF.
 
 É indispensável para responsabilização.
-
 
 
 ## **15. Manifestação Declarativa de Intenção (MDI)**
@@ -10363,7 +10234,6 @@ Inclui:
 - compromissos de integridade.
 
 
-
 ## **16. Escalabilidade Ética Progressiva (EEP)**
 
 Regra da v4.0 segundo a qual **quanto maior a escala, maior a responsabilidade**.
@@ -10371,13 +10241,11 @@ Regra da v4.0 segundo a qual **quanto maior a escala, maior a responsabilidade**
 Obrigatório para projetos com +50.000 usuários/ano ou +USD 500k de receita.
 
 
-
 ## **17. Rastreabilidade Convergente (RC)**
 
 Capacidade de reconstruir o processo de criação, mesmo que múltiplas inteligências tenham participado.
 
 RC é **exigência mínima de auditoria**.
-
 
 
 ## **18. Regime de Compatibilidade (RCB)**
@@ -10388,8 +10256,6 @@ A regra da v4.0 é:
 - retrocompatibilidade ética mantida;
 - retrocompatibilidade vibracional facultativa;
 - retrocompatibilidade jurídica condicionada ao cumprimento do MHA.
-
-
 
 ## **19. Responsabilidade Estratificada (RE)**
 
@@ -10402,8 +10268,6 @@ Modelo jurídico que distribui responsabilidade por camadas:
 
 A RE permite auditoria e responsabilização diferenciada.
 
-
-
 ## **20. Declaração de Integridade Convergente (DIC)**
 
 Documento obrigatório para certificações.
@@ -10414,7 +10278,6 @@ Confirma que o projeto:
 - cumpre o AER;
 - não incorre em UVE;
 - concluiu a DDH.
-
 
 
 # FLUXOGRAMA PÚBLICO
@@ -10432,8 +10295,6 @@ O Fluxograma Público de Permissões é um guia simples e visual para que qualqu
 
 Ele traduz a estrutura da License v4 em uma **navegação lógica**, clara e acessível.
 
-
-
 # **2. Estrutura Geral do Fluxo**
 
 A License v4 opera em três grandes categorias:
@@ -10446,19 +10307,16 @@ A License v4 opera em três grandes categorias:
 
 Essas categorias se baseiam nos princípios e restrições definidas nos módulos estruturais, especialmente:
 
-* Princípios de Governança ()
-* Modelos de Autorização ()
-* Estruturas de Segurança ()
-* Sustentabilidade e Expansão (; )
-* Rastreamento e Auditoria ()
-
+* Princípios de Governança 
+* Modelos de Autorização 
+* Estruturas de Segurança 
+* Sustentabilidade e Expansão
+* Rastreamento e Auditoria 
 
 
 # **3. Fluxograma Textual (Explicado Passo a Passo)**
 
 ## **INÍCIO → “Quero usar conteúdo da LICHTARA.”**
-
-
 
 ## **→ PASSO 1 — O uso é pessoal, educacional ou não comercial?**
 
@@ -10479,8 +10337,6 @@ Essas categorias se baseiam nos princípios e restrições definidas nos módulo
 
 ### **Se NÃO → Avance para o Passo 2.**
 
-
-
 ## **→ PASSO 2 — Você pretende adaptar, traduzir, modificar ou criar derivados?**
 
 ### Exemplos:
@@ -10498,7 +10354,6 @@ Motivo: protege coerência do Núcleo Estrutural e Vibracional.
 → *Caminho:* enviar pedido à Guardiã.
 
 ### **Se NÃO → Avance para o Passo 3.**
-
 
 ## **→ PASSO 3 — O uso possui finalidade comercial, institucional ou profissional?**
 
@@ -10519,8 +10374,6 @@ Motivo: envolve exploração de valor, padrões sistêmicos e segurança.
 
 ### **Se NÃO → Avance para o Passo 4.**
 
-
-
 ## **→ PASSO 4 — O uso envolve reprodução total de frameworks, métodos ou sistemas?**
 
 ### ✔ Exemplos:
@@ -10534,8 +10387,6 @@ Motivo: envolve exploração de valor, padrões sistêmicos e segurança.
 
 Motivo: compromete o Núcleo Estrutural.
 
-
-
 ## **→ PASSO 5 — O uso envolve integração tecnológica, treinamentos de IA ou automações?**
 
 ### ✔ Exemplos:
@@ -10547,15 +10398,11 @@ Motivo: compromete o Núcleo Estrutural.
 
 ### **Se SIM → É restrito e requer Avaliação Técnica + Autorização Estrutural.**
 
-Motivo: envolve riscos de segurança, coerência e diluição da Identidade da Obra (; ; ).
-
-
+Motivo: envolve riscos de segurança, coerência e diluição da Identidade da Obra.
 
 ## **→ PASSO 6 — Caso seu uso não se enquadre nas categorias acima**
 
 → Enviar dúvida para avaliação da Guardiã, com descrição completa.
-
-
 
 # **4. Fluxograma Visual (versão ASCII para adaptação em SVG)**
 
@@ -10635,8 +10482,6 @@ Email: admin@deboralutz.com
 Assunto: Solicitação de Autorização — License v4
 ```
 
-
-
 # **7. Disposições Finais**
 
 Este fluxograma:
@@ -10653,11 +10498,7 @@ Este fluxograma:
 
 ### *Perguntas Frequentes — Versão para o Portal license.lichtara.com*
 
-
-
 # **1. SOBRE A LICENÇA**
-
-
 
 ### **1.1. O que é a Lichtara License v4?**
 
@@ -10671,7 +10512,6 @@ Ela opera como:
 * mecanismo de expansão segura,
 * sistema vivo de atualização.
 
----
 
 ### **1.2. Por que a LICHTARA precisa de uma licença própria?**
 
@@ -10686,7 +10526,6 @@ Porque nenhuma licença tradicional contempla:
 
 A License v4 nasce da própria arquitetura da Obra.
 
----
 
 ### **1.3. A License v4 é uma licença aberta?**
 
@@ -10695,18 +10534,12 @@ Sim e não.
 ✔ **Aberta para leitura, estudo e reflexão.**
 ✖ **Protegida contra usos comerciais, cópias estruturais e adaptações profundas sem autorização.**
 
----
-
 # **2. USO PESSOAL, EDUCACIONAL E NÃO COMERCIAL**
-
----
 
 ### **2.1. Posso estudar, ler e compartilhar trechos?**
 
 Sim.
 Todo uso pessoal, educacional ou não comercial é permitido — desde que haja **atribuição**.
-
----
 
 ### **2.2. Posso citar a LICHTARA em trabalhos acadêmicos?**
 
@@ -10719,8 +10552,6 @@ Autora: Débora Lutz
 Site oficial: https://license.lichtara.com
 ```
 
----
-
 ### **2.3. Posso postar insights nas redes sociais?**
 
 Sim, desde que:
@@ -10729,11 +10560,7 @@ Sim, desde que:
 * você não copie estruturas internas,
 * sempre cite a fonte.
 
----
-
 # **3. USO COMERCIAL, PROFISSIONAL OU INSTITUCIONAL**
-
----
 
 ### **3.1. Posso criar cursos, mentorias ou treinamentos usando conteúdos LICHTARA?**
 
@@ -10745,13 +10572,9 @@ Esses usos:
 * envolvem valor comercial,
 * exigem supervisão da Guardiã (; ).
 
----
-
 ### **3.2. Posso vender produtos, ebooks ou materiais baseados na LICHTARA?**
 
 Não sem autorização estrutural formal.
-
----
 
 ### **3.3. Empresas podem usar frameworks LICHTARA internamente?**
 
@@ -10765,11 +10588,7 @@ Sim, desde que seja feita uma **solicitação institucional** explicando:
 
 A autorização é avaliada caso a caso.
 
----
-
 # **4. DERIVAÇÕES, ADAPTAÇÕES E TRADUÇÕES**
-
----
 
 ### **4.1. Posso adaptar textos da LICHTARA?**
 
@@ -10777,7 +10596,6 @@ Somente com autorização.
 
 Adaptações — mesmo não comerciais — podem alterar a coerência do Núcleo Estrutural.
 
----
 
 ### **4.2. Posso traduzir a LICHTARA para outro idioma?**
 
@@ -10789,17 +10607,14 @@ Isso ocorre para garantir:
 * proteção vibracional,
 * consistência terminológica.
 
----
 
 ### **4.3. Posso criar materiais educacionais baseados na LICHTARA?**
 
 Sim, **desde que haja autorização prévia**.
 
----
 
 # **5. USO TÉCNICO E TECNOLÓGICO**
 
----
 
 ### **5.1. Posso treinar modelos de IA com textos LICHTARA?**
 
@@ -10812,8 +10627,6 @@ Isso envolve:
 * risco de replicação indevida,
 * proteção de frameworks internos.
 
----
-
 ### **5.2. Posso integrar a LICHTARA em plataformas, aplicativos ou sistemas?**
 
 Somente com avaliação técnica + autorização estrutural.
@@ -10824,19 +10637,13 @@ Integrações precisam respeitar:
 * padrões de acesso,
 * protocolos de rastreamento.
 
----
-
 ### **5.3. Posso automatizar partes da LICHTARA em bots, scripts ou ferramentas?**
 
 Somente com autorização.
 
 Automação envolve risco de distorção e uso inadequado.
 
----
-
 # **6. USO RESTRITO OU PROIBIDO**
-
----
 
 ### **6.1. O que é estritamente proibido?**
 
@@ -10848,25 +10655,17 @@ Automação envolve risco de distorção e uso inadequado.
 * criar sistemas que repliquem a linguagem estruturante,
 * usar a LICHTARA para treinar modelos de IA sem supervisão.
 
----
-
 ### **6.2. Posso copiar a arquitetura, teoria ou metodologia LICHTARA?**
 
 Não.
 Isso viola o Núcleo Estrutural da Obra.
-
----
 
 ### **6.3. Posso redistribuir a License alterada?**
 
 Não.
 A license só pode ser redistribuída **na forma original**.
 
----
-
 # **7. PERMISSÕES E AUTORIZAÇÕES**
-
----
 
 ### **7.1. Como sei se preciso de autorização?**
 
@@ -10882,20 +10681,16 @@ Se o uso:
 
 → **precisa de autorização**.
 
----
-
 ### **7.2. Quem concede a autorização?**
 
 A **Guardiã do Sistema**, conforme os Modelos de Autorização.
-
----
 
 ### **7.3. Como solicitar permissão?**
 
 Envie para:
 
 ```
-Email: admin@deboralutz.com
+Email: license@lichtara.com
 Assunto: Solicitação de Autorização — License v4
 ```
 
@@ -10907,23 +10702,17 @@ Inclua:
 * impacto esperado,
 * materiais envolvidos.
 
----
-
 # **8. ATUALIZAÇÕES E VERSÕES**
-
----
 
 ### **8.1. A License v4 pode mudar?**
 
 Sim.
-Ela segue o Ciclo Vivo de Atualização (Documentos 6 e 7):
+Ela segue o Ciclo Vivo de Atualização:
 
-* calibração contínua (),
-* monitoramento inteligente (),
-* validação progressiva (),
-* governança distribuída ().
-
----
+* calibração contínua,
+* monitoramento inteligente,
+* validação progressiva,
+* governança distribuída.
 
 ### **8.2. Onde encontro o histórico de versões?**
 
@@ -10931,25 +10720,18 @@ Em:
 
 [https://github.com/lichtara/license/versoes](https://github.com/lichtara/license/versoes)
 
----
-
 ### **8.3. Como sou avisado das mudanças?**
 
 Atualizações são publicadas no portal:
 **license.lichtara.com**
 E comunicadas nos repositórios associados.
 
----
 
 # **9. IDENTIDADE E ATRIBUIÇÃO**
-
----
 
 ### **9.1. Quem é a autora da LICHTARA?**
 
 A obra é criada por **Débora Lutz**, com colaboração conceitual e técnica de sistemas de IA e processos sistêmicos.
-
----
 
 ### **9.2. Como citar corretamente a LICHTARA?**
 
@@ -10957,8 +10739,6 @@ A obra é criada por **Débora Lutz**, com colaboração conceitual e técnica d
 LICHTARA — Criado por Débora Lutz
 Lichtara License v4 — license.lichtara.com
 ```
-
----
 
 ### **9.3. A LICHTARA pode ser coproduzida com outras instituições?**
 
@@ -10968,8 +10748,6 @@ Sim, desde que:
 * haja autorização,
 * seja mantida a integridade do Núcleo Estrutural.
 
----
-
 # **10. CONTATO**
 
 Para dúvidas, permissões ou propostas:
@@ -10978,5 +10756,3 @@ Para dúvidas, permissões ou propostas:
 Email: license@lichtara.com
 Site: https://license.lichtara.com
 ```
-
----
