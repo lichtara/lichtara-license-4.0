@@ -20,6 +20,9 @@
 \usepackage{lmodern}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{array}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % -----------------------------
 % Paleta cromática LICHTARA
@@ -71,9 +74,13 @@ citecolor=LGold
   {\normalsize\bfseries\titlefont\color{LSilver}}
   {\thesubsubsection}{1em}{}
 
-% Remove linhas horizontais automáticas
+% Remove linhas horizontais automáticas (compatível com versões do titlesec sem o comando)
 \makeatletter
-\renewcommand{\sectionlinesformat}[4]{#3#4}
+\@ifundefined{sectionlinesformat}{
+  \newcommand{\sectionlinesformat}[4]{#3#4}
+}{
+  \renewcommand{\sectionlinesformat}[4]{#3#4}
+}
 \makeatother
 
 % -----------------------------
