@@ -2055,10 +2055,15 @@ Seu objetivo é assegurar alinhamento ético-vibracional, precisão factual, pro
 Toda comunicação pública deve observar:
 
 a) **Verdade e precisão** — nenhuma informação pode ser distorcida, exagerada ou omitida de modo a alterar a compreensão essencial do fato;
+
 b) **Proporcionalidade** — divulgar apenas o necessário, evitando causar dano, pânico, confusão ou exposição indevida;
+
 c) **Responsabilidade social** — considerar o impacto sobre comunidades, grupos vulneráveis e o ecossistema de inovação;
+
 d) **Proteção de dados e privacidade** — nenhuma comunicação pode violar direitos legais de terceiros;
+
 e) **Integridade vibracional** — manter coerência, clareza e alinhamento com os princípios ético-regenerativos;
+
 f) **Transparência verificável** — sempre que possível, incluir evidências, commits, hashes, DOIs ou documentos de suporte.
 
 
