@@ -3763,9 +3763,13 @@ Nenhum uso é permitido fora dos limites desta Seção.
 São permitidos todos os usos que observem:
 
 a) os Princípios Fundamentais (Seção I);
+
 b) as Vedações Absolutas (Seção II.4);
+
 c) a conformidade operacional (Seção IV);
+
 d) os mecanismos de rastreabilidade e Atribuição Expandida;
+
 e) o respeito à integridade vibracional e autoria.
 
 Os usos permitidos organizam-se em três grupos.
@@ -5866,7 +5870,6 @@ Nos casos de alto impacto, adiciona-se:
 
 ```
 
----
 
 # **E.2 - Checklist Geral de Certificação (todos os níveis)**
 
@@ -5904,7 +5907,6 @@ Documento curto, declarando integridade ética e vibracional.
 
 Cada nível exige profundidade crescente:
 
----
 
 ## **Nível 1 - Conformidade Básica**
 
@@ -5918,7 +5920,6 @@ Evidências mínimas:
 - Ausência de impacto coletivo
 - Demonstração de que não há automação sensível
 
----
 
 ## **Nível 2 - Conformidade Avançada**
 
@@ -5932,7 +5933,6 @@ Evidências adicionais:
 - Justificativas éticas documentadas
 - Estrutura básica de salvaguardas (fluxo de risco IV.4)
 
----
 
 ## **Nível 3 - Conformidade Integral / Alto Impacto**
 
@@ -5951,7 +5951,6 @@ Evidências completas:
 
 Essas evidências devem ser auditáveis por certificadoras e pelo Conselho.
 
----
 
 # **E.4 - Checklist de Avaliação Técnica**
 
@@ -5972,7 +5971,6 @@ Em implementações críticas:
 - explicabilidade mínima
 - documentação de treinamento ou finetuning
 
----
 
 # **E.5 - Checklist de Avaliação Ética e Regenerativa**
 
@@ -5992,7 +5990,6 @@ Quando houver risco moderado ou alto:
 - entrevistas com responsáveis
 - rastreabilidade de decisões delicadas
 
----
 
 # **E.6 - Checklist Vibracional**
 
@@ -6014,13 +6011,11 @@ Casos que gerem:
 
 são automaticamente **indeferidos**.
 
----
 
 # **E.7 - Modelos Documentais**
 
 A seguir, modelos mínimos para auditoria e certificação.
 
----
 
 ## **E.7.1 - Modelo de RCI (Registro Completo)**
 
@@ -6034,10 +6029,9 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 **3. Contribuições humanas e não-humanas (MHA)**
 
-– Humanos (nomes e papéis)
-– IAs (modelos, provedores, versões)
-
-– Campo (intenção declarada)
+- Humanos (nomes e papéis)
+- IAs (modelos, provedores, versões)
+- Campo (intenção declarada)
 
 **4. Documentação técnica essencial**
 
@@ -6231,7 +6225,6 @@ Interromper avaliação se houver desconforto grave:
 - solicitar parecer vibracional externo quando necessário
 
 O processo de certificação é técnico, mas também é **campo**.
-
 
 
 # **ANEXO F — TEMPLATES OPERACIONAIS DE CERTIFICAÇÃO (TOC)**
