@@ -1,0 +1,88 @@
+name: Release - Lichtara License v4
+
+on:
+push:
+tags:
+- "v*"
+
+jobs:
+
+qa-check:
+name: QA antes do Release
+runs-on: ubuntu-latest
+steps:
+- uses: actions/checkout@v4
+
+```
+  - name: Rodar QA de integridade
+    uses: ./.github/workflows/qa-integrity.yml
+    if: false
+    run: echo "Chamado indireto não executa. QA é refeito abaixo."
+
+  - name: Executar QA novamente
+    run: |
+      bash .github/scripts/qa.sh
+```
+
+build-pdf:
+name: Compilar PDF
+runs-on: ubuntu-latest
+needs: qa-check
+steps:
+- uses: actions/checkout@v4
+
+```
+  - name: Instalar LaTeX
+    run: |
+      sudo apt-get update
+      sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-latex-extra
+
+  - name: Compilar PDF
+    working-directory: ./pdf
+    run: |
+      chmod +x build.sh
+      ./build.sh
+
+  - name: Upload artifact temporário
+    uses: actions/upload-artifact@v4
+    with:
+      name: Lichtara-License-v4-PDF
+      path: pdf/LICENSE-v4.0.pdf
+```
+
+publish-release:
+name: Publicar Release oficial
+needs: build-pdf
+runs-on: ubuntu-latest
+steps:
+- uses: actions/checkout@v4
+
+```
+  - name: Baixar PDF compilado
+    uses: actions/download-artifact@v4
+    with:
+      name: Lichtara-License-v4-PDF
+      path: ./dist
+
+  - name: Criar release no GitHub
+    uses: softprops/action-gh-release@v2
+    with:
+      files: |
+        dist/LICENSE-v4.0.pdf
+        LICENSE-v4.0.md
+        NOTICE
+        metadata/CITATION.cff
+        version-info.json
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Atualizar version-info.json com nova tag
+    run: |
+      TAG=${GITHUB_REF#refs/tags/}
+      jq --arg v "$TAG" '.version=$v' version-info.json > tmp.json && mv tmp.json version-info.json
+      git config user.name "license-bot"
+      git config user.email "noreply@github.com"
+      git add version-info.json
+      git commit -m "Atualiza version-info.json para $TAG"
+      git push origin HEAD:main
+```

@@ -1,0 +1,110 @@
+name: Sync License to Website
+
+on:
+push:
+tags:
+- "v*"
+
+jobs:
+sync:
+name: Publish License Data to lichtara.com
+runs-on: ubuntu-latest
+
+```
+steps:
+
+  - name: Checkout current repo
+    uses: actions/checkout@v4
+
+  - name: Extract version from tag
+    id: version
+    run: |
+      VER="${GITHUB_REF#refs/tags/}"
+      echo "version=$VER" >> $GITHUB_OUTPUT
+
+  #############################################################
+  # 1) Geração do JSON institucional da License (API interna)
+  #############################################################
+  - name: Generate official JSON representation
+    run: |
+      mkdir -p export
+      cat > export/license.json <<EOF
+      {
+        "name": "Lichtara License",
+        "version": "${{ steps.version.outputs.version }}",
+        "doi": "10.5281/zenodo.17844329",
+        "generated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+        "hash_pdf": "$(sha256sum lichtara-license-v4/pdf/LICENSE-v4.0.pdf | awk '{print $1}')",
+        "official_pdf": "/assets/license/LICENSE-v4.0.pdf",
+        "canonical_source": "https://github.com/lichtara/license",
+        "notes": "This is the official structured JSON representation of Lichtara License."
+      }
+      EOF
+
+  ###########################################
+  # 2) Geração da página HTML institucional
+  ###########################################
+  - name: Generate HTML summary page
+    run: |
+      cat > export/license.html <<EOF
+      <!DOCTYPE html>
+      <html lang="pt-BR">
+      <head>
+        <meta charset="utf-8">
+        <title>Lichtara License v${{ steps.version.outputs.version }}</title>
+        <meta name="description" content="Documento oficial da Lichtara License v${{ steps.version.outputs.version }}">
+      </head>
+      <body style="font-family: sans-serif; padding: 40px;">
+        <h1>Lichtara License v${{ steps.version.outputs.version }}</h1>
+        <p>Versão oficial publicada automaticamente pelo pipeline de governança.</p>
+
+        <h3>Metadados</h3>
+        <ul>
+          <li><b>Versão:</b> ${{ steps.version.outputs.version }}</li>
+          <li><b>DOI:</b> 10.5281/zenodo.17844329</li>
+          <li><b>PDF Oficial:</b> <a href="/assets/license/LICENSE-v4.0.pdf">Download</a></li>
+        </ul>
+
+        <h3>Repositório</h3>
+        <p><a href="https://github.com/lichtara/license">lichtara/license</a></p>
+
+        <hr>
+        <p style="font-size: 12px; opacity: 0.6;">
+          © 2023–2025 Débora Lutz — Sistema LICHTARA — Coautoria Expandida
+        </p>
+      </body>
+      </html>
+      EOF
+
+  #################################################
+  # 3) Clonar repositório do site e sincronizar
+  #################################################
+  - name: Checkout website repo
+    uses: actions/checkout@v4
+    with:
+      repository: lichtara/site
+      token: ${{ secrets.LICHTARA_SITE_TOKEN }}
+      path: site
+
+  - name: Copy new files into website
+    run: |
+      mkdir -p site/public/assets/license
+      cp lichtara-license-v4/pdf/LICENSE-v4.0.pdf site/public/assets/license/
+      cp export/license.json site/public/assets/license/
+      cp export/license.html site/public/license/index.html
+
+  #################################################
+  # 4) Commit e push
+  #################################################
+  - name: Commit to website
+    working-directory: site
+    run: |
+      git config user.name "license-bot"
+      git config user.email "noreply@lichtara.com"
+      git add .
+      git commit -m "Atualiza site com License ${{ steps.version.outputs.version }}"
+      git push origin main
+
+  - name: Done
+    run: echo "Site sincronizado com sucesso."
+```

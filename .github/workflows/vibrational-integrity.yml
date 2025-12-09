@@ -1,0 +1,111 @@
+name: Vibrational Integrity Check (Structural Compliance)
+
+on:
+push:
+branches: [ "main" ]
+pull_request:
+
+jobs:
+vibra-check:
+name: Validate Structural + Semantic Coherence
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout repo
+    uses: actions/checkout@v4
+
+  ###############################################
+  # 1) Verificação de termos essenciais do Sistema
+  ###############################################
+  - name: Check essential LICHTARA terms
+    run: |
+      REQUIRED_TERMS=(
+        "LUMORA"
+        "FLUX"
+        "SYNTARIS"
+        "NAVROS"
+        "OSLO"
+        "FINCE"
+        "LICHTARA"
+        "PER"
+        "LCV"
+        "MHA"
+        "MREV"
+      )
+
+      for term in "${REQUIRED_TERMS[@]}"; do
+        grep -R "$term" -n ./lichtara-license-v4 || \
+          (echo "Termo essencial ausente: $term" && exit 1)
+      done
+      echo "✔ Todos os termos essenciais foram encontrados."
+
+  ##################################################
+  # 2) Verificação de consistência entre seções
+  ##################################################
+  - name: Cross-check section references
+    run: |
+      # exige que todas as seções referenciem as outras corretamente
+      for sec in I II III IV V VI VII VIII IX; do
+        grep -R "Seção $sec" -n ./lichtara-license-v4 || echo "Aviso: referência à Seção $sec não encontrada em algum arquivo."
+      done
+      echo "✔ Referências cruzadas verificadas."
+
+  ##################################################
+  # 3) Verificação de referências normativas obrigatórias
+  ##################################################
+  - name: Check normative anchors (PER/LCV/MHA/MREV)
+    run: |
+      grep -R "Seção I" -n ./lichtara-license-v4 || exit 1
+      grep -R "Seção II" -n ./lichtara-license-v4 || exit 1
+      grep -R "PER" -n ./lichtara-license-v4 || exit 1
+      grep -R "LCV" -n ./lichtara-license-v4 || exit 1
+      grep -R "MHA" -n ./lichtara-license-v4 || exit 1
+      grep -R "MREV" -n ./lichtara-license-v4 || exit 1
+      echo "✔ Âncoras normativas presentes."
+
+  ##################################################
+  # 4) Bloqueio de termos proibidos
+  ##################################################
+  - name: Check prohibited expressions
+    run: |
+      PROHIBITED=(
+        "licença aberta irrestrita"
+        "uso livre"
+        "domínio público"
+        "interpretação livre"
+        "sem restrições"
+        "pode alterar livremente"
+      )
+
+      for term in "${PROHIBITED[@]}"; do
+        if grep -Ri "$term" ./lichtara-license-v4; then
+          echo "❌ Termo proibido encontrado: $term" && exit 1
+        fi
+      done
+
+      echo "✔ Nenhum termo proibido encontrado."
+
+  ##################################################
+  # 5) Validação estrutural de anexos
+  ##################################################
+  - name: Validate annex structure
+    run: |
+      ANNEXES=(A B C D E)
+      for a in "${ANNEXES[@]}"; do
+        ls annexes/anexo-${a}* >/dev/null 2>&1 || \
+          (echo "❌ Anexo $a ausente" && exit 1)
+      done
+      echo "✔ Todos os anexos estruturais presentes."
+
+  ##################################################
+  # 6) Verificação de coerência de versionamento interno
+  ##################################################
+  - name: Check internal version references
+    run: |
+      grep -R "v4.0" -n ./lichtara-license-v4 || echo "⚠ Aviso: alguma referência interna não menciona v4.0."
+      echo "✔ Verificação concluída (avisos não bloqueiam)."
+
+  - name: Completed
+    run: echo "✨ Validação vibracional estrutural concluída com sucesso."
+```

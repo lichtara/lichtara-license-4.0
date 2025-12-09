@@ -1,0 +1,43 @@
+name: Build License PDF & Release
+
+on:
+  push:
+    tags:
+      - "license-v*"
+  workflow_dispatch:
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare artifacts
+        run: mkdir -p dist
+
+      - name: Build PDF (Pandoc)
+        uses: docker://pandoc/latex:3.1
+        with:
+          args: >
+            --from gfm
+            --pdf-engine=xelatex
+            --toc
+            -V mainfont="DejaVu Serif"
+            -V sansfont="DejaVu Sans"
+            -V monofont="DejaVu Sans Mono"
+            -V geometry:margin=1in
+            -V linkcolor=blue
+            -o dist/Lichtara_License_${{ github.ref_name }}.pdf
+            LICENSE.md
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/Lichtara_License_${{ github.ref_name }}.pdf
+            .zenodo.json
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

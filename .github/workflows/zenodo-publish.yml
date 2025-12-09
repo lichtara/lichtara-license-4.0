@@ -1,0 +1,157 @@
+name: Publish Lichtara License PDF to Zenodo (PRO)
+
+on:
+push:
+tags:
+- "v*"
+
+jobs:
+publish:
+name: Zenodo Publication Workflow (PRO)
+runs-on: ubuntu-latest
+
+```
+steps:
+
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  - name: Load .env (if present)
+    run: |
+      if [ -f .env ]; then
+        export $(grep -v '^#' .env | xargs)
+      fi
+
+  - name: Extract version from tag
+    id: version
+    run: |
+      VER="${GITHUB_REF#refs/tags/}"
+      echo "version=$VER" >> $GITHUB_OUTPUT
+
+  - name: Build PDF
+    working-directory: ./lichtara-license-v4/pdf
+    run: |
+      chmod +x build.sh
+      ./build.sh
+
+  - name: Compute SHA256 for PDF
+    id: sha
+    run: |
+      HASH=$(sha256sum lichtara-license-v4/pdf/LICENSE-v4.0.pdf | awk '{print $1}')
+      echo "sha256=$HASH" >> $GITHUB_OUTPUT
+      echo "SHA256: $HASH"
+
+  - name: Update version-info.json
+    run: |
+      cat > version-info.json <<EOF
+      {
+        "version": "${{ steps.version.outputs.version }}",
+        "sha256": "${{ steps.sha.outputs.sha256 }}",
+        "generated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+        "doi": "${{ secrets.ZENODO_CONCEPT_DOI }}"
+      }
+      EOF
+
+  - name: Prepare Zenodo metadata file
+    run: |
+      cat > zenodo-metadata.json <<EOF
+      {
+        "metadata": {
+          "title": "Lichtara License v${{ steps.version.outputs.version }}",
+          "upload_type": "publication",
+          "publication_type": "report",
+          "description": "Versão oficial da Lichtara License — instrumento jurídico-ético-vibracional de uso e conformidade.",
+          "creators": [
+            { "name": "Lutz, Débora", "affiliation": "Lichtara Institute" }
+          ],
+          "doi": "${{ secrets.ZENODO_CONCEPT_DOI }}",
+          "version": "${{ steps.version.outputs.version }}"
+        }
+      }
+      EOF
+
+  ###############################
+  # 1) Preparação da requisição
+  ###############################
+
+  - name: Determine Zenodo API endpoint
+    id: api
+    run: |
+      if [ "${{ secrets.ZENODO_PUBLISH }}" = "true" ]; then
+        echo "endpoint=https://zenodo.org/api/deposit/depositions" >> $GITHUB_OUTPUT
+      else
+        echo "endpoint=https://sandbox.zenodo.org/api/deposit/depositions" >> $GITHUB_OUTPUT
+      fi
+
+  #################################
+  # 2) Criação do depósito Zenodo
+  #################################
+
+  - name: Create new Zenodo deposition
+    id: deposition
+    env:
+      TOKEN: ${{ secrets.ZENODO_ACCESS_TOKEN }}
+    run: |
+      RESP=$(curl -s -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" -d @zenodo-metadata.json "${{ steps.api.outputs.endpoint }}")
+      echo "$RESP" > zenodo-response.json
+      echo "deposition_id=$(jq -r '.id' zenodo-response.json)" >> $GITHUB_OUTPUT
+
+  #################################
+  # 3) Upload do PDF (arquivo principal)
+  #################################
+
+  - name: Upload main PDF file
+    env:
+      TOKEN: ${{ secrets.ZENODO_ACCESS_TOKEN }}
+    run: |
+      curl -s \
+        -H "Authorization: Bearer $TOKEN" \
+        -F "file=@lichtara-license-v4/pdf/LICENSE-v4.0.pdf" \
+        "${{ steps.api.outputs.endpoint }}/${{ steps.deposition.outputs.deposition_id }}/files"
+
+  #################################
+  # 4) Upload de anexos extras (opcional)
+  #################################
+
+  - name: Upload annex files (optional)
+    env:
+      TOKEN: ${{ secrets.ZENODO_ACCESS_TOKEN }}
+    run: |
+      for f in annexes/*.md; do
+        echo "Uploading annex: $f"
+        curl -s \
+          -H "Authorization: Bearer $TOKEN" \
+          -F "file=@$f" \
+          "${{ steps.api.outputs.endpoint }}/${{ steps.deposition.outputs.deposition_id }}/files"
+      done
+
+  #################################
+  # 5) Publicação final (se habilitada)
+  #################################
+
+  - name: Publish deposition (only if enabled)
+    if: ${{ secrets.ZENODO_PUBLISH == 'true' }}
+    env:
+      TOKEN: ${{ secrets.ZENODO_ACCESS_TOKEN }}
+    run: |
+      curl -s \
+        -H "Authorization: Bearer $TOKEN" \
+        -X POST \
+        "${{ steps.api.outputs.endpoint }}/${{ steps.deposition.outputs.deposition_id }}/actions/publish"
+
+  ###############################
+  # 6) Output final com URL
+  ###############################
+
+  - name: Extract deposition URL
+    id: url
+    run: |
+      URL=$(jq -r '.links.html' zenodo-response.json)
+      echo "url=$URL" >> $GITHUB_OUTPUT
+      echo "Zenodo URL: $URL"
+
+  - name: Job complete
+    run: |
+      echo "Upload Zenodo PRO concluído."
+      echo "URL da versão: ${{ steps.url.outputs.url }}"
+```
