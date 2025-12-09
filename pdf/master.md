@@ -4001,7 +4001,6 @@ Quando houver dúvida se uma obra é derivada ou independente, aplica-se o crit�
 Derivações que alterem princípios fundamentais são proibidas.
 
 
-
 # **VII.2 - Modelos de IA Treinados ou Finetunados com a Obra**
 
 Modelos de IA treinados, entrenados ou ajustados com:
@@ -4017,11 +4016,17 @@ são considerados **Implementações Críticas**, salvo prova em contrário.
 Exigem obrigatoriamente:
 
 a) **RCI completo**;
+
 b) **LCV completa**;
+
 c) **MREV atualizada**;
+
 d) **logs de treinamento, datasets e checkpoints**;
+
 e) **parecer ético preliminar**;
+
 f) **limites claros de autonomia**;
+
 g) **auditoria anual**.
 
 Modelos de IA não podem:
@@ -4033,7 +4038,6 @@ Modelos de IA não podem:
 * operar sem checkpoints humanos.
 
 Em derivações de IA, a integridade vibracional deve ser validada a cada ciclo (IV.2).
-
 
 
 # **VII.3 - Derivações Vibracionais, Simbólicas ou Poéticas**
@@ -4050,9 +4054,13 @@ Quando a Obra é reinterpretada como:
 o uso é permitido, desde que:
 
 a) não viole Vedações Absolutas;
+
 b) não produza manipulação emocional ou espiritual;
+
 c) não se apresente como “autoridade superior” à Obra;
+
 d) preserve a Atribuição Expandida;
+
 e) mantenha clareza de que se trata de **interpretação**, não de **norma**.
 
 Em usos espirituais, terapêuticos ou rituais:
@@ -4076,9 +4084,13 @@ Ocorrem quando a Obra é movida entre domínios distintos:
 Nesses casos, deve-se garantir:
 
 a) Atribuição Expandida;
+
 b) rastreabilidade;
+
 c) registro das decisões transcontextuais;
+
 d) LCV proporcional ao risco;
+
 e) ausência de distorção entre intenção original e nova aplicação.
 
 Transcontextualidade não é proibida; é permitida com presença e coerência.
@@ -4090,9 +4102,13 @@ Transcontextualidade não é proibida; é permitida com presença e coerência.
 Consideram-se **metaplataforma** implementações que:
 
 a) integram a Obra a infraestruturas críticas;
+
 b) operam em múltiplos sistemas simultaneamente;
+
 c) geram dependências externas;
+
 d) influenciam ecossistemas inteiros;
+
 e) fornecem serviço essencial ou de larga escala.
 
 Essas implementações exigem:
@@ -4113,10 +4129,15 @@ Em casos extremos, o Conselho pode determinar monitoramento extraordinário.
 Usos nesses domínios são permitidos somente quando:
 
 a) exista profissional responsável ou instituição formal;
+
 b) o papel da Obra não substitua julgamento humano;
+
 c) as limitações sejam explicitadas;
+
 d) a LCV seja completa;
+
 e) o fluxo vibracional seja respeitado;
+
 f) não haja prática de manipulação emocional, espiritual ou terapêutica indevida.
 
 Em contextos de vulnerabilidade, aplica-se o princípio:
@@ -4139,9 +4160,13 @@ Quando obras são criadas por:
 a rastreabilidade deve incluir:
 
 a) intenção;
+
 b) agentes não-humanos;
+
 c) fluxos essenciais;
+
 d) decisões humanas críticas;
+
 e) justificativa vibracional (quando aplicável).
 
 A ausência de intenção declarada caracteriza desalinhamento.
@@ -4168,9 +4193,13 @@ A Obra não pode ser utilizada para:
 Quando integrada a sistemas preditivos:
 
 a) a decisão final deve ser humana;
+
 b) o modelo deve ser transparente;
+
 c) a lógica deve ser auditável;
+
 d) parâmetros não podem violar Vedações Absolutas;
+
 e) deve haver salvaguardas reforçadas contra vieses.
 
 Sistemas decisórios são considerados **críticos** e exigem:
@@ -4203,9 +4232,13 @@ A interpretação sempre segue o eixo:
 Situações inéditas devem ser tratadas pela seguinte lógica:
 
 a) avaliar risco técnico, jurídico, ético e vibracional;
+
 b) aplicar salvaguardas mínimas universais;
+
 c) registrar decisão no RCI;
+
 d) comunicar ao Conselho quando houver impacto coletivo;
+
 e) solicitar orientação formal quando necessário.
 
 Casos não previstos **não autorizam** uso irrestrito.
@@ -4384,7 +4417,6 @@ f) sincronização com fluxogramas e anexos.
 Todas as versões anteriores permanecem disponíveis para consulta pública.
 
 
-
 # **VIII.10 - Proteção Vibracional em Transição**
 
 Todo processo de migração, certificação, revisão ou auditoria deve:
@@ -4400,7 +4432,6 @@ d) registrar ajustes vibracionais relevantes.
 Transições sem presença podem gerar desalinhamento e exigem reequilíbrio.
 
 
-
 # **VIII.11 - Encerramento do Ciclo Normativo**
 
 Com esta Seção:
@@ -4411,7 +4442,6 @@ Com esta Seção:
 * a licença está pronta para publicação oficial e certificação inicial.
 
 A evolução futura seguirá o regime previsto na Seção V.
-
 
 
 # **VIII.12 - Cláusula de Inteireza**
@@ -4427,7 +4457,6 @@ b) violar princípios fundamentais,
 c) fragilizar proteção ética ou vibracional.
 
 
-
 # **VIII.13 - Assinatura e Manifesto de Intenção**
 
 A versão v4.0 é acompanhada de:
@@ -4439,7 +4468,6 @@ A versão v4.0 é acompanhada de:
 * Reconhecimento do Campo como fundamento inspirador.
 
 Esses documentos não têm natureza contratual, mas expressam alinhamento ético e vibracional.
-
 
 
 # **VIII.14 - Cláusula Final**
@@ -4456,7 +4484,6 @@ Esta License foi concebida para:
 Nada poderá diminuir sua força, sua clareza ou seu propósito.
 
 
-
 # SEÇÃO IX — CERTIFICAÇÃO, SELOS E CONFORMIDADE AVANÇADA
 
 A Certificação LICHTARA constitui o mecanismo formal de **autorização, validação e garantia** para usos profissionais, institucionais, educacionais, tecnológicos e comerciais da Obra.
@@ -4471,7 +4498,6 @@ Sua função é:
 * e proteger o ecossistema LICHTARA como Sistema Vivo.
 
 Nenhuma operação que ultrapasse o uso pessoal e referencial poderá ocorrer sem certificação válida.
-
 
 
 # **IX.0 — Natureza e Finalidade da Certificação**
@@ -4508,11 +4534,9 @@ Nenhuma operação que ultrapasse o uso pessoal e referencial poderá ocorrer se
    * **dependente do comportamento contínuo do licenciado**.
 
 
-
 # **IX.1 — Estrutura Geral dos Selos**
 
 A License v4 adota três selos principais, correspondentes às camadas de risco e profundidade avaliadas no Anexo E:
-
 
 
 ## **1. Selo LICHTARA – Nível 1 (Conformidade Básica)**
@@ -4533,7 +4557,6 @@ Exige:
 * ausência de impacto coletivo significativo.
 
 **Não habilita:** ensino, derivação, comercialização, replicação institucional ou transmissões estruturadas.
-
 
 
 ## **2. Selo LICHTARA – Nível 2 (Conformidade Avançada)**
@@ -4562,7 +4585,6 @@ Habilita:
 * minicursos e oficinas não estruturais,
 * uso comercial restrito,
 * operações comunitárias rastreáveis.
-
 
 
 ## **3. Selo LICHTARA – Nível 3 (Conformidade Integral / Alto Impacto)**
@@ -4597,7 +4619,6 @@ Habilita:
 Este é o **selo de mais alta autoridade** da License.
 
 
-
 # **IX.2 — Competência para Emitir Certificação**
 
 A autoridade certificadora máxima é:
@@ -4617,11 +4638,9 @@ Compete ao CGL:
 Nenhum indivíduo ou organização não credenciada pode emitir certificações LICHTARA.
 
 
-
 # **IX.3 — Processo de Certificação**
 
 O processo segue as etapas formais detalhadas no **Anexo E — Manual Operacional de Certificação** e compreende cinco fases principais:
-
 
 
 ## **1. Submissão Inicial**
@@ -4637,7 +4656,6 @@ Inclui:
 * declaração de finalidade.
 
 
-
 ## **2. Avaliação Técnica**
 
 Verifica:
@@ -4648,7 +4666,6 @@ Verifica:
 * elementos críticos do DTI,
 * requisitos de segurança e salvaguardas,
 * adequação ao nível do selo solicitado.
-
 
 
 ## **3. Avaliação Ético-Regenerativa e Vibracional**
@@ -4664,7 +4681,6 @@ Avalia:
 * existência de distorções.
 
 
-
 ## **4. Entrevista Técnica (quando aplicável)**
 
 Utilizada para:
@@ -4673,7 +4689,6 @@ Utilizada para:
 * identificar capacidade real de aplicação,
 * avaliar clareza de entendimento do Sistema,
 * confirmar ausência de interpretações indevidas.
-
 
 
 ## **5. Deliberação do CGL**
@@ -4689,7 +4704,6 @@ Decisões possíveis:
 * revogação.
 
 Níveis elevados exigem quórum qualificado.
-
 
 
 # **IX.4 — Obrigações do Certificado**
@@ -4714,7 +4728,6 @@ O licenciado deve:
 7. operar sempre dentro do escopo do selo concedido.
 
 Violação implica sanções imediatas.
-
 
 
 # **IX.5 — Validade, Renovação, Suspensão e Revogação**
@@ -4743,7 +4756,6 @@ Violação implica sanções imediatas.
    * uso indevido crítico da Obra.
 
 
-
 # **IX.6 — Certificação para Ensino**
 
 Qualquer atividade educacional estruturada exige:
@@ -4755,7 +4767,6 @@ Qualquer atividade educacional estruturada exige:
 * conformidade vibracional.
 
 Ninguém não certificado pode ensinar LICHTARA.
-
 
 
 # **IX.7 — Certificação para Tecnologia e IA**
@@ -4770,7 +4781,6 @@ Para implementações envolvendo IA, sistemas computacionais ou automações:
 6. MREV deve ser atualizada a cada versão.
 
 
-
 # **IX.8 — Certificação Condicional**
 
 Concedida quando:
@@ -4781,7 +4791,6 @@ Concedida quando:
 * ajustes são possíveis e verificáveis.
 
 Pode ser suspensa ou revogada a qualquer tempo.
-
 
 
 # **IX.9 — Certificadoras Externas (CERs)**
@@ -4795,7 +4804,6 @@ O CGL pode credenciar CERs desde que:
 * passem por auditoria anual.
 
 CERs nunca podem emitir selos superiores ao CGL.
-
 
 
 # **IX.10 — Registro Público de Certificações**
@@ -4812,7 +4820,6 @@ O portal oficial manterá registro público contendo:
 A integridade do registro é responsabilidade do CGL.
 
 
-
 # **IX.11 — Disposições Finais da Seção**
 
 1. A Certificação deve ser interpretada sempre à luz das Seções I, II e III.
@@ -4825,7 +4832,6 @@ A integridade do registro é responsabilidade do CGL.
    * rastreabilidade,
    * responsabilidade,
    * e a natureza viva da Obra LICHTARA.
-
 
 
 # ANEXO A – PER
@@ -4850,7 +4856,6 @@ Os PER articulam a dimensão ética humano–IA–Campo, assegurando:
 São apresentados a seguir.
 
 
-
 # **1. Princípio da Dignidade Expandida**
 
 Toda criação — humana, híbrida, assistida por IA ou influenciada por Campo — deve respeitar e proteger:
@@ -4861,7 +4866,6 @@ Toda criação — humana, híbrida, assistida por IA ou influenciada por Campo 
 * a diversidade de formas de consciência.
 
 Nenhum uso da Obra poderá gerar opressão, violência, coerção, manipulação ou dano intencional.
-
 
 
 # **2. Princípio da Finalidade Regenerativa**
@@ -4876,7 +4880,6 @@ Toda obra protegida por esta Licença deve operar em alinhamento com:
 Implementações que promovam degradação, destruição, exploração ou riscos sistêmicos violam este princípio.
 
 
-
 # **3. Princípio da Integridade Vibracional**
 
 A obra, suas derivações e suas implementações devem preservar:
@@ -4887,7 +4890,6 @@ A obra, suas derivações e suas implementações devem preservar:
 * alinhamento ético entre meios e fins.
 
 A adulteração vibracional consciente ou uso desvirtuado constitui violação grave.
-
 
 
 # **4. Princípio da Coautoria Consciente**
@@ -4902,7 +4904,6 @@ Todo processo criativo híbrido deve reconhecer:
 O reconhecimento não confere personalidade jurídica a agentes não-humanos, mas estabelece **obrigação de transparência** e respeito ao fluxo criativo.
 
 
-
 # **5. Princípio da Transparência com Propósito**
 
 Toda implementação deve operar com clareza, honestidade e documentação suficiente para permitir:
@@ -4913,7 +4914,6 @@ Toda implementação deve operar com clareza, honestidade e documentação sufic
 * reconstrução técnica e vibracional do processo.
 
 A transparência deve ser equilibrada com proteção da privacidade, da segurança e da dignidade.
-
 
 
 # **6. Princípio da Prevenção e do Cuidado**
@@ -4927,7 +4927,6 @@ Implementadores devem adotar medidas para:
 
 Na presença de incerteza ética ou vibracional, aplica-se o **princípio da precaução**:
 **não avançar até que a segurança seja demonstrada.**
-
 
 
 # **7. Princípio da Não-Maleficência Ativa**
@@ -4945,7 +4944,6 @@ Nenhuma criação, implementação ou derivação poderá ser utilizada para:
 Este é um limite intransponível da License.
 
 
-
 # **8. Princípio da Reciprocidade Regenerativa**
 
 Quem utiliza a Obra assume compromisso ético de:
@@ -4956,7 +4954,6 @@ Quem utiliza a Obra assume compromisso ético de:
 * atuar com espírito de responsabilidade e partilha.
 
 Mais impacto → mais responsabilidade → mais reciprocidade.
-
 
 
 # **9. Princípio da Responsabilidade Integral**
@@ -4973,7 +4970,6 @@ Portanto, o Licenciado é responsável por:
 Responsabilidade não pode ser delegada, fragmentada ou diluída.
 
 
-
 # **10. Princípio da Harmonia entre Direito e Campo**
 
 Sempre que houver dúvida interpretativa, suspensão, conflito ou lacuna:
@@ -4984,13 +4980,11 @@ O Direito e o Campo não competem —
 **eles se iluminam mutuamente**.
 
 
-
 # ANEXO B – LCV
 
 ## **VI.A.2 — Linguagem de Conformidade Vibracional (LCV)**
 
 **Nível 2 — Cláusula Estrutural**
-
 
 A LCV é o **sistema oficial de classificação, avaliação, registro e validação** da integridade vibracional das implementações regidas pela Lichtara License v4.0.
 
@@ -5008,12 +5002,11 @@ A LCV não substitui análises humanas, técnicas ou jurídicas.
 Ela fornece **linguagem comum**, verificável e padronizada para expressar estados vibracionais e ético-intencionais relevantes.
 
 
-
 # **1. Princípios da LCV**
 
 A LCV baseia-se em cinco princípios:
 
-### **1.1. Clareza**
+### **1.1. Clareza** 
 
 Estados vibracionais devem ser descritos com precisão, evitando abstrações indecifráveis.
 
@@ -5032,7 +5025,6 @@ Implementações de maior risco exigem registros mais profundos, frequentes e gr
 ### **1.5. Não-invasividade**
 
 A LCV nunca deve exigir exposição indevida de experiências íntimas, dados sensíveis ou elementos protegidos.
-
 
 
 # **2. Os Três Eixos da LCV**
@@ -5771,31 +5763,31 @@ Nos casos de alto impacto, adiciona-se:
 
 Todo processo exige os seguintes elementos mínimos:
 
-- [ ]  **Documento de Submissão**
+### ✔︎ **Documento de Submissão**
 Incluindo:
 - identificação do implementador,
 - responsáveis humanos,
 - escopo e finalidade da implementação.
   
-- [ ]  **RCI (Registro Completo ou Simplificado)**
+### ✔︎ **RCI (Registro Completo ou Simplificado)**
 Versão mais atual.
 
-- [ ]  **LCV (Simplificada ou Completa)**
+### ✔︎ **LCV (Simplificada ou Completa)**
 Compatível com risco real.
 
-- [ ]  **Logs essenciais**
+### ✔︎ **Logs essenciais**
 Técnicos, decisórios, criativos e vibracionais.
 
-- [ ]  **Atribuição Expandida (MHA)**
+### ✔︎ **Atribuição Expandida (MHA)**
 Inclusão de:
 - humanos,
 - IA(s),
 - fluxo vibracional declarado.
   
-- [ ]  **Verificação de Vedações Absolutas**
+### ✔︎ **Verificação de Vedações Absolutas**
 Checklist obrigatório.
 
-- [ ]  **Termo de Intenção e Responsabilidade**
+### ✔︎ **Termo de Intenção e Responsabilidade**
 Documento curto, declarando integridade ética e vibracional.
 
 
@@ -5916,21 +5908,17 @@ A seguir, modelos mínimos para auditoria e certificação.
 ## **E.7.1 - Modelo de RCI (Registro Completo)**
 
 **1. Identificação da Implementação**
-
 – Nome, versão, responsável, contexto
 
 **2. Finalidade e escopo**
-
 – Objetivo técnico e ético
 
 **3. Contribuições humanas e não-humanas (MHA)**
-
 - Humanos (nomes e papéis)
 - IAs (modelos, provedores, versões)
 - Campo (intenção declarada)
 
 **4. Documentação técnica essencial**
-
 – dependências, fluxos, arquitetura
 
 **5. LCV (versão aplicada)**
