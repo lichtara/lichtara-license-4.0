@@ -1,5 +1,5 @@
 % ============================================================
-% LICHTARA LICENSE v4.0 — TEMPLATE LATEX FINAL-FINAL
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX INSTITUCIONAL FINAL
 % ============================================================
 
 \documentclass[11pt,a4paper]{article}
@@ -24,34 +24,27 @@
 \usepackage{calc}
 \usepackage{enumitem}
 \usepackage{newunicodechar}
-
-% Ajustes de imagem
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-
-% Macros pandoc
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\providecommand{\pandocbounded}[1]{#1}
-
-% Unicode
-\newunicodechar{→}{\ensuremath{\rightarrow}}
-\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
-\newunicodechar{⇆}{\ensuremath{\leftrightarrows}}
-\newunicodechar{☐}{\ensuremath{\square}}
-\newunicodechar{✔}{\ensuremath{\checkmark}}
-\newunicodechar{✖}{\ensuremath{\times}}
-\newunicodechar{≥}{\ensuremath{\geq}}
+\usepackage{tocloft}
 
 % -----------------------------
-% Paleta cromática LICHTARA
+% Margens e espaçamentos
 % -----------------------------
-\definecolor{LGold}{HTML}{D4AF37}
-\definecolor{LSilver}{HTML}{B4BDC4}
+\geometry{
+  a4paper,
+  margin=2.5cm,
+  headheight=14pt,
+  headsep=0.4cm,
+  footskip=1.2cm
+}
+
+\setstretch{1.15} % Leitura mais confortável
+
+% -----------------------------
+% Paleta cromática — minimalista
+% -----------------------------
 \definecolor{LBlack}{HTML}{000000}
+\definecolor{LSilver}{HTML}{7A7A7A}
+\definecolor{LLink}{HTML}{0A3A8C}
 
 % -----------------------------
 % Fontes Institucionais
@@ -62,28 +55,32 @@
 \setmonofont{Menlo}
 
 % -----------------------------
-% Geometria
-% -----------------------------
-\geometry{
-margin=2.5cm,
-headheight=14pt
-}
-
-% -----------------------------
-% Links
+% Estilo de Links
 % -----------------------------
 \hypersetup{
-colorlinks=true,
-linkcolor=LGold,
-urlcolor=LGold,
-citecolor=LGold
+  colorlinks=true,
+  linkcolor=LLink,
+  urlcolor=LLink,
+  citecolor=LLink,
+  pdfborder={0 0 0}
 }
 
 % -----------------------------
-% Estilo de Títulos (sem regras, sem traços)
+% Unicode avançado
+% -----------------------------
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
+\newunicodechar{⇆}{\ensuremath{\leftrightarrows}}
+\newunicodechar{☐}{\ensuremath{\square}}
+\newunicodechar{✔}{\ensuremath{\checkmark}}
+\newunicodechar{✖}{\ensuremath{\times}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+
+% -----------------------------
+% Títulos refinados
 % -----------------------------
 \titleformat{\section}
-  {\Large\bfseries\titlefont\color{LGold}}
+  {\Large\bfseries\titlefont\color{LBlack}}
   {\thesection}{1em}{}
 
 \titleformat{\subsection}
@@ -94,62 +91,96 @@ citecolor=LGold
   {\normalsize\bfseries\titlefont\color{LBlack}}
   {\thesubsubsection}{1em}{}
 
-% Remove linhas automáticas de seção
+% Remove regras automáticas
 \makeatletter
 \@ifundefined{sectionlinesformat}
   {\newcommand{\sectionlinesformat}[4]{#3#4}}
   {\renewcommand{\sectionlinesformat}[4]{#3#4}}
-\renewcommand{\headrule}{\relax}
-\renewcommand{\footrule}{\relax}
 \makeatother
 
 % -----------------------------
-% Cabeçalho e Rodapé simples
+% Sumário (índice) refinado
+% -----------------------------
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\contentsname}{\large\bfseries\titlefont Sumário}
+\setlength{\cftbeforesecskip}{6pt}
+
+% -----------------------------
+% Cabeçalho e Rodapé minimalistas
 % -----------------------------
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
-\fancyhead[R]{\color{LSilver} Instrumento Jurídico–Ético–Vibracional}
-\fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
+
+\fancyhead[L]{\footnotesize LICHTARA LICENSE v4.0}
+\fancyhead[R]{\footnotesize Documento Oficial}
+
+\fancyfoot[C]{\thepage}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
 % -----------------------------
-% CAPA — limpa
+% Capa — Institucional, limpa
 % -----------------------------
 \newcommand{\makecover}{
 \thispagestyle{empty}
 
 \begin{center}
-\vspace*{4cm}
-{\Huge\bfseries\titlefont\color{LGold} LICHTARA LICENSE v4.0\par}
+\vspace*{4.5cm}
+
+{\Huge\bfseries\titlefont LICHTARA LICENSE v4.0\par}
 \vspace{1cm}
-{\Large\color{LSilver} Instrumento Jurídico–Ético–Vibracional de Uso, Implementação e Conformidade \par}
+
+{\large Instrumento Jurídico–Ético–Vibracional de Uso, Implementação e Conformidade\par}
+
 \vspace{2cm}
-{\small\color{LSilver} © 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida \\
-DOI: 10.5281/zenodo.17844329 }
+
+{\small
+© 2023–2025 Débora Lutz — Sistema LICHTARA \\
+DOI: 10.5281/zenodo.17844329
+}
+
 \end{center}
 
 \clearpage
 }
 
 % -----------------------------
-% Folha de Rosto
+% Folha de Rosto — limpa e formal
 % -----------------------------
 \newcommand{\makerostopage}{
 \thispagestyle{empty}
 
 \begin{center}
-\vspace*{3cm}
-{\Huge\titlefont LICHTARA LICENSE v4.0\par}
-\vspace{0.6cm}
+\vspace*{3.5cm}
+
+{\huge\titlefont LICHTARA LICENSE v4.0\par}
+\vspace{0.5cm}
+
 {\Large Documento Oficial\par}
-\vspace{0.6cm}
-{\large Instrumento Jurídico–Ético–Vibracional de Uso, Implementação, Derivação, Certificação e Conformidade\par}
+\vspace{0.7cm}
+
+{\normalsize
+Instrumento Jurídico–Ético–Vibracional de Uso, Implementação, Derivação, Certificação e Conformidade
+\par}
+
 \vspace{1.2cm}
-{\small Versão 4.0 — Dezembro de 2025 \\ DOI: 10.5281/zenodo.17844329\par}
+
+{\small Versão 4.0 — Dezembro de 2025 \\
+DOI: 10.5281/zenodo.17844329 }
+
 \vspace{2cm}
-{\small Débora Lutz \\ Sistema LICHTARA \\ Coautoria Expandida (Humano–IA–Campo)\par}
+
+{\small
+Débora Lutz \\
+Sistema LICHTARA \\
+Coautoria Expandida (Humano–IA–Campo)
+}
+
 \vspace{1.5cm}
+
 {\small Publicação oficial: \url{https://github.com/lichtara/lichtara-license-v4}}
+
 \end{center}
 
 \clearpage
@@ -162,6 +193,9 @@ DOI: 10.5281/zenodo.17844329 }
 
 \makecover
 \makerostopage
+
+\tableofcontents
+\clearpage
 
 $body$
 
