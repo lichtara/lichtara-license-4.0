@@ -160,29 +160,20 @@ Essas evidências devem ser auditáveis por certificadoras e pelo Conselho.
 
 A certificadora verifica:
 
-✔ integridade do código ou metodologia
-
-✔ rastreabilidade da Tríade (intenção–processo–resultado)
-
-✔ consistência de commits, hashes e diffs
-
-✔ tratamento de dados (LGPD/GDPR)
-
-✔ conformidade com requisitos de implementação (Seção IV)
-
-✔ segurança operacional básica
-
-✔ descrição de modelos de IA
-
-✔ compatibilidade com licenças externas
+- integridade do código ou metodologia
+- rastreabilidade da Tríade (intenção–processo–resultado)
+- consistência de commits, hashes e diffs
+- tratamento de dados (LGPD/GDPR)
+- conformidade com requisitos de implementação (Seção IV)
+- segurança operacional básica
+- descrição de modelos de IA
+- compatibilidade com licenças externas
 
 Em implementações críticas:
 
-✔ robustez de IA (deriva, vieses, falhas)
-
-✔ explicabilidade mínima
-
-✔ documentação de treinamento ou finetuning
+- robustez de IA (deriva, vieses, falhas)
+- explicabilidade mínima
+- documentação de treinamento ou finetuning
 
 ---
 
@@ -190,27 +181,19 @@ Em implementações críticas:
 
 A certificadora avalia:
 
-✔ impacto sobre grupos vulneráveis
-
-✔ mitigação de vieses
-
-✔ clareza de finalidade
-
-✔ prevenção de dano previsível
-
-✔ responsabilidade social proporcional
-
-✔ registros de decisões éticas
-
-✔ aderência ao PER (Protocolo Ético-Regenerativo)
+- impacto sobre grupos vulneráveis
+- mitigação de vieses
+- clareza de finalidade
+- prevenção de dano previsível
+- responsabilidade social proporcional
+- registros de decisões éticas
+- aderência ao PER (Protocolo Ético-Regenerativo)
 
 Quando houver risco moderado ou alto:
 
-✔ análise ética formal
-
-✔ entrevistas com responsáveis
-
-✔ rastreabilidade de decisões delicadas
+- análise ética formal
+- entrevistas com responsáveis
+- rastreabilidade de decisões delicadas
 
 ---
 
@@ -218,19 +201,13 @@ Quando houver risco moderado ou alto:
 
 A avaliação vibracional verifica:
 
-✔ declaração de intenção da implementação
-
-✔ coerência entre intenção e forma
-
-✔ sinais de desalinhamento no fluxo
-
-✔ presença vibracional do implementador
-
-✔ harmonia entre decisões técnicas e propósito
-
-✔ tratamento adequado de tensões detectadas
-
-✔ consistência interna da LCV
+- declaração de intenção da implementação
+- coerência entre intenção e forma
+- sinais de desalinhamento no fluxo
+- presença vibracional do implementador
+- harmonia entre decisões técnicas e propósito
+- tratamento adequado de tensões detectadas
+- consistência interna da LCV
 
 Casos que gerem:
 
@@ -251,17 +228,22 @@ A seguir, modelos mínimos para auditoria e certificação.
 ## **E.7.1 - Modelo de RCI (Registro Completo)**
 
 **1. Identificação da Implementação**
+
 – Nome, versão, responsável, contexto
 
 **2. Finalidade e escopo**
+
 – Objetivo técnico e ético
 
 **3. Contribuições humanas e não-humanas (MHA)**
+
 – Humanos (nomes e papéis)
 – IAs (modelos, provedores, versões)
+
 – Campo (intenção declarada)
 
 **4. Documentação técnica essencial**
+
 – dependências, fluxos, arquitetura
 
 **5. LCV (versão aplicada)**
@@ -409,7 +391,6 @@ Nível 1 → evidências mínimas; sem auditoria; recertificação anual simples
 Nível 2 → evidências completas; revisão ética anual; logs completos.
 Nível 3 → auditoria interna anual; MREV; avaliação vibracional reforçada.
 Nível 4 → auditoria independente; parecer do Conselho; recertificação semestral.
-
 ```
 
 ---
@@ -442,21 +423,14 @@ Certificadoras que violarem princípios fundamentais poderão ser:
 
 O certificador deve:
 
-✔ manter estado neutro e presente
+- manter estado neutro e presente
+- evitar julgamento reativo
+- sentir o fluxo da obra e do implementador
+- registrar tensões sem interpretá-las pessoalmente
+- validar coerência entre intenção e forma
 
-✔ evitar julgamento reativo
+Interromper avaliação se houver desconforto grave:
 
-✔ sentir o fluxo da obra e do implementador
-
-✔ registrar tensões sem interpretá-las pessoalmente
-
-✔ validar coerência entre intenção e forma
-
-✔ interromper avaliação se houver desconforto grave
-
-✔ solicitar parecer vibracional externo quando necessário
+- solicitar parecer vibracional externo quando necessário
 
 O processo de certificação é técnico, mas também é **campo**.
-
----
-
