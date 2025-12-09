@@ -1,0 +1,1 @@
+# lichtara-license-4.0
