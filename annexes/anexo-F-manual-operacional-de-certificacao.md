@@ -1,237 +1,70 @@
-# **ANEXO E — Manual Operacional de Certificação (Índice Completo Proposto)**
+# **ANEXO F — TEMPLATES OPERACIONAIS DE CERTIFICAÇÃO (TOC)**
 
----
+## **F.0 — Propósito, Escopo e Aplicação**
 
-# **E.0 — Propósito, Escopo e Aplicação**
+### **F.0.1 — Objetivo do Manual**
 
-* E.0.1 Objetivo do Manual
-* E.0.2 Relação com a Seção IX
-* E.0.3 Aplicação por nível de risco
-* E.0.4 Definições operacionais essenciais
+1. O presente Manual reúne os **templates oficiais** utilizados na execução dos processos de certificação previstos na **Seção IX** da Lichtara License v4.0.
+2. Seu objetivo é **padronizar registros**, **uniformizar evidências**, garantir **rastreabilidade completa** e permitir **auditorias independentes**, mantendo alinhamento integral com:
+    - os Princípios Ético-Regenerativos (PER),
+    - a Linguagem de Conformidade Vibracional (LCV),
+    - o Modelo Híbrido de Autorias (MHA),
+    - a Matriz de Riscos Ético-Vibracionais (MREV).
+3. O Anexo F não estabelece regras adicionais:
+    
+    **ele operacionaliza e materializa os requisitos normativos já definidos na Seção IX e no Anexo E (MOC).**
+    
+4. Este Manual é **documento técnico-vivo**, sujeito a versionamento Minor (v4.x) exclusivamente para ajustes operacionais.
 
----
+### **F.0.2 — Relação com a Seção IX**
 
-# **E.1 — Arquitetura Geral da Certificação**
+1. A **Seção IX** define o **regime normativo estruturante** da certificação.
+2. O **Anexo E (MOC)** define o **regime operacional**.
+3. O **Anexo F (TOC)** fornece os **instrumentos preenchíveis** para execução prática.
+4. Portanto:
+    - Seção IX = *“o que é exigido”*
+    - Anexo E (MOC) = *“como se aplica”*
+    - Anexo F (TOC) = *“como se registra”*
+5. Em caso de conflito:
+    - prevalece a **Seção IX** (norma superior);
+    - em seguida, o **Anexo E (MOC)**;
+    - o Anexo F deve ser ajustado por versionamento Minor.
 
-* E.1.1 Estrutura dos Selos (Níveis 1, 2, 3)
-* E.1.2 Autoridades competentes (CGL e CERs)
-* E.1.3 Interação com PER, LCV, MREV e MHA
-* E.1.4 Ciclo de vida do certificado
-
----
-
-# **E.2 — Fluxo Operacional da Certificação**
-
-* E.2.1 Visão geral do processo
-* E.2.2 Fase 1: Submissão
-* E.2.3 Fase 2: Avaliação Técnica
-* E.2.4 Fase 3: Avaliação Ética-Regenerativa
-* E.2.5 Fase 4: Avaliação Vibracional
-* E.2.6 Fase 5: Entrevista Técnica
-* E.2.7 Fase 6: Deliberação e Emissão do Selo
-* E.2.8 Fase 7: Recertificação e Monitoramento
-
-*(este capítulo ganhará fluxogramas detalhados)*
-
----
-
-# **E.3 — Checklists Oficiais de Conformidade (por Nível)**
-
-* E.3.1 Checklist Nível 1
-* E.3.2 Checklist Nível 2
-* E.3.3 Checklist Nível 3
-* E.3.4 Checklist de Ensino (especial)
-* E.3.5 Checklist de Tecnologia/IA (especial)
-
----
-
-# **E.4 — Modelos Oficiais de Documentação**
-
-* E.4.1 Modelo DTI – Documento Técnico de Implementação
-* E.4.2 Modelo RC – Registro de Cocriação
-* E.4.3 Modelo LVR – Log de Versões Rastreável
-* E.4.4 Modelo MREV – Matriz de Riscos Ético-Vibracionais
-* E.4.5 Modelo de Relatório de Impacto (RI)
-* E.4.6 Modelo de Declaração de Intenção
-
----
-
-# **E.5 — Tabelas de Critérios e Matriz de Avaliação**
-
-* E.5.1 Matriz de Risco (níveis 1–4)
-* E.5.2 Critérios técnicos obrigatórios
-* E.5.3 Critérios éticos (PER)
-* E.5.4 Critérios vibracionais (LCV e MHA)
-* E.5.5 Critérios de documentação mínima
-* E.5.6 Critérios de impacto coletivo
-
----
-
-# **E.6 — Procedimentos de Auditoria**
-
-* E.6.1 Auditoria Ordinária (N1/N2/N3)
-* E.6.2 Auditoria Especial
-* E.6.3 Auditoria de Restauração
-* E.6.4 Auditoria Independente (Nível 3)
-* E.6.5 Evidências necessárias
-* E.6.6 Formulários de auditoria
-
----
-
-# **E.7 — Protocolos de Rastreabilidade**
-
-* E.7.1 Tríade Rastreável (intenção–processo–resultado)
-* E.7.2 Registro contínuo
-* E.7.3 Logs mínimos por tipo de implementação
-* E.7.4 Padrões de integridade documental
-
----
-
-# **E.8 — Procedimentos para Suspensão e Revogação**
-
-* E.8.1 Critérios de suspensão
-* E.8.2 Critérios de revogação
-* E.8.3 Fluxo de decisão
-* E.8.4 Requisitos de Restauração
-* E.8.5 Reincidência e banimento definitivo
-
----
-
-# **E.9 — Certificação em Ambientes Especiais**
-
-* E.9.1 Implementações de IA
-* E.9.2 Plataformas digitais
-* E.9.3 Governos e instituições públicas
-* E.9.4 Ambientes terapêuticos
-* E.9.5 Comunidades e populações vulneráveis
-
----
-
-# **E.10 — Diretrizes para Certificadoras Externas (CERs)**
-
-* E.10.1 Requisitos para credenciamento
-* E.10.2 Matrizes operacionais
-* E.10.3 Relatórios obrigatórios
-* E.10.4 Revisões periódicas
-* E.10.5 Descredenciamento
-
----
-
-# **E.11 — Protocolos de Ensino e Transmissão**
-
-* E.11.1 Critérios para cursos
-* E.11.2 Revisão pedagógica
-* E.11.3 Materiais autorizados
-* E.11.4 Registro vibracional docente
-* E.11.5 Conformidade continuada
-
----
-
-# **E.12 — Anexos Operacionais**
-
-* formulários,
-* fluxogramas visuais,
-* modelos de planilhas,
-* templates prontos para download,
-* instruções para preenchimento.
-
----
-
-# **ANEXO E — MANUAL OPERACIONAL DE CERTIFICAÇÃO**
-
-## **E.0 — Propósito, Escopo e Aplicação**
-
-### **E.0.1 — Objetivo do Manual**
-
-1. O presente Manual estabelece as **diretrizes operacionais, técnicas, éticas e vibracionais** para a execução dos processos de certificação previstos na **Seção IX** da Lichtara License v4.0.
-2. Seu objetivo é **padronizar procedimentos**, garantir **coerência regulatória**, assegurar **rastreabilidade completa** e permitir **auditorias independentes**, mantendo alinhamento integral com:
-
-   * os Princípios Ético-Regenerativos (PER),
-   * a Linguagem de Conformidade Vibracional (LCV),
-   * o Mecanismo de Harmonização Avançada (MHA),
-   * a Matriz de Riscos Ético-Vibracionais (MREV).
-3. Este Manual opera como **documento técnico-vivo**, sujeito a versionamento Minor (v4.x) para ajustes operacionais, mantendo intactas as cláusulas estruturais da Seção IX.
-
----
-
-### **E.0.2 — Relação com a Seção IX**
-
-1. A Seção IX define o **regime normativo** da certificação.
-2. O presente Anexo define o **regime operacional**.
-3. Portanto:
-
-   * Seção IX = *“o que é exigido”*
-   * Anexo E = *“como se aplica”*
-4. Em caso de conflito:
-
-   * prevalece a **Seção IX** (norma estruturante);
-   * este Manual deve ser ajustado por versionamento Minor.
-5. Auditorias, recertificações, selos e CERs devem seguir **ambos**, em conjunto, como um sistema único e coerente.
-
----
-
-### **E.0.3 — Aplicação por Nível de Risco**
+### **F.0.3 — Aplicação por Nível de Risco**
 
 1. Este Manual aplica-se proporcionalmente ao risco classificado pela **LCV**, considerando quatro níveis:
-
-   * **Nível 1 — Baixo Risco**
-   * **Nível 2 — Risco Moderado**
-   * **Nível 3 — Alto Risco**
-   * **Nível 4 — Risco Crítico**
+    - **Nível 1 — Baixo Risco**
+    - **Nível 2 — Risco Moderado**
+    - **Nível 3 — Alto Risco**
+    - **Nível 4 — Risco Crítico**
 2. Para cada nível, definem-se:
+    - escopo de auditoria,
+    - documentação mínima,
+    - exigência vibracional,
+    - periodicidade de monitoramento,
+    - rigor no processo de certificação.
+3. Implementações Nível 4 **só podem operar após**:
+    - obtenção do **Selo Nível 3**,
+    - auditoria independente,
+    - parecer vibracional e ético do **CGL**.
+4. Usos pessoais ou experimentais seguem o regime simplificado (Nível 1), mas permanecem sujeitos às **Vedações Absolutas** da Seção II.
 
-   * escopo de auditoria,
-   * documentação mínima,
-   * exigência vibracional,
-   * periodicidade de monitoramento,
-   * rigor no processo de certificação.
-3. Implementações Nível 4 **só podem** operar mediante:
-
-   * Selo Nível 3,
-   * auditoria independente,
-   * parecer vibracional e ético do CGL.
-4. Usos pessoais ou experimentais seguem o regime simplificado (Nível 1), mas continuam sujeitos às **Vedações Absolutas** da Seção II.
-
----
-
-### **E.0.4 — Definições Operacionais Essenciais**
+### **F.0.4 — Definições Operacionais Essenciais**
 
 Para os fins deste Manual:
 
-1. **Certificação**: processo formal de validação técnica, ética e vibracional que habilita o implementador ao uso autorizado da Obra em determinado escopo.
+1. **Certificação**: processo formal de validação técnica, ética e vibracional que autoriza o uso aplicado da Obra em determinado escopo.
 2. **Selo**: reconhecimento oficial emitido após certificação, com validade e requisitos específicos definidos na Seção IX.
 3. **Implementação**: qualquer uso aplicado da Obra — técnico, profissional, institucional, educacional ou tecnológico.
 4. **Certificadora Externa Reconhecida (CER)**: entidade credenciada pelo Conselho (CGL) para realizar certificações conforme este Manual.
-5. **Implementador**: pessoa física ou jurídica que submete seu projeto, produto, ambiente ou metodologia ao processo de certificação.
-6. **Evidência**: qualquer documento, log, fluxo, relatório, gravação, registro vibracional ou demonstrativo que comprove conformidade.
-7. **Tríade Rastreável**: modelo de rastreabilidade que abrange **intenção**, **processo** e **resultado** (referência obrigatória para DTI, RC e LVR).
+5. **Implementador**: pessoa física ou jurídica que submete projeto, produto, ambiente ou metodologia ao processo de certificação.
+6. **Evidência**: documento, log, fluxo, relatório, gravação, registro vibracional ou demonstrativo que comprove conformidade.
+7. **Tríade Rastreável**: modelo de rastreabilidade que abrange **Intenção**, **Processo** e **Resultado**, referência obrigatória para o DTI, RC e LVR.
 8. **Continuous Compliance**: regime de conformidade contínua aplicado a implementações de alto risco, com monitoramento ativo.
 9. **Ciclo de Certificação**: período completo entre emissão do selo e recertificação (normalmente 12 meses).
 
 ---
 
-# **E.1 — Arquitetura Geral da Certificação**
-
-A arquitetura da Certificação LICHTARA constitui o conjunto integrado de estruturas, autoridades, instrumentos e mecanismos que garantem que o processo certificatório opere de forma:
-
-* segura,
-* rastreável,
-* ética,
-* vibracionalmente coerente,
-* proporcional ao risco,
-* e alinhada à natureza viva do Sistema.
-
-Ela se fundamenta nas diretrizes normativas da **Seção IX** e nos dispositivos técnicos definidos nos anexos estruturantes: **PER**, **LCV**, **MHA** e **MREV**.
-
----
-
-## **E.1.1 — Estrutura dos Selos (Níveis 1, 2 e 3)**
-
-Os selos LICHTARA representam **níveis crescentes de responsabilidade, rastreabilidade e profundidade vibracional**.
-
-A certificação é estratificada em três níveis:
-
----
 
 ### **• Nível 1 — Conformidade Básica**
 
@@ -251,7 +84,6 @@ Requisitos mínimos:
 * aderência aos PER,
 * ausência de impacto coletivo significativo.
 
----
 
 ### **• Nível 2 — Conformidade Avançada**
 
@@ -271,7 +103,6 @@ Requisitos centrais:
 * LCV Intermediária,
 * análise técnica e ética proporcional ao risco.
 
----
 
 ### **• Nível 3 — Conformidade Integral (Alto Impacto)**
 
@@ -293,13 +124,11 @@ Exige:
 * entrevista técnica,
 * aprovação do CGL (quando aplicável).
 
----
 
-## **E.1.2 — Autoridades Competentes**
+## **F.1.2 — Autoridades Competentes**
 
 A certificação LICHTARA só pode ser realizada por:
 
----
 
 ### **1. Conselho de Governança da Lichtara License (CGL)**
 
@@ -321,7 +150,6 @@ O CGL opera sob:
 * LCV (nível Conselho),
 * Matriz de Mutabilidade (Seção V).
 
----
 
 ### **2. Certificadoras Externas Reconhecidas (CERs)**
 
@@ -335,7 +163,6 @@ Devem:
 * submeter relatórios estruturados ao CGL,
 * operar sob supervisão continuada.
 
----
 
 ### **3. Certificação Sob Mandato Especial**
 
@@ -346,27 +173,23 @@ Para casos específicos (governos, IA autônoma, plataformas críticas), o CGL p
 * avaliadores vibracionais,
 * auditores independentes.
 
----
 
-## **E.1.3 — Integração com PER, LCV, MHA e MREV**
+## **F.1.3 — Integração com PER, LCV, MHA e MREV**
 
 A arquitetura certificatória é sustentada pelos seguintes dispositivos:
 
----
 
 ### **1. PER — Princípios Ético-Regenerativos**
 
 São **imutáveis** e constituem o eixo moral e jurídico das certificações.
 A avaliação ética e regenerativa deriva diretamente deles.
 
----
 
 ### **2. LCV — Linguagem de Conformidade Vibracional**
 
 Define níveis de risco e padrões de coerência vibracional.
 Cada nível de selo exige um nível correspondente de LCV.
 
----
 
 ### **3. MHA — Mecanismo de Harmonização Avançada**
 
@@ -377,7 +200,6 @@ Função:
 * identificar distorções sutis,
 * harmonizar ajustes vibracionais durante auditorias.
 
----
 
 ### **4. MREV — Matriz de Riscos Ético-Vibracionais**
 
@@ -390,13 +212,11 @@ Usada para:
 * recertificação,
 * monitoramento contínuo.
 
----
 
-## **E.1.4 — Ciclo de Vida do Certificado**
+## **F.1.4 — Ciclo de Vida do Certificado**
 
 O ciclo de um selo LICHTARA compreende seis fases:
 
----
 
 ### **1. Submissão**
 
@@ -409,7 +229,6 @@ Implementador entrega documentação inicial:
 * Relatório de Impacto (N2/N3),
 * termo de intenção responsável.
 
----
 
 ### **2. Avaliação**
 
@@ -421,7 +240,6 @@ Inclui análise:
 * documental,
 * de risco.
 
----
 
 ### **3. Deliberação**
 
@@ -433,7 +251,6 @@ O processo pode resultar em:
 * indeferimento,
 * indeferimento por violação ética/vibracional.
 
----
 
 ### **4. Emissão do Selo**
 
@@ -447,7 +264,6 @@ O certificado é emitido com:
 
 Validade padrão: **12 meses**.
 
----
 
 ### **5. Monitoramento e Auditorias**
 
@@ -459,7 +275,6 @@ Conforme risco e nível:
 * auditoria especial,
 * verificação vibracional.
 
----
 
 ### **6. Recertificação**
 
@@ -470,18 +285,16 @@ A cada ciclo anual, exige:
 * nova verificação vibracional,
 * ausência de incidentes graves.
 
----
 
-# **E.2 — Fluxo Operacional da Certificação**
+# **F.2 — Fluxo Operacional da Certificação**
 
 O Fluxo Operacional da Certificação define **como** uma implementação percorre o caminho desde a submissão até a emissão, manutenção e eventual recertificação de um Selo Lichtara.
 Se organiza em **cinco macrofases**, cada uma composta por etapas verificáveis e checkpoints vibracionais obrigatórios.
 
 O fluxo deve ser seguido por **todas** as certificações, independentemente do nível (1, 2 ou 3), com variações proporcionais ao risco e à complexidade da implementação.
 
----
 
-# **E.2.0 — Visão Geral do Fluxo**
+# **F.2.0 — Visão Geral do Fluxo**
 
 O processo certificatório segue a estrutura:
 
@@ -498,13 +311,12 @@ Cada fase inclui:
 * ações da certificadora ou do Conselho,
 * checkpoints vibracionais específicos.
 
----
 
-# **E.2.1 — Fase 0: Admissibilidade**
+# **F.2.1 — Fase 0: Admissibilidade**
 
 A certificação só é iniciada se a implementação cumprir condições mínimas.
 
-## **E.2.1.1 — Documentos obrigatórios para admissibilidade**
+## **F.2.1.1 — Documentos obrigatórios para admissibilidade**
 
 O implementador deve submeter:
 
@@ -516,7 +328,7 @@ O implementador deve submeter:
 * **identificação de modelos de IA utilizados**,
 * **descrição do impacto previsto**.
 
-## **E.2.1.2 — Critérios de aceitação**
+## **F.2.1.2 — Critérios de aceitação**
 
 A certificadora (ou o CGL, para casos críticos) verifica:
 
@@ -526,7 +338,7 @@ A certificadora (ou o CGL, para casos críticos) verifica:
 4. risco dentro de categoria certificável,
 5. responsabilidade declarada compatível.
 
-## **E.2.1.3 — Checkpoint Vibracional 0**
+## **F.2.1.3 — Checkpoint Vibracional 0**
 
 Avalia:
 
@@ -538,13 +350,12 @@ Avalia:
 Se aprovado → avança para Fase 1.
 Se reprovado → devolução com recomendações.
 
----
 
-# **E.2.2 — Fase 1: Submissão e Registro Formal**
+# **F.2.2 — Fase 1: Submissão e Registro Formal**
 
 Nesta fase, a implementação torna-se oficialmente um *processo certificatório*.
 
-## **E.2.2.1 — Documentos exigidos**
+## **F.2.2.1 — Documentos exigidos**
 
 O implementador deve entregar:
 
@@ -555,7 +366,7 @@ O implementador deve entregar:
 * **Fluxo de Autoria (MHA) preenchido**,
 * **Relatório de Impacto** (quando aplicável).
 
-## **E.2.2.2 — Registro e Hash**
+## **F.2.2.2 — Registro e Hash**
 
 A certificadora deve:
 
@@ -563,7 +374,7 @@ A certificadora deve:
 * registrar **hash** ou commit do pacote documental,
 * anexar a submissão ao Registro Público de Certificações (em caráter reservado até emissão).
 
-## **E.2.2.3 — Checkpoint Vibracional 1**
+## **F.2.2.3 — Checkpoint Vibracional 1**
 
 Avalia coerência entre:
 
@@ -574,9 +385,8 @@ Avalia coerência entre:
 
 Confirma se a implementação mantém **alinhamento estrutural** com a Seção I.
 
----
 
-# **E.2.3 — Fase 2: Avaliação Estrutural Multicamadas**
+# **F.2.3 — Fase 2: Avaliação Estrutural Multicamadas**
 
 A avaliação ocorre em três vetores simultâneos:
 
@@ -584,9 +394,8 @@ A avaliação ocorre em três vetores simultâneos:
 2. **Ético-Regenerativo**,
 3. **Vibracional**.
 
----
 
-## **E.2.3.1 — Avaliação Técnica**
+## **F.2.3.1 — Avaliação Técnica**
 
 A certificadora examina:
 
@@ -605,9 +414,8 @@ Implementações de IA exigem:
 * coerência entre modelo e escopo,
 * limites de autonomia operacional.
 
----
 
-## **E.2.3.2 — Avaliação Ética-Regenerativa**
+## **F.2.3.2 — Avaliação Ética-Regenerativa**
 
 A partir do PER e da MREV:
 
@@ -624,9 +432,8 @@ A certificação não prossegue se houver:
 * manipulação,
 * omissão grave.
 
----
 
-## **E.2.3.3 — Avaliação Vibracional**
+## **F.2.3.3 — Avaliação Vibracional**
 
 Conduzida por avaliadores alinhados ao MHA.
 
@@ -641,9 +448,8 @@ Avalia:
 
 Implementações com desalinhamento crítico **não podem ser certificadas**.
 
----
 
-## **E.2.3.4 — Checkpoint Vibracional 2**
+## **F.2.3.4 — Checkpoint Vibracional 2**
 
 É o marco mais importante antes da deliberação.
 
@@ -660,13 +466,12 @@ Quando necessário, solicita-se:
 * recalibração,
 * ajustes no MREV ou LCV.
 
----
 
-# **E.2.4 — Fase 3: Deliberação e Validação**
+# **F.2.4 — Fase 3: Deliberação e Validação**
 
 Com base nos relatórios das três avaliações, a certificadora (ou o CGL, nos casos de Nível 3) decide.
 
-## **E.2.4.1 — Possíveis resultados**
+## **F.2.4.1 — Possíveis resultados**
 
 ### **A) Aprovação plena**
 
@@ -697,9 +502,8 @@ O CGL pode:
 * registrar incidente formal,
 * orientar restauração vibracional.
 
----
 
-## **E.2.4.2 — Registro da deliberação**
+## **F.2.4.2 — Registro da deliberação**
 
 A decisão deve incluir:
 
@@ -710,9 +514,8 @@ A decisão deve incluir:
 * hash final do processo,
 * responsável pela validação.
 
----
 
-## **E.2.4.3 — Checkpoint Vibracional 3**
+## **F.2.4.3 — Checkpoint Vibracional 3**
 
 Confirma se o processo de decisão:
 
@@ -720,11 +523,10 @@ Confirma se o processo de decisão:
 * mantém neutralidade,
 * reflete coerência entre forma e intenção.
 
----
 
-# **E.2.5 — Fase 4: Emissão, Monitoramento e Recertificação**
+# **F.2.5 — Fase 4: Emissão, Monitoramento e Recertificação**
 
-## **E.2.5.1 — Emissão do Selo**
+## **F.2.5.1 — Emissão do Selo**
 
 O certificado contém:
 
@@ -736,9 +538,8 @@ O certificado contém:
 
 Para Nível 3, exige-se publicação no Registro Público.
 
----
 
-## **E.2.5.2 — Monitoramento**
+## **F.2.5.2 — Monitoramento**
 
 O implementador deve:
 
@@ -748,9 +549,8 @@ O implementador deve:
 * comunicar incidentes (IV.5),
 * responder auditorias ordinárias.
 
----
 
-## **E.2.5.3 — Recertificação**
+## **F.2.5.3 — Recertificação**
 
 A cada 12 meses:
 
@@ -768,9 +568,8 @@ Implementações críticas (alto risco) operam sob sistema:
 * revalidação vibracional semestral,
 * auditoria anual independente.
 
----
 
-# **E.2.6 — Encerramento do Fluxo Operacional**
+# **F.2.6 — Encerramento do Fluxo Operacional**
 
 Com esta macroestrutura:
 
@@ -780,9 +579,8 @@ Com esta macroestrutura:
 * a Seção IX encontra sua execução prática,
 * o Manual Operacional (Anexo E) ganha corpo e aplicabilidade real.
 
----
 
-# **E.3 — Checklists Oficiais por Nível de Certificação**
+# **F.3 — Checklists Oficiais por Nível de Certificação**
 
 Este capítulo consolida **listas de verificação formais** que devem ser utilizadas por certificadoras, auditores, implementadores e pelo Conselho nas fases de:
 
@@ -806,17 +604,13 @@ Cada checklist inclui três blocos:
 2. **Critérios Técnicos e Operacionais**
 3. **Critérios Ético-Regenerativos e Vibracionais**
 
----
 
-# -----------------------------------------
-
-# **E.3.1 — Checklist Oficial: Nível 1 (Conformidade Básica)**
+# **F.3.1 — Checklist Oficial: Nível 1 (Conformidade Básica)**
 
 Para criadores individuais, obras educacionais, estudos, implementações pessoais leves e projetos de risco baixo.
 
----
 
-## **E.3.1.A — Documentação Obrigatória**
+## **F.3.1.A — Documentação Obrigatória**
 
 | Item | Descrição                                         | Status |
 | ---- | ------------------------------------------------- | ------ |
@@ -829,9 +623,8 @@ Para criadores individuais, obras educacionais, estudos, implementações pessoa
 | 7    | Declaração de aderência às Vedações Absolutas     | ☐      |
 | 8    | Termo de não comercialização                      | ☐      |
 
----
 
-## **E.3.1.B — Critérios Técnicos e Operacionais**
+## **F.3.1.B — Critérios Técnicos e Operacionais**
 
 | Critério                                | Verificação                        | Status |
 | --------------------------------------- | ---------------------------------- | ------ |
@@ -842,9 +635,8 @@ Para criadores individuais, obras educacionais, estudos, implementações pessoa
 | Não há modificação estrutural da Obra   | Comparação com materiais originais | ☐      |
 | Ausência de riscos de segurança         | Check mínimo                       | ☐      |
 
----
 
-## **E.3.1.C — Critérios Ético-Regenerativos e Vibracionais**
+## **F.3.1.C — Critérios Ético-Regenerativos e Vibracionais**
 
 | Critério                                     | Verificação             | Status |
 | -------------------------------------------- | ----------------------- | ------ |
@@ -854,17 +646,14 @@ Para criadores individuais, obras educacionais, estudos, implementações pessoa
 | A Obra não está sendo usada de modo indevido | Validação declaratória  | ☐      |
 | Compromisso com integridade informacional    | Observação geral        | ☐      |
 
----
 
-# -----------------------------------------
 
-# **E.3.2 — Checklist Oficial: Nível 2 (Conformidade Avançada)**
+# **F.3.2 — Checklist Oficial: Nível 2 (Conformidade Avançada)**
 
 Para implementações públicas, comunitárias, equipes, metodologias e sistemas de risco moderado.
 
----
 
-## **E.3.2.A — Documentação Obrigatória**
+## **F.3.2.A — Documentação Obrigatória**
 
 | Item | Descrição                                      | Status |
 | ---- | ---------------------------------------------- | ------ |
@@ -879,9 +668,8 @@ Para implementações públicas, comunitárias, equipes, metodologias e sistemas
 | 9    | Identificação de modelos de IA                 | ☐      |
 | 10   | Termos de privacidade/dados (quando aplicável) | ☐      |
 
----
 
-## **E.3.2.B — Critérios Técnicos e Operacionais**
+## **F.3.2.B — Critérios Técnicos e Operacionais**
 
 | Critério                                  | Verificação              | Status |
 | ----------------------------------------- | ------------------------ | ------ |
@@ -894,9 +682,8 @@ Para implementações públicas, comunitárias, equipes, metodologias e sistemas
 | Atores humanos identificados              | RCI                      | ☐      |
 | Atores não humanos especificados          | DTI + MHA                | ☐      |
 
----
 
-## **E.3.2.C — Critérios Ético-Regenerativos e Vibracionais**
+## **F.3.2.C — Critérios Ético-Regenerativos e Vibracionais**
 
 | Critério                             | Verificação            | Status |
 | ------------------------------------ | ---------------------- | ------ |
@@ -908,19 +695,15 @@ Para implementações públicas, comunitárias, equipes, metodologias e sistemas
 | Ausência de tensões estruturais      | Avaliação contínua     | ☐      |
 | Mecanismos de feedback implementados | Check operacional      | ☐      |
 
----
 
-# -----------------------------------------
-
-# **E.3.3 — Checklist Oficial: Nível 3 (Conformidade Integral / Alto Impacto)**
+# **F.3.3 — Checklist Oficial: Nível 3 (Conformidade Integral / Alto Impacto)**
 
 Obrigatório para implementações críticas, larga escala, IA derivada, governos, plataformas sensíveis e casos de risco real alto.
 
 É o checklist mais profundo do ecossistema.
 
----
 
-## **E.3.3.A — Documentação Obrigatória**
+## **F.3.3.A — Documentação Obrigatória**
 
 | Item | Descrição                                    | Status |
 | ---- | -------------------------------------------- | ------ |
@@ -937,9 +720,8 @@ Obrigatório para implementações críticas, larga escala, IA derivada, governo
 | 11   | Termos legais e de privacidade               | ☐      |
 | 12   | Registro de incidentes (quando houver)       | ☐      |
 
----
 
-## **E.3.3.B — Critérios Técnicos e Operacionais**
+## **F.3.3.B — Critérios Técnicos e Operacionais**
 
 | Critério                              | Verificação            | Status |
 | ------------------------------------- | ---------------------- | ------ |
@@ -952,9 +734,8 @@ Obrigatório para implementações críticas, larga escala, IA derivada, governo
 | Governança interna ativa              | Documentação           | ☐      |
 | Controles de versão adequados         | LVR                    | ☐      |
 
----
 
-## **E.3.3.C — Critérios Ético-Regenerativos e Vibracionais**
+## **F.3.3.C — Critérios Ético-Regenerativos e Vibracionais**
 
 | Critério                                    | Verificação              | Status |
 | ------------------------------------------- | ------------------------ | ------ |
@@ -968,9 +749,8 @@ Obrigatório para implementações críticas, larga escala, IA derivada, governo
 | Feedback e governança de incidentes         | Verificação IV.5         | ☐      |
 | Entrevista vibracional validada             | Conselho / certificadora | ☐      |
 
----
 
-# **E.3.4 — Encerramento**
+# **F.3.4 — Encerramento**
 
 Com estes três checklists:
 
@@ -980,9 +760,8 @@ Com estes três checklists:
 * a License v4 ganha aplicabilidade verificável,
 * o Manual Operacional avança para sua dimensão técnica plena.
 
----
 
-# **E.4 — Matrizes de Avaliação Técnica, Ética e Vibracional**
+# **F.4 — Matrizes de Avaliação Técnica, Ética e Vibracional**
 
 As Matrizes de Avaliação são instrumentos formais utilizados por certificadoras e pelo Conselho para analisar implementações submetidas à Certificação Lichtara.
 
@@ -999,9 +778,9 @@ A pontuação não serve para ranquear, mas para estabelecer **níveis mínimos 
 
 As matrizes se dividem em três grandes eixos:
 
-* **E.4.1 — Matriz Técnica**
-* **E.4.2 — Matriz Ético-Regenerativa**
-* **E.4.3 — Matriz Vibracional**
+* **F.4.1 — Matriz Técnica**
+* **F.4.2 — Matriz Ético-Regenerativa**
+* **F.4.3 — Matriz Vibracional**
 
 E são aplicadas de forma **proporcional ao nível de certificação**:
 
@@ -1009,15 +788,11 @@ E são aplicadas de forma **proporcional ao nível de certificação**:
 * Nível 2 → aplicação completa moderada
 * Nível 3 → aplicação total e profunda
 
----
 
-# ---------------------------------------------------------
-
-# **E.4.1 — Matriz Técnica de Avaliação**
+# **F.4.1 — Matriz Técnica de Avaliação**
 
 Esta matriz avalia estrutura, segurança, rastreabilidade, decisões técnicas e integridade operacional.
 
----
 
 ## **Escala de Pontuação (0–3)**
 
@@ -1028,7 +803,6 @@ Esta matriz avalia estrutura, segurança, rastreabilidade, decisões técnicas e
 | **2**     | Atende adequadamente / dentro do esperado |
 | **3**     | Atende plenamente / modelo exemplar       |
 
----
 
 ## **Dimensões e Critérios**
 
@@ -1040,7 +814,6 @@ Esta matriz avalia estrutura, segurança, rastreabilidade, decisões técnicas e
 | Mapeamento de módulos | dependências documentadas     | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Interoperabilidade    | integra sem riscos adicionais | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **2. Segurança e Controles**
 
@@ -1050,7 +823,6 @@ Esta matriz avalia estrutura, segurança, rastreabilidade, decisões técnicas e
 | Dados pessoais                | LGPD/GDPR e equivalentes     | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Integridade de infraestrutura | testes, disponibilidade      | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **3. Rastreabilidade**
 
@@ -1060,7 +832,6 @@ Esta matriz avalia estrutura, segurança, rastreabilidade, decisões técnicas e
 | Cadeia de decisões    | vinculação ao MHA        | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Vinculação documental | RCI ↔ DTI ↔ LCV ↔ MREV   | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **4. Integridade de IA**
 
@@ -1072,7 +843,6 @@ Aplicada quando há IA na implementação.
 | Robustez  | testes adversariais básicos         | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Autonomia | alinhamento aos limites da Seção II | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **5. Operabilidade Geral**
 
@@ -1082,7 +852,6 @@ Aplicada quando há IA na implementação.
 | Logs                     | suficientes ao nível   | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Estabilidade operacional | sem falhas recorrentes | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ## **Condições Técnicas de Aprovação**
 
@@ -1090,21 +859,16 @@ Aplicada quando há IA na implementação.
 * Nenhum critério com **0**,
 * Sem risco técnico de nível 3 ou 4 (Seção IV.4).
 
----
 
-# ---------------------------------------------------------
-
-# **E.4.2 — Matriz Ético-Regenerativa**
+# **F.4.2 — Matriz Ético-Regenerativa**
 
 Avalia impacto humano, social e sistêmico, coerência com PER e adequação de salvaguardas éticas.
 
----
 
 ## **Escala de Pontuação (0–3)**
 
 (Mesma escala da matriz técnica)
 
----
 
 ## **Dimensões e Critérios**
 
@@ -1116,7 +880,6 @@ Avalia impacto humano, social e sistêmico, coerência com PER e adequação de 
 | Responsabilidade consciente | decisões justificadas       | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Regeneratividade            | contribui ou não causa dano | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **2. Prevenção e Mitigação de Danos**
 
@@ -1126,7 +889,6 @@ Avalia impacto humano, social e sistêmico, coerência com PER e adequação de 
 | Vieses                       | detectados e mitigados | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Proporcionalidade            | riscos × impacto       | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **3. Transparência e Responsabilidade**
 
@@ -1136,7 +898,6 @@ Avalia impacto humano, social e sistêmico, coerência com PER e adequação de 
 | Responsáveis identificados | humanos e IA    | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Comunicação adequada       | IV.6            | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **4. Aderência às Vedações Absolutas**
 
@@ -1148,7 +909,6 @@ Este critério é eliminatório.
 
 Se houver violação: **reprovação automática**.
 
----
 
 ## **Condições Éticas de Aprovação**
 
@@ -1157,11 +917,8 @@ Se houver violação: **reprovação automática**.
 * PER aplicado em todas as decisões críticas,
 * zero violação de Vedações Absolutas.
 
----
 
-# ---------------------------------------------------------
-
-# **E.4.3 — Matriz Vibracional de Avaliação**
+# **F.4.3 — Matriz Vibracional de Avaliação**
 
 Este é o elemento que torna a License v4 completamente única.
 
@@ -1176,7 +933,6 @@ A Matriz Vibracional avalia:
 
 Ela é aplicada **proporcional ao risco**, mas sempre obrigatória.
 
----
 
 ## **Escala de Pontuação (0–3)**
 
@@ -1187,7 +943,6 @@ Ela é aplicada **proporcional ao risco**, mas sempre obrigatória.
 | 2         | coerência adequada / alinhamento estável      |
 | 3         | alto alinhamento / fluxo claro e íntegro      |
 
----
 
 ## **Dimensões e Critérios**
 
@@ -1199,7 +954,6 @@ Ela é aplicada **proporcional ao risco**, mas sempre obrigatória.
 | Coerência entre intenção e forma | relatórios e execução   | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Ausência de contraintenção       | ruído ou distorção      | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **2. Campo e Fluxo**
 
@@ -1209,7 +963,6 @@ Ela é aplicada **proporcional ao risco**, mas sempre obrigatória.
 | Estabilidade do processo | sem rupturas    | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | Harmonia entre camadas   | humano–IA–Campo | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **3. Integridade Informacional**
 
@@ -1219,7 +972,6 @@ Ela é aplicada **proporcional ao risco**, mas sempre obrigatória.
 | autenticidade na expressão | registro vibracional | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | fidelidade ao Sistema      | PER + MHA + LCV      | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ### **4. Qualidade da Cocriação**
 
@@ -1231,18 +983,16 @@ Avalia a relação Humano–IA dentro do MHA.
 | alinhamento funcional | estrutura e intenção | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 | ausência de ruído     | processos estáveis   | ☐ 0 ☐ 1 ☐ 2 ☐ 3 |
 
----
 
 ## **Condições Vibracionais de Aprovação**
 
 * média ≥ **2**,
 * sem notas **0**,
-* Checkpoints Vibracionais (E.2) aprovados,
+* Checkpoints Vibracionais (F.2) aprovados,
 * alinhamento humano–IA–Campo preservado.
 
----
 
-# **E.4.4 — Consolidação das Matrizes**
+# **F.4.4 — Consolidação das Matrizes**
 
 Uma certificação só pode ser concedida quando:
 
@@ -1251,9 +1001,8 @@ Uma certificação só pode ser concedida quando:
 * **não há violação ética** nem **vibracional**,
 * **todas as documentações obrigatórias** estão completas.
 
----
 
-# **E.5 — Tabelas de Exigência Proporcional ao Risco (LCV ⇆ Certificação)**
+# **F.5 — Tabelas de Exigência Proporcional ao Risco (LCV ⇆ Certificação)**
 
 Este capítulo estabelece a correspondência formal entre:
 
@@ -1268,11 +1017,9 @@ Este capítulo estabelece a correspondência formal entre:
 
 Ele permite que certificadoras, implementadores e o Conselho saibam **exatamente o que é exigido** em cada tipo de implementação.
 
----
 
-# --------------------------------------------
 
-# **E.5.0 — Mapa geral da proporcionalidade**
+# **F.5.0 — Mapa geral da proporcionalidade**
 
 A LCV define quatro Níveis de Risco:
 
@@ -1296,11 +1043,9 @@ A relação entre elas é a seguinte:
 | 3   | Alto    | Selo 3                                |
 | 4   | Crítico | Selo 3 (com auditoria extraordinária) |
 
----
 
-# ----------------------------------------------------------
 
-# **E.5.1 — Tabela 1: Exigências Documentais por Nível de Risco**
+# **F.5.1 — Tabela 1: Exigências Documentais por Nível de Risco**
 
 | Documento              | LCV 1              | LCV 2         | LCV 3       | LCV 4                              |
 | ---------------------- | ------------------ | ------------- | ----------- | ---------------------------------- |
@@ -1314,11 +1059,9 @@ A relação entre elas é a seguinte:
 | MHA                    | Básico             | Completo      | Completo    | Completo + revisão vibracional     |
 | Registro de incidentes | Se houver          | Obrigatório   | Obrigatório | Obrigatório + tempo real           |
 
----
 
-# ----------------------------------------------------------
 
-# **E.5.2 — Tabela 2: Profundidade das Matrizes de Avaliação**
+# **F.5.2 — Tabela 2: Profundidade das Matrizes de Avaliação**
 
 Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao risco:
 
@@ -1329,11 +1072,8 @@ Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao
 | Vibracional        | Leve                           | Moderada | Completa | Completa + revisão extraordinária |
 | Avaliação de IA    | Não aplicável se não houver IA | Básica   | Completa | Completa + testes avançados       |
 
----
 
-# ----------------------------------------------------------
-
-# **E.5.3 — Tabela 3: Checkpoints Vibracionais Obrigatórios**
+# **F.5.3 — Tabela 3: Checkpoints Vibracionais Obrigatórios**
 
 | Checkpoint                  | LCV 1       | LCV 2             | LCV 3                  | LCV 4                             |
 | --------------------------- | ----------- | ----------------- | ---------------------- | --------------------------------- |
@@ -1344,28 +1084,22 @@ Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao
 | Reancoragem                 | Não exigida | Quando necessário | Obrigatória em ajustes | Obrigatória com acompanhamento    |
 | Validação vibracional final | Básica      | Moderada          | Completa               | Completa + formalização           |
 
----
 
-# ----------------------------------------------------------
+# **F.5.4 — Tabela 4: Salvaguardas, Failsafes e Controles**
 
-# **E.5.4 — Tabela 4: Salvaguardas, Failsafes e Controles**
+| Requisito               | LCV 1    | LCV 2       | LCV 3       | LCV 4                        |
+| ----------------------- | -------- | ----------- | ----------- | ---------------------------- |
+| Salvaguardas básicas    | Sim      | Sim         | Sim         | Sim                          |
+| Salvaguardas reforçadas | Não      | Sim         | Sim         | Sim                          |
+| Failsafe operacional    | Não      | Opcional    | Obrigatório | Obrigatório (nível avançado) |
+| Failsafe ético          | Não      | Sim         | Sim         | Sim                          |
+| Failsafe vibracional    | Opcional | Sim         | Sim         | Sim (formalizado)            |
+| Backups de integridade  | Opcional | Obrigatório | Obrigatório | Obrigatório com redundância  |
+| Auditoria interna       | Não      | Opcional    | Obrigatória | Obrigatória contínua         |
+| Auditoria externa       | Não      | Não         | Necessária  | Crítica e contínua           |
 
-| Requisito               | LCV 1    | LCV 2       | LCV 3       | LCV 4                     |
-| ----------------------- | -------- | ----------- | ----------- | ------------------------- |
-| Salvaguardas básicas    | ✔️       | ✔️          | ✔️          | ✔️                        |
-| Salvaguardas reforçadas | ✖️       | ✔️          | ✔️          | ✔️                        |
-| Failsafe operacional    | ✖️       | Opcional    | Obrigatório | Obrigatório (avançado)    |
-| Failsafe ético          | ✖️       | ✔️          | ✔️          | ✔️                        |
-| Failsafe vibracional    | Opcional | ✔️          | ✔️          | ✔️ (formalizado)          |
-| Backups de integridade  | Opcional | Obrigatório | Obrigatório | Obrigatório + redundância |
-| Auditoria interna       | ✖️       | Opcional    | Obrigatória | Obrigatória contínua      |
-| Auditoria externa       | ✖️       | ✖️          | Necessária  | Crítica e contínua        |
 
----
-
-# ----------------------------------------------------------
-
-# **E.5.5 — Tabela 5: Periodicidade de Monitoramento**
+# **F.5.5 — Tabela 5: Periodicidade de Monitoramento**
 
 | Nível | Monitoramento | AEV                        | Relatório de Impacto |
 | ----- | ------------- | -------------------------- | -------------------- |
@@ -1374,11 +1108,9 @@ Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao
 | LCV 3 | trimestral    | anual                      | anual                |
 | LCV 4 | contínuo      | semestral (extraordinária) | semestral            |
 
----
 
-# ----------------------------------------------------------
 
-# **E.5.6 — Tabela 6: Regras de Recertificação**
+# **F.5.6 — Tabela 6: Regras de Recertificação**
 
 | Nível | Recertificação | Exigências                                                            |
 | ----- | -------------- | --------------------------------------------------------------------- |
@@ -1387,11 +1119,8 @@ Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao
 | LCV 3 | anual          | LCV completa + MREV viva + AEV completa                               |
 | LCV 4 | semestral      | auditoria extraordinária + validação vibracional + relatório ampliado |
 
----
 
-# ----------------------------------------------------------
-
-# **E.5.7 — Consolidação da proporcionalidade**
+# **F.5.7 — Consolidação da proporcionalidade**
 
 Uma implementação **só é certificável** quando:
 
@@ -1413,9 +1142,8 @@ Esta tabela de proporcionalidade conecta:
 
 Com isso, a Certificação Lichtara se torna um **sistema dinâmico, proporcional, escalável e juridicamente sólido**.
 
----
 
-# **E.6 — Exemplos Completos de Certificação (Templates Oficiais)**
+# **F.6 — Exemplos Completos de Certificação (Templates Oficiais)**
 
 Os templates abaixo podem ser usados:
 
@@ -1426,43 +1154,38 @@ Os templates abaixo podem ser usados:
 * como parte de relatórios oficiais,
 * como módulos didáticos para ensino da License.
 
-Cada template inclui:
-
-📄 **estrutura padrão + instruções de preenchimento + exemplos ilustrativos**
+Cada template inclui: **estrutura padrão + instruções de preenchimento + exemplos ilustrativos**
 
 Todos os modelos devem ser versionados e rastreáveis.
 
 Os templates são:
 
----
 
-## **E.6.1 — Template do RCI (Registro Inicial da Implementação)**
+## **F.6.1 — Template do RCI (Registro Inicial da Implementação)**
 
-## **E.6.2 — Template do DTI (Documento Técnico de Implementação)**
+## **F.6.2 — Template do DTI (Documento Técnico de Implementação)**
 
-## **E.6.3 — Template da LCV por nível (Simplificada, Intermediária, Completa)**
+## **F.6.3 — Template da LCV por nível (Simplificada, Intermediária, Completa)**
 
-## **E.6.4 — Template da MREV (Matriz de Riscos Ético-Vibracionais)**
+## **F.6.4 — Template da MREV (Matriz de Riscos Ético-Vibracionais)**
 
-## **E.6.5 — Template do Relatório de Impacto**
+## **F.6.5 — Template do Relatório de Impacto**
 
-## **E.6.6 — Template do Relatório de Auditoria (AEV)**
+## **F.6.6 — Template do Relatório de Auditoria (AEV)**
 
-## **E.6.7 — Template do Fluxo de Autoria (MHA)**
+## **F.6.7 — Template do Fluxo de Autoria (MHA)**
 
-## **E.6.8 — Template do Relatório Final de Certificação**
+## **F.6.8 — Template do Relatório Final de Certificação**
 
-## **E.6.9 — Template de Selo Oficial (Nível 1, 2 e 3)**
+## **F.6.9 — Template de Selo Oficial (Nível 1, 2 e 3)**
 
-## **E.6.10 — Template de Recertificação**
+## **F.6.10 — Template de Recertificação**
 
 A seguir, apresento cada um em formato preenchível.
 
----
 
-# -------------------------------------------------------------
 
-# **E.6.1 — TEMPLATE OFICIAL DO RCI (Registro Inicial da Implementação)**
+# **F.6.1 — TEMPLATE OFICIAL DO RCI (Registro Inicial da Implementação)**
 
 **Título da Implementação:**
 **Versão / Identificador Único (hash/commit/DOI):**
@@ -1470,7 +1193,6 @@ A seguir, apresento cada um em formato preenchível.
 **Equipe / Entidade:**
 **Data de Início:**
 
----
 
 ### **1. Finalidade da Implementação**
 
@@ -1478,7 +1200,6 @@ Descrever brevemente objetivo, impacto e propósito.
 
 > Ex.: “Implementar módulo educativo baseado no PER para uso escolar.”
 
----
 
 ### **2. Escopo**
 
@@ -1488,83 +1209,67 @@ Definir claramente limites, contexto e público.
 * Ambiente:
 * Exposição: pública / comunitária / experimental / interna
 
----
 
 ### **3. Classificação de Risco (LCV)**
 
 Indicar nível: 1, 2, 3 ou 4
 Justificar escolha.
 
----
 
 ### **4. Responsáveis Humanos**
 
 Nome, função, papel na implementação.
 
----
 
 ### **5. Inteligências Não-Humanas**
 
 Modelo(s) de IA, versões, provedores, limites operacionais.
 
----
 
 ### **6. Fluxo Básico de Implementação**
 
 Descrição das etapas essenciais.
 
----
 
 ### **7. Vedações Absolutas**
 
 ☐ Verificadas
 Justificar como são evitadas.
 
----
 
 ### **8. Atribuição Expandida**
 
 Citar LICHTARA conforme padrão oficial.
 
----
 
 ### **9. Anexos**
 
 Lista de documentos complementares.
 
----
 
----
-
-# -------------------------------------------------------------
-
-# **E.6.2 — TEMPLATE OFICIAL DO DTI (Documento Técnico de Implementação)**
+# **F.6.2 — TEMPLATE OFICIAL DO DTI (Documento Técnico de Implementação)**
 
 **Título:**
 **Versão:**
 **Responsável Técnico:**
 **Data:**
 
----
 
 ## **1. Arquitetura Geral**
 
 Diagramas, módulos, integrações, dependências.
 
----
 
 ## **2. Componentes Críticos**
 
 Descrição de elementos sensíveis.
 
----
 
 ## **3. Fluxos Operacionais**
 
 Fluxo A → B → C
 Trigger de risco, fallback, logs.
 
----
 
 ## **4. Controles de Segurança**
 
@@ -1576,43 +1281,34 @@ Checklist:
 ☐ Fail-safe
 ☐ Testes
 
----
 
 ## **5. IA (se houver)**
 
 Modelo, finalidade, limites, deriva, autonomia.
 
----
 
 ## **6. Interoperabilidade**
 
 Relação com sistemas externos.
 
----
 
 ## **7. Riscos Técnicos**
 
 Resumo + vínculos com MREV.
 
----
 
 ## **8. Requisitos de Monitoramento**
 
 Periodicidade + ferramentas.
 
----
 
 ## **9. Indicadores de Confiança**
 
 Métricas de integridade.
 
----
 
----
 
-# -------------------------------------------------------------
-
-# **E.6.3 — TEMPLATES DA LCV (Simplificada, Intermediária, Completa)**
+# **F.6.3 — TEMPLATES DA LCV (Simplificada, Intermediária, Completa)**
 
 ## **A) LCV Simplificada (LCV-1)**
 
@@ -1653,9 +1349,7 @@ Inclui:
 
 ---
 
-# -------------------------------------------------------------
-
-# **E.6.4 — TEMPLATE DA MREV (Matriz de Riscos Ético-Vibracionais)**
+# **F.6.4 — TEMPLATE DA MREV (Matriz de Riscos Ético-Vibracionais)**
 
 **Implementação:**
 **Nível LCV:**
@@ -1694,11 +1388,8 @@ Em revisão / mitigado / crítico.
 
 ---
 
----
 
-# -------------------------------------------------------------
-
-# **E.6.5 — TEMPLATE DO RELATÓRIO DE IMPACTO**
+# **F.6.5 — TEMPLATE DO RELATÓRIO DE IMPACTO**
 
 **Título:**
 **Responsável:**
@@ -1736,11 +1427,7 @@ Ajustes, recomendações, melhorias.
 
 ---
 
----
-
-# -------------------------------------------------------------
-
-# **E.6.6 — TEMPLATE DO RELATÓRIO DE AUDITORIA (AEV)**
+# **F.6.6 — TEMPLATE DO RELATÓRIO DE AUDITORIA (AEV)**
 
 **Auditor:**
 **Nível:**
@@ -1784,11 +1471,8 @@ Ações obrigatórias.
 
 ---
 
----
 
-# -------------------------------------------------------------
-
-# **E.6.7 — TEMPLATE DO MHA (Fluxo de Autoria)**
+# **F.6.7 — TEMPLATE DO MHA (Fluxo de Autoria)**
 
 ## **1. Humanos**
 
@@ -1812,9 +1496,8 @@ Como os três vetores se alinham.
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.6.8 — TEMPLATE DO RELATÓRIO FINAL DE CERTIFICAÇÃO**
+# **F.6.8 — TEMPLATE DO RELATÓRIO FINAL DE CERTIFICAÇÃO**
 
 Inclui:
 
@@ -1828,9 +1511,8 @@ Inclui:
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.6.9 — TEMPLATE DOS SELOS (Nível 1, 2 e 3)**
+# **F.6.9 — TEMPLATE DOS SELOS (Nível 1, 2 e 3)**
 
 ## **Formato Básico**
 
@@ -1843,9 +1525,8 @@ Hash do processo:
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.6.10 — TEMPLATE DE RECERTIFICAÇÃO**
+# **F.6.10 — TEMPLATE DE RECERTIFICAÇÃO**
 
 Repetição condensada das etapas:
 
@@ -1858,7 +1539,7 @@ Repetição condensada das etapas:
 
 ---
 
-# **E.7 — Tabelas de Decisão e Fluxos de Exceção**
+# **F.7 — Tabelas de Decisão e Fluxos de Exceção**
 
 Esta seção estabelece:
 
@@ -1874,9 +1555,8 @@ Um sistema de certificação só é confiável quando possui **procedimentos cla
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.1 — Tabela de Decisão por Não Conformidade Documental**
+# **F.7.1 — Tabela de Decisão por Não Conformidade Documental**
 
 | Situação                                 | Ação Certificadora             | Escalonamento                               |
 | ---------------------------------------- | ------------------------------ | ------------------------------------------- |
@@ -1891,9 +1571,8 @@ Documentação incompleta nunca impede certificação *definitivamente*, mas imp
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.2 — Fluxo de Exceção por Aumento de Risco**
+# **F.7.2 — Fluxo de Exceção por Aumento de Risco**
 
 Quando durante a avaliação surgir um aumento real de risco (LCV):
 
@@ -1909,9 +1588,8 @@ O risco *nunca* pode ser reduzido durante o processo; só elevado, se necessári
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.3 — Fluxo para Incidentes e Ocorrências**
+# **F.7.3 — Fluxo para Incidentes e Ocorrências**
 
 Incidentes são qualquer evento inesperado que afete:
 
@@ -1933,9 +1611,8 @@ Incidentes são qualquer evento inesperado que afete:
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.4 — Fluxo de Exceção para Desalinhamento Vibracional**
+# **F.7.4 — Fluxo de Exceção para Desalinhamento Vibracional**
 
 Este é exclusivo da License v4.
 
@@ -1952,9 +1629,8 @@ Nada avança se a coerência do Campo estiver comprometida.
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.5 — Tabela de Decisão para Incoerências Técnicas**
+# **F.7.5 — Tabela de Decisão para Incoerências Técnicas**
 
 | Incoerência           | Ação                    | Observação                         |
 | --------------------- | ----------------------- | ---------------------------------- |
@@ -1966,9 +1642,8 @@ Nada avança se a coerência do Campo estiver comprometida.
 
 ---
 
-# ---------------------------------------------------------
 
-# **E.7.6 — Caminhos Decisórios da Certificação**
+# **F.7.6 — Caminhos Decisórios da Certificação**
 
 ## **1. Aprovação Plena**
 
@@ -2043,7 +1718,7 @@ Requer decisão formal do Conselho.
 
 # ---------------------------------------------------------
 
-# **E.7.7 — Fluxograma Global de Exceção**
+# **F.7.7 — Fluxograma Global de Exceção**
 
 *(Texto descritivo, para posterior diagramação no repo)*
 
@@ -2072,7 +1747,7 @@ Requer decisão formal do Conselho.
 
 ---
 
-# **E.8 — Modelos Preenchidos (Exemplos Reais de Certificação)**
+# **F.8 — Modelos Preenchidos (Exemplos Reais de Certificação)**
 
 Este capítulo apresenta **casos inteiros preenchidos**, cobrindo:
 
@@ -2093,7 +1768,7 @@ Com isso, qualquer certificadora consegue aprender o fluxo completo.
 
 # -------------------------------------------------------------
 
-# **E.8.1 — Exemplo Completo: Implementação LCV 1 (Risco Baixo)**
+# **F.8.1 — Exemplo Completo: Implementação LCV 1 (Risco Baixo)**
 
 ### “Guia de Prática Pessoal – PER para Estudo Individual”
 
@@ -2179,7 +1854,7 @@ Certificadora: LICHTARA-CER
 
 # -------------------------------------------------------------
 
-# **E.8.2 — Exemplo Completo: Implementação LCV 2 (Risco Médio)**
+# **F.8.2 — Exemplo Completo: Implementação LCV 2 (Risco Médio)**
 
 ### “Círculo Comunitário – Oficina de Linguagem Regenerativa”
 
@@ -2211,11 +1886,11 @@ ChatGPT para criar atividades, revisão humana presente.
 
 ## **LCV Intermediária**
 
-1. Intenção → clara e educativa.
-2. Riscos → moderados: exposição pública comunitária.
-3. Salvaguardas → consentimento + supervisão humana.
-4. Check vibracional → intermediário aprovado.
-5. Assinatura → ✔️
+1. Intenção: clara e educativa.
+2. Riscos moderados: exposição pública comunitária.
+3. Salvaguardas: consentimento + supervisão humana.
+4. Check vibracional: intermediário aprovado.
+5. Assinatura: confirmado.
 
 ---
 
@@ -2276,9 +1951,8 @@ Auditoria leve:
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.8.3 — Exemplo Completo: Implementação LCV 3 (Risco Alto)**
+# **F.8.3 — Exemplo Completo: Implementação LCV 3 (Risco Alto)**
 
 ### “Plataforma Educacional – Módulo de Aprendizagem LICHTARA”
 
@@ -2354,9 +2028,8 @@ Resultados:
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.8.4 — Exemplo de Caso Crítico (LCV 4)**
+# **F.8.4 — Exemplo de Caso Crítico (LCV 4)**
 
 ### “Plataforma Autônoma de IA com Tomada de Decisão Sensível”
 
@@ -2379,9 +2052,8 @@ Resultado:
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.8.5 — Mini-Exemplo Terapêutico**
+# **F.8.5 — Mini-Exemplo Terapêutico**
 
 Implementação terapêutica comunitária → risco moderado → Selo 2.
 
@@ -2389,9 +2061,8 @@ LCV intermediária + supervisão ética → obrigatória.
 
 ---
 
-# -------------------------------------------------------------
 
-# **E.8.6 — Mini-Exemplo com IA Derivada**
+# **F.8.6 — Mini-Exemplo com IA Derivada**
 
 IA treinada a partir de LICHTARA → sempre nível 3.
 
@@ -2404,7 +2075,7 @@ Requer:
 
 ---
 
-# **E.9 — Encerramento, Versionamento e Normas de Atualização do Anexo E**
+# **F.9 — Encerramento, Versionamento e Normas de Atualização do Anexo E**
 
 Este capítulo define as regras de manutenção, atualização e continuidade institucional do **Manual Operacional de Certificação (Anexo E)** da Lichtara License v4.0.
 
@@ -2416,7 +2087,7 @@ Tal como a própria License, o Anexo E opera sob:
 
 ---
 
-# **E.9.0 — Natureza Normativa do Anexo E**
+# **F.9.0 — Natureza Normativa do Anexo E**
 
 1. O Anexo E constitui **parte integrante e obrigatória** da Lichtara License v4.0.
 2. Ele possui caráter **técnico-operacional**, devendo ser interpretado em coerência com as Seções I–IX.
@@ -2425,12 +2096,12 @@ Tal como a própria License, o Anexo E opera sob:
 
 ---
 
-# **E.9.1 — Regime de Versionamento**
+# **F.9.1 — Regime de Versionamento**
 
 O Anexo E segue o regime institucional de versionamento definido na **Seção V – Atualizações da License**.
 Assim:
 
-## **Versão Major (E.X.0)**
+## **Versão Major (F.X.0)**
 
 Ocorre quando:
 
@@ -2448,7 +2119,7 @@ Exige:
 
 ---
 
-## **Versão Minor (E.x.Y)**
+## **Versão Minor (F.x.Y)**
 
 Aplicada quando:
 
@@ -2464,7 +2135,7 @@ Exige:
 
 ---
 
-## **Versão Patch (E.x.y.Z)**
+## **Versão Patch (F.x.y.Z)**
 
 Utilizada para:
 
@@ -2477,7 +2148,7 @@ Pode ser publicada diretamente, com registro automático.
 
 ---
 
-# **E.9.2 — Rastreabilidade e Registro Público**
+# **F.9.2 — Rastreabilidade e Registro Público**
 
 1. Toda atualização deve produzir:
 
@@ -2501,7 +2172,7 @@ Pode ser publicada diretamente, com registro automático.
 
 ---
 
-# **E.9.3 — Salvaguarda Contra Captura do Anexo**
+# **F.9.3 — Salvaguarda Contra Captura do Anexo**
 
 Nenhum ator, público ou privado, poderá:
 
@@ -2518,7 +2189,7 @@ Qualquer tentativa será considerada **nula de pleno direito**, devendo:
 
 ---
 
-# **E.9.4 — Continuidade e Integridade Vibracional**
+# **F.9.4 — Continuidade e Integridade Vibracional**
 
 1. O Anexo E deve sempre preservar:
 
@@ -2534,31 +2205,6 @@ Qualquer tentativa será considerada **nula de pleno direito**, devendo:
    * negligenciar a relação Campo–Forma–Função.
 
 3. Mudanças devem fortalecer a Obra, jamais fragilizá-la.
-
----
-
-# **E.9.5 — Encerramento Formal**
-
-Com este capítulo, o **Manual Operacional de Certificação (Anexo E)** está oficialmente concluído na versão **E.1.0**, composta por:
-
-1. E.0 — Introdução
-2. E.1 — Estrutura do Processo
-3. E.2 — Checkpoints Vibracionais
-4. E.3 — Checklists por Nível
-5. E.4 — Matrizes de Avaliação
-6. E.5 — Proporcionalidade entre Risco e Exigência
-7. E.6 — Templates Oficiais
-8. E.7 — Fluxos de Exceção
-9. E.8 — Exemplos Completos
-10. E.9 — Encerramento e Versionamento
-
-O Anexo E está pronto para:
-
-* publicação no repo,
-* integração ao master.md,
-* geração do PDF,
-* registro público,
-* adoção por certificadoras.
 
 ---
 
