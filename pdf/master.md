@@ -282,7 +282,7 @@ Os PER são **imutáveis** e prevalecem sobre qualquer regra posterior.
 
 # SEÇÃO II – ESTRUTURA JURÍDICA OPERACIONAL
 
-## **II.0 - Objeto e Âmbito de Aplicação**
+## **II.0 – Objeto e Âmbito de Aplicação**
 
 1. Esta Seção regula o uso, reprodução, distribuição, adaptação, derivação e aplicação da Obra denominada **LICHTARA**, incluindo seus sistemas, metodologias, estruturas, elementos operacionais, fluxos, inteligências internas e documentos associados.
 
@@ -298,7 +298,7 @@ Os PER são **imutáveis** e prevalecem sobre qualquer regra posterior.
 3. A utilização, parcial ou integral, da Obra implica aceitação plena e irrestrita destes termos.
 
 
-## **II.1 - Definições**
+## **II.1 – Definições**
 
 Para fins desta License, entende-se por:
 
@@ -314,7 +314,7 @@ Para fins desta License, entende-se por:
 
 
 
-## **II.2 - Direitos Concedidos**
+## **II.2 – Direitos Concedidos**
 
 Ao Usuário é permitido:
 
@@ -325,7 +325,7 @@ Ao Usuário é permitido:
 
 
 
-## **II.3 - Direitos Não Concedidos**
+## **II.3 – Direitos Não Concedidos**
 
 Sem Certificação ou autorização formal, o Usuário **não pode**:
 
@@ -336,7 +336,7 @@ Sem Certificação ou autorização formal, o Usuário **não pode**:
 5. empregar a Obra como produto, metodologia, treinamento ou oferta comercial.
 
 
-## **II.4 - Permissões Restritas**
+## **II.4 – Permissões Restritas**
 
 Dependem de autorização formal:
 
@@ -347,7 +347,7 @@ Dependem de autorização formal:
 5. uso institucional, governamental ou corporativo.
 
 
-## **II.5 - Proibições**
+## **II.5 – Proibições**
 
 É proibido ao Usuário:
 
@@ -358,7 +358,7 @@ Dependem de autorização formal:
 5. violar a integridade vibracional da Obra, conforme os parâmetros da LCV.
 
 
-## **II.6 - Obrigações do Usuário**
+## **II.6 – Obrigações do Usuário**
 
 O Usuário compromete-se a:
 
@@ -369,7 +369,7 @@ O Usuário compromete-se a:
 5. não suprimir, ocultar ou modificar referências a LICHTARA.
 
 
-## **II.7 - Condições de Distribuição**
+## **II.7 – Condições de Distribuição**
 
 1. A distribuição de trechos não substanciais é permitida quando:
 
@@ -382,7 +382,7 @@ O Usuário compromete-se a:
 3. A distribuição comercial exige Certificação.
 
 
-## **II.8 - Derivações**
+## **II.8 – Derivações**
 
 1. Constitui derivação qualquer obra, sistema, produto ou metodologia criada com base na Obra.
 
@@ -395,21 +395,21 @@ O Usuário compromete-se a:
 3. Derivações não autorizadas configuram violação grave.
 
 
-## **II.9 - Confidencialidade e Segurança**
+## **II.9 – Confidencialidade e Segurança**
 
 1. Materiais classificados como restritos obedecem aos manuais internos de confidencialidade.
 2. É vedado divulgar informações classificadas ou internas.
 3. A violação implica revogação imediata de permissões e responsabilidades adicionais.
 
 
-## **II.10 - Rastreabilidade e Auditoria**
+## **II.10 – Rastreabilidade e Auditoria**
 
 1. A Guardiã pode solicitar comprovação de conformidade a qualquer momento.
 2. Implementações, ambientes de ensino e usos comerciais devem ser rastreáveis.
 3. Ausência de rastreabilidade constitui violação material.
 
 
-## **II.11 - Sanções**
+## **II.11 – Sanções**
 
 1. Violações desta Seção podem resultar em:
 
@@ -420,13 +420,11 @@ O Usuário compromete-se a:
 
 2. Reincidência implica banimento permanente do uso da Obra.
 
-
-## **II.12 - Disposições Finais da Seção**
+## **II.12 – Disposições Finais da Seção**
 
 1. Esta Seção prevalece sobre interpretações informais ou tentativas de flexibilização não autorizadas.
 2. Em dúvida operacional, aplica-se o princípio da preservação da identidade estrutural da Obra.
 3. A aceitação destes termos é condição necessária para qualquer uso da Obra.
-
 
 
 # SEÇÃO III – GOVERNANÇA E SUSTENTABILIDADE
@@ -435,14 +433,14 @@ A governança da Lichtara License v4.0 estabelece os mecanismos institucionais, 
 
 Organiza-se em duas camadas complementares:
 
-1. **III-A - Estrutura Institucional de Governança**
-2. **III-B - Obrigações, Conformidade e Auditoria Ético-Vibracional**
+1. **III-A – Estrutura Institucional de Governança**
+2. **III-B – Obrigações, Conformidade e Auditoria Ético-Vibracional**
 
 
-# **III-A - Estrutura Institucional de Governança**
+# **III-A – Estrutura Institucional de Governança**
 
 
-## **3.1 - Estrutura Geral**
+## **3.1 – Estrutura Geral**
 
 1. A administração e supervisão da LICHTARA LICENSE será exercida pelo **Conselho de Governança da Lichtara License (CGL)**, órgão colegiado independente, multissetorial e não lucrativo.
 
@@ -458,7 +456,7 @@ Organiza-se em duas camadas complementares:
 3. O CGL opera orientado pelos **PER**, pelo **MHA** e pela **LCV**, considerados instrumentos estruturantes de governança.
 
 
-## **3.2 - Composição e Mandatos**
+## **3.2 – Composição e Mandatos**
 
 1. O CGL possui **7 assentos**, distribuídos da seguinte forma:
 
@@ -473,7 +471,7 @@ Organiza-se em duas camadas complementares:
 3. Todos os membros devem subscrever o **Termo Ético de Governança** e operar segundo a **LCV - Nível Conselho**.
 
 
-## **3.3 - Competências do Conselho**
+## **3.3 – Competências do Conselho**
 
 O CGL possui autoridade para:
 
@@ -486,7 +484,7 @@ O CGL possui autoridade para:
 7. determinar supervisão extraordinária, correções e auditorias.
 
 
-## **3.4 - Deliberação e Quórum**
+## **3.4 – Deliberação e Quórum**
 
 1. Reuniões ordinárias trimestrais; extraordinárias a qualquer tempo.
 
@@ -501,7 +499,7 @@ O CGL possui autoridade para:
 4. Atas públicas, com proteção proporcional a dados sensíveis.
 
 
-## **3.5 - Participação Pública e Técnica**
+## **3.5 – Participação Pública e Técnica**
 
 O CGL poderá convocar:
 
@@ -513,7 +511,7 @@ O CGL poderá convocar:
 Instrumentos de participação devem observar transparência e rastreabilidade.
 
 
-## **3.6 — Sustentabilidade Econômica (Fundo Ético-Vibracional)**
+## **3.6 – Sustentabilidade Econômica (Fundo Ético-Vibracional)**
 
 1. Implementações com receita anual superior a **USD 1M** devem contribuir com **0,5%** ao **Fundo Ético-Vibracional**, destinado a:
 
@@ -525,7 +523,7 @@ Instrumentos de participação devem observar transparência e rastreabilidade.
 2. Implementadores de grande porte devem publicar **Relatório de Impacto** anual.
 
 
-## **3.7 - Obrigações Adicionais de Grandes Implementadores**
+## **3.7 – Obrigações Adicionais de Grandes Implementadores**
 
 Incluem:
 
@@ -535,14 +533,14 @@ Incluem:
 4. manutenção de **LVR** atualizado e acessível ao CGL.
 
 
-## **3.8 - Transparência e Prestação de Contas**
+## **3.8 – Transparência e Prestação de Contas**
 
 1. Devem ser mantidos logs verificáveis e documentação proporcional ao risco.
 2. Proteção adequada a dados pessoais e sensíveis.
 3. Divulgação pública de decisões não sigilosas, pareceres e orientações.
 
 
-## **3.9 - Auditoria Institucional**
+## **3.9 – Auditoria Institucional**
 
 1. O CGL poderá acionar auditorias independentes, ordinárias ou extraordinárias.
 
@@ -555,7 +553,7 @@ Incluem:
 3. O CGL pode determinar **supervisão contínua** em implementações críticas.
 
 
-## **3.10 - Procedimentos de Denúncia**
+## **3.10 – Procedimentos de Denúncia**
 
 1. Canal permanente de comunicação estruturada.
 2. Admissibilidade analisada em até 30 dias.
@@ -563,7 +561,7 @@ Incluem:
 4. Deliberação final do CGL.
 
 
-## **3.11 - Medidas Corretivas**
+## **3.11 – Medidas Corretivas**
 
 As medidas incluem:
 
@@ -577,13 +575,13 @@ As medidas incluem:
 A restauração dependerá de plano aprovado pelo CGL.
 
 
-## **3.12 - Conservação e Rastreabilidade**
+## **3.12 – Conservação e Rastreabilidade**
 
 1. Documentos essenciais devem ser preservados por **5 anos**.
 2. Documentos rastreáveis incluem: **DTI, RC, LVR, MREV** e Relatórios de Impacto.
 
 
-## **3.13 - Cooperação Internacional**
+## **3.13 – Cooperação Internacional**
 
 1. O CGL atua para compatibilizar implementações transnacionais.
 2. Conflitos normativos devem ser harmonizados segundo:
@@ -593,12 +591,12 @@ A restauração dependerá de plano aprovado pelo CGL.
    * legislação local - aplicação subsidiária.
 
 
-# **III-B - Obrigações, Conformidade e Auditoria Ético-Vibracional**
+# **III-B – Obrigações, Conformidade e Auditoria Ético-Vibracional**
 
 Esta camada estabelece as obrigações formais dos licenciados, estruturadas pelos anexos: **PER, LCV, MHA, MREV** e Relatórios de Impacto.
 
 
-## **3.1 - Obrigações Gerais do Licenciado**
+## **3.1 – Obrigações Gerais do Licenciado**
 
 Incluem:
 
@@ -610,7 +608,7 @@ Incluem:
 6. prevenção de danos previsíveis e mitigação contínua.
 
 
-## **3.2 - Documentação Obrigatória**
+## **3.2 – Documentação Obrigatória**
 
 Obrigatória para implementações comerciais, institucionais ou de risco médio/alto:
 
@@ -620,14 +618,14 @@ Obrigatória para implementações comerciais, institucionais ou de risco médio
 * **MREV - Matriz de Riscos Ético-Vibracionais**
 
 
-## **3.3 - Linguagem de Conformidade Vibracional (LCV)**
+## **3.3 – Linguagem de Conformidade Vibracional (LCV)**
 
 1. **Nível Simplificado** - implementações pessoais ou de baixo risco.
 2. **Nível Intermediário** - risco médio.
 3. **Nível Completo** - implementações comerciais, corporativas ou de alta complexidade.
 
 
-## **3.4 - Auditoria Ético-Vibracional (AEV)**
+## **3.4 – Auditoria Ético-Vibracional (AEV)**
 
 A AEV possui três modalidades:
 
@@ -643,7 +641,7 @@ Escopo inclui:
 * impactos sistêmicos.
 
 
-## **3.5 - Competências Complementares do Conselho**
+## **3.5 – Competências Complementares do Conselho**
 
 Incluem:
 
@@ -653,13 +651,13 @@ Incluem:
 4. atuar como instância arbitral final.
 
 
-## **3.6 - Responsabilidade e Dever de Cuidado**
+## **3.6 – Responsabilidade e Dever de Cuidado**
 
 1. Implementações coletivas possuem responsabilidade solidária.
 2. O licenciando deve manter salvaguardas, mitigação e registros apropriados.
 
 
-## **3.7 - Due Diligence Ético-Vibracional (DDEV)**
+## **3.7 – Due Diligence Ético-Vibracional (DDEV)**
 
 A DDEV inclui:
 
@@ -670,7 +668,7 @@ A DDEV inclui:
 5. projeções de impacto longitudinal.
 
 
-## **3.8 - Mecanismos de Correção e Aprendizado**
+## **3.8 – Mecanismos de Correção e Aprendizado**
 
 Incluem:
 
@@ -681,7 +679,7 @@ Incluem:
 * auditorias complementares.
 
 
-## **3.9 - Obrigações Especiais para Implementações Comerciais**
+## **3.9 – Obrigações Especiais para Implementações Comerciais**
 
 1. publicação de Relatório de Impacto anual;
 2. registro obrigatório de incidentes;
@@ -689,7 +687,7 @@ Incluem:
 4. auditoria anual (AEV Ordinária ou Especial).
 
 
-## **3.10 - Cooperação, Educação e Transparência**
+## **3.10 – Cooperação, Educação e Transparência**
 
 O licenciando deve contribuir para a evolução do ecossistema, incluindo:
 
