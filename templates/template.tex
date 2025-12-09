@@ -23,10 +23,24 @@
 \usepackage{array}
 \usepackage{calc}
 \usepackage{enumitem}
+\usepackage{newunicodechar}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \providecommand{\pandocbounded}[1]{#1}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
+\newunicodechar{⇆}{\ensuremath{\leftrightarrows}}
+\newunicodechar{☐}{\ensuremath{\square}}
+\newunicodechar{✔}{\ensuremath{\checkmark}}
+\newunicodechar{✖}{\ensuremath{\times}}
+\newunicodechar{≥}{\ensuremath{\geq}}
 
 % -----------------------------
 % Paleta cromática LICHTARA
