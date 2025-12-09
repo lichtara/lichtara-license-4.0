@@ -8971,7 +8971,6 @@ Nenhuma aplicável.
 Incluída corretamente.
 
 
-
 ## **LCV Simplificada (Preenchida)**
 
 1. Intenção: crescimento pessoal, reflexão ética.
@@ -8979,7 +8978,6 @@ Incluída corretamente.
 3. Riscos: inexistentes.
 4. Confirmação vibracional: adequada.
 5. Assinatura: confrimado. 
-
 
 
 ## **MREV:**
@@ -9106,7 +9104,6 @@ Registro semanal de atividades e ajustes.
 Nenhum mecanismo tecnológico sensível.
 
 
-
 ## **4. MREV — Matriz Simplificada de Riscos Ético-Vibracionais**
 
 | Risco | Tipo                     | Nível | Probabilidade | Impacto  | Status   |
@@ -9115,7 +9112,6 @@ Nenhum mecanismo tecnológico sensível.
 
 **Mitigação:**
 Supervisão direta dos três facilitadores + discussão guiada para evitar mal-entendidos.
-
 
 
 ## **5. Relatório de Impacto**
@@ -10801,7 +10797,7 @@ Ela opera como:
 * estrutura de governança,
 * protocolo de proteção,
 * mecanismo de expansão segura,
-* sistema vivo de atualização (; ).
+* sistema vivo de atualização.
 
 ---
 
@@ -10907,7 +10903,7 @@ A autorização é avaliada caso a caso.
 
 Somente com autorização.
 
-Adaptações — mesmo não comerciais — podem alterar a coerência do Núcleo Estrutural ().
+Adaptações — mesmo não comerciais — podem alterar a coerência do Núcleo Estrutural.
 
 ---
 
@@ -10939,7 +10935,7 @@ Não sem autorização rigorosa.
 
 Isso envolve:
 
-* segurança avançada (),
+* segurança avançada,
 * integridade conceitual,
 * risco de replicação indevida,
 * proteção de frameworks internos.
@@ -10952,9 +10948,9 @@ Somente com avaliação técnica + autorização estrutural.
 
 Integrações precisam respeitar:
 
-* diretrizes de segurança (),
-* padrões de acesso (),
-* protocolos de rastreamento ().
+* diretrizes de segurança,
+* padrões de acesso,
+* protocolos de rastreamento.
 
 ---
 
@@ -11018,7 +11014,7 @@ Se o uso:
 
 ### **7.2. Quem concede a autorização?**
 
-A **Guardiã do Sistema**, conforme os Modelos de Autorização ().
+A **Guardiã do Sistema**, conforme os Modelos de Autorização.
 
 ---
 
@@ -11096,7 +11092,7 @@ Lichtara License v4 — license.lichtara.com
 
 Sim, desde que:
 
-* esteja alinhado ao Propósito (),
+* esteja alinhado ao Propósito,
 * haja autorização,
 * seja mantida a integridade do Núcleo Estrutural.
 
