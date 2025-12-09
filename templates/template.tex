@@ -1,172 +1,170 @@
 % ============================================================
-% LICHTARA LICENSE v4.0 — TEMPLATE LATEX OFICIAL (Template B)
-% Compatível com Pandoc + XeLaTeX
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX OFICIAL (Edição Refinada)
 % ============================================================
 
-\documentclass[12pt,a4paper]{article}
+\documentclass[11pt,a4paper]{article}
 
-% ------------------------------------------------------------
+% -----------------------------
 % Pacotes essenciais
-% ------------------------------------------------------------
+% -----------------------------
+\usepackage[utf8]{inputenc}
 \usepackage{geometry}
-\geometry{margin=2.5cm}
-
-\usepackage{calc}
-\usepackage{fontspec}
-\setmainfont{Inter}
-\setsansfont{Inter}
-\newfontfamily\titlefont{Libre Baskerville}
-\newfontfamily\codefont{Fira Code}
-\usepackage{amssymb}
-\usepackage{booktabs}
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-\usepackage{graphicx}
-\usepackage{longtable}
-\usepackage{array}
-\usepackage{xcolor}
 \usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
-\usepackage{eso-pic}
-\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{background}
+\usepackage{fontspec}
+\usepackage{lmodern}
 
-% ------------------------------------------------------------
-% Paleta LICHTARA
-% ------------------------------------------------------------
-\definecolor{azulprofundo}{HTML}{0A1A2F}
-\definecolor{dourado}{HTML}{D4AF37}
-\definecolor{prateado}{HTML}{C9D2D9}
-\definecolor{offwhite}{HTML}{F5F6F7}
-\definecolor{pretocosmico}{HTML}{000814}
+% -----------------------------
+% Paleta cromática LICHTARA
+% -----------------------------
+\definecolor{LBlueDeep}{HTML}{0A1A2F}
+\definecolor{LGold}{HTML}{D4AF37}
+\definecolor{LSilver}{HTML}{B4BDC4} % prateado reforçado
+\definecolor{LWhite}{HTML}{F5F6F7}
+\definecolor{LBlack}{HTML}{000814}
 
-% ------------------------------------------------------------
-% Hyperlinks
-% ------------------------------------------------------------
+% -----------------------------
+% Fontes (Inter + Libre Baskerville)
+% -----------------------------
+\setmainfont{Libre Baskerville}
+\setsansfont{Inter}
+\newfontfamily\titlefont{Libre Baskerville}
+
+% -----------------------------
+% Geometria
+% -----------------------------
+\geometry{
+margin=2.5cm,
+headheight=14pt
+}
+
+% -----------------------------
+% Links
+% -----------------------------
 \hypersetup{
-    colorlinks = true,
-    linkcolor  = dourado,
-    urlcolor   = dourado,
-    citecolor  = dourado
+colorlinks=true,
+linkcolor=LGold,
+urlcolor=LGold,
+citecolor=LGold
 }
 
-% ------------------------------------------------------------
-% Marca d'água
-% ------------------------------------------------------------
-\newcommand\Watermark{
-\AddToShipoutPictureBG{
-\begin{tikzpicture}[remember picture, overlay]
-\node[rotate=55, scale=8, text=prateado!15]
-at (current page.center) {LICHTARA};
-\end{tikzpicture}
-}
-}
+% -----------------------------
+% Estilo de Títulos
+% -----------------------------
+\titleformat{\section}{\Large\bfseries\titlefont\color{LGold}}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\titlefont\color{LSilver}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\titlefont\color{LSilver}}{\thesubsubsection}{1em}{}
 
-% ------------------------------------------------------------
+% -----------------------------
 % Cabeçalho e Rodapé
-% ------------------------------------------------------------
+% -----------------------------
 \pagestyle{fancy}
 \fancyhf{}
 
-\fancyhead[L]{\color{prateado} LICHTARA — Sistema Vivo}
-\fancyhead[R]{\color{prateado} Instrumento Jurídico-Ético-Vibracional}
-
-\fancyfoot[R]{\small\color{prateado}
-Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329 \\
-© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida
-}
+\fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
+\fancyhead[R]{\color{LSilver} Instrumento Jurídico-Ético-Vibracional}
+\fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
 
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-% ------------------------------------------------------------
-% Estilo de Títulos
-% ------------------------------------------------------------
-\titleformat{\section}{\Large\titlefont\color{dourado}}{\thesection}{1em}{}
-\titleformat{\subsection}{\large\titlefont\color{prateado}}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalsize\titlefont\color{azulprofundo}}{\thesubsubsection}{1em}{}
+% -----------------------------
+% Marca d'água — APENAS NA CAPA
+% -----------------------------
+\newcommand{\coverwatermark}{
+    \backgroundsetup{
+        scale=4,
+        angle=55,
+        opacity=0.05,
+        color=LSilver,
+        contents={LICHTARA}
+    }
+}
 
-% ------------------------------------------------------------
+% -----------------------------
 % Capa
-% ------------------------------------------------------------
-\newcommand{\MakeCover}{
+% -----------------------------
+\newcommand{\makecover}{
+\coverwatermark
 \thispagestyle{empty}
-\Watermark
 
 \begin{center}
 \vspace*{4cm}
-
-{\Huge\titlefont\color{dourado} LICHTARA LICENSE v4.0}
-
+{\Huge\bfseries\titlefont\color{LGold} LICHTARA LICENSE v4.0\par}
 \vspace{1cm}
 
-{\Large\color{prateado}
-Instrumento Jurídico-Ético-Vibracional de Uso, Implementação e Conformidade}
+{\Large\color{LSilver}
+Instrumento Jurídico–Ético–Vibracional \\
+de Uso, Implementação e Conformidade
+\par}
 
 \vspace{2cm}
 
-{\small\color{prateado}
-© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida\\
-DOI: 10.5281/zenodo.17844329}
+{\small\color{LSilver}
+© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida \\
+DOI: 10.5281/zenodo.17844329
+\par}
 
 \end{center}
 
 \clearpage
 }
 
-% ------------------------------------------------------------
-% Folha de rosto
-% ------------------------------------------------------------
-\newcommand{\MakeFront}{
+% -----------------------------
+% Folha de Rosto (sem marca d’água)
+% -----------------------------
+\newcommand{\makerostopage}{
 \thispagestyle{empty}
 
 \begin{center}
-
-{\Huge\titlefont LICHTARA LICENSE v4.0}
-
-\vspace{0.8cm}
-{\Large Documento Oficial}
-
+\vspace*{3cm}
+{\Huge\titlefont LICHTARA LICENSE v4.0 \par}
 \vspace{0.6cm}
+
+{\Large Documento Oficial\par}
+\vspace{0.6cm}
+
 {\large
-Instrumento Jurídico-Ético-Vibracional de Uso, Implementação, Derivação,
-Certificação e Conformidade}
+Instrumento Jurídico–Ético–Vibracional de Uso, Implementação, \\
+Derivação, Certificação e Conformidade
+\par}
 
 \vspace{1.2cm}
+
+{\small
 Versão 4.0 — Dezembro de 2025 \\
 DOI: 10.5281/zenodo.17844329
+\par}
 
-\vspace{1.5cm}
+\vspace{2cm}
+
 {\small
 Débora Lutz \\
 Sistema LICHTARA \\
 Coautoria Expandida (Humano–IA–Campo)
-}
+\par}
 
-\vspace{1.8cm}
-{\small
-Publicação oficial: https://github.com/lichtara/license
-}
+\vspace{1.5cm}
 
+{\small Publicação oficial: \url{https://github.com/lichtara/lichtara-license-v4}}
 \end{center}
 
 \clearpage
 }
 
-% ------------------------------------------------------------
+% -----------------------------
 % Início do Documento
-% ------------------------------------------------------------
+% -----------------------------
 \begin{document}
 
-\MakeCover
-\MakeFront
-\Watermark
+\makecover
+\makerostopage
 
-% ------------------------------------------------------------
-% Corpo do Documento
-% (conteúdo do master.md entra aqui via Pandoc)
-% ------------------------------------------------------------
 $body$
 
 \end{document}
