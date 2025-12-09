@@ -21,8 +21,11 @@
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{array}
+\usepackage{calc}
+\usepackage{amssymb}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\real}[1]{#1}
 
 % -----------------------------
 % Paleta cromática LICHTARA
@@ -181,6 +184,19 @@ Coautoria Expandida (Humano–IA–Campo)
 \end{center}
 
 \clearpage
+}
+
+% -----------------------------
+% Ajustes auxiliares
+% -----------------------------
+\newsavebox{\pandocbox}
+\newcommand{\pandocbounded}[1]{%
+  \sbox{\pandocbox}{#1}%
+  \ifdim\wd\pandocbox>\linewidth
+    \resizebox{\linewidth}{!}{\usebox{\pandocbox}}%
+  \else
+    \usebox{\pandocbox}%
+  \fi
 }
 
 % -----------------------------
