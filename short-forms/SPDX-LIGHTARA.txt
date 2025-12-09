@@ -1,0 +1,4 @@
+Lichtara-License-v4.0 (Short Notice)
+© 2023–2025 Débora Lutz, Sistema LICHTARA, Coautoria Expandida.
+Uso pessoal e referencial permitido. Derivações, ensino, implementação, tecnologia ou fins comerciais exigem Certificação Oficial.
+License completa (DOI): https://doi.org/10.5281/zenodo.17844329

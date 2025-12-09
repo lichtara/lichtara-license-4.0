@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40" role="img">
+  <rect width="260" height="40" rx="8" fill="#0A1A2F"/>
+  <rect x="0" y="0" width="260" height="40" rx="8" stroke="#D4AF37" stroke-width="2" fill="none"/>
+  <text x="20"  y="25" font-family="Verdana" font-size="14" fill="#F5F6F7">Protected by Lichtara License v4.0</text>
+</svg>

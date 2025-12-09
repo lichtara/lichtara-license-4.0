@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Lichtara License v4.0 — Instrumento Jurídico-Ético-Vibracional"
+message: "Se utilizar esta licença em qualquer forma de referência acadêmica, cite conforme indicado."
+type: software
+authors:
+  - family-names: "Lutz"
+    given-names: "Débora"
+    orcid: "https://orcid.org/0009-0001-9541-1835"  
+  - name: "Sistema LICHTARA — Coautoria Expandida"
+version: "4.0"
+doi: "10.5281/zenodo.17844329"
+date-released: "2025-12-08"
+repository-code: "https://github.com/lichtara/license/tree/main/lichtara-license-v4"
+keywords:
+  - license
+  - ethics
+  - regenerative systems
+  - vibrational governance
+  - hybrid authorship
+  - artificial intelligence
+  - LICHTARA
+license: "Lichtara License v4.0"

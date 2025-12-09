@@ -1,0 +1,83 @@
+flowchart TB
+
+%% ----------------------------
+%% TÍTULO CENTRAL
+%% ----------------------------
+A["**LICHTARA LICENSE v4**  
+A Estrutura que Organiza o Uso da Obra  
+Proteção • Coerência • Responsabilidade"]:::top
+
+%% ----------------------------
+%% BLOCOS DE USO
+%% ----------------------------
+subgraph USOS
+direction LR
+
+U1["**USO LIVRE**  
+• Estudo  
+• Citação com crédito  
+• Compartilhamento não comercial  
+• Reflexões pessoais  
+*Não requer autorização*"]:::box
+
+U2["**USO CONDICIONADO**  
+• Traduções  
+• Adaptações  
+• Materiais educacionais  
+• Uso institucional  
+• Derivados estruturados  
+*Requer autorização da Guardiã*"]:::box
+
+U3["**USO RESTRITO**  
+• Copiar frameworks  
+• Treinar IA  
+• Criar sistemas derivados  
+• Uso comercial não autorizado  
+• Alterar a License  
+*Proibido. Sem exceções.*"]:::box
+
+end
+
+A --> U1
+A --> U2
+A --> U3
+
+%% ----------------------------
+%% BASES DA DECISÃO
+%% ----------------------------
+B["**BASES DA DECISÃO**  
+Integridade (proteção estrutural)  
+Coerência (alinhamento sistêmico)  
+Responsabilidade (uso ético)"]:::middle
+
+U1 --> B
+U2 --> B
+U3 --> B
+
+%% ----------------------------
+%% COMO SOLICITAR AUTORIZAÇÃO
+%% ----------------------------
+S["**COMO SOLICITAR AUTORIZAÇÃO**  
+1. E-mail: admin@deboralutz.com  
+2. Assunto: Solicitação de Autorização — License v4  
+3. Inclua: descrição, finalidade, materiais, prazo"]:::middle
+
+B --> S
+
+%% ----------------------------
+%% LINKS OFICIAIS
+%% ----------------------------
+L["**LINKS OFICIAIS**  
+https://license.lichtara.com  
+https://github.com/lichtara/license  
+https://lichtara.com"]:::bottom
+
+S --> L
+
+%% ----------------------------
+%% ESTILOS
+%% ----------------------------
+classDef top fill:#ffffff,stroke:#000,stroke-width:1,font-size:20px;
+classDef box fill:#f9f9ff,stroke:#444,stroke-width:1;
+classDef middle fill:#ffffff,stroke:#444,stroke-width:1;
+classDef bottom fill:#ffffff,stroke:#222,stroke-width:1;

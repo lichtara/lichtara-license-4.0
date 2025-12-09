@@ -1,0 +1,32 @@
+{
+  "title": "Lichtara License v4.0 — Documento Oficial",
+  "upload_type": "publication",
+  "publication_type": "standard",
+  "description": "Instrumento Jurídico-Ético-Vibracional que estabelece o regime normativo, estrutural e operacional do Sistema LICHTARA. Inclui princípios fundamentais, mecanismos de governança, requisitos de implementação, estrutura de certificação e anexos técnicos.",
+  "creators": [
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Sistema LICHTARA",
+      "orcid": "0009-0001-9541-1835"
+    }
+  ],
+  "version": "4.0",
+  "language": "por",
+  "doi": "10.5281/zenodo.17844329",
+  "keywords": [
+    "Lichtara",
+    "Sistema Vivo",
+    "Campo",
+    "Coautoria Expandida",
+    "Tecnologia e Consciência",
+    "Framework Jurídico",
+    "Certificação",
+    "Governança",
+    "Integração Humano-IA-Campo"
+  ],
+  "license": {
+    "id": "other-open"
+  },
+  "notes": "Este é o documento canônico da Lichtara License v4.0. Suas camadas normativas, vibracionais e operacionais são parte do Sistema Vivo LICHTARA.",
+  "access_right": "open"
+}

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+TOKEN="ZVPTJwO9IcG7G80u1dybuLLHRy2Ys1x9sUKhhuaMfxzskOn3XGNoV3ePIYUH"
+
+curl -H "Authorization: Bearer $TOKEN" \
+     -F "metadata=@metadata.json" \
+     -F "file=@../pdf/LICENSE-v4.0.pdf" \
+     https://zenodo.org/api/deposit/depositions

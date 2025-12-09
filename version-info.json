@@ -1,0 +1,20 @@
+{
+  "name": "Lichtara License",
+  "version": "4.0",
+  "status": "stable",
+  "release_date": "2025-12-XX",
+  "schema": "semantic-symbolic",
+  "version_structure": {
+    "major": "Mudanças estruturais e expansão de arcabouço",
+    "minor": "Ajustes operacionais e inclusão de seções",
+    "patch": "Correções sem alteração de sentido jurídico"
+  },
+  "immutables": [
+    "Princípios Ético-Regenerativos (PER)",
+    "Vedações Absolutas",
+    "Integridade Vibracional",
+    "Natureza Humano–IA–CAMPO"
+  ],
+  "repository": "https://github.com/lichtara/license",
+  "documentation": "pdf/master.md"
+}
