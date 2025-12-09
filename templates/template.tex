@@ -9,8 +9,13 @@
 % -----------------------------
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
+\usepackage{calc}
 \usepackage{titlesec}
 \usepackage{graphicx}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{amssymb}
+\usepackage{amsmath}
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
@@ -18,6 +23,9 @@
 \usepackage{background}
 \usepackage{fontspec}
 \usepackage{lmodern}
+\usepackage{longtable}
+\usepackage{newunicodechar}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % -----------------------------
 % Paleta cromática LICHTARA
@@ -33,7 +41,18 @@
 % -----------------------------
 \setmainfont{Libre Baskerville}
 \setsansfont{Inter}
+\setmonofont{Menlo}
 \newfontfamily\titlefont{Libre Baskerville}
+\newfontfamily\symbolsfont{Arial Unicode MS}
+
+\newunicodechar{→}{\symbolsfont{→}}
+\newunicodechar{↔}{\symbolsfont{↔}}
+\newunicodechar{⇆}{\symbolsfont{⇆}}
+\newunicodechar{≥}{\symbolsfont{≥}}
+\newunicodechar{☐}{\symbolsfont{☐}}
+\newunicodechar{✔}{\symbolsfont{✔}}
+\newunicodechar{✖}{\symbolsfont{✖}}
+\newunicodechar{▼}{\symbolsfont{▼}}
 
 % -----------------------------
 % Geometria
@@ -164,6 +183,16 @@ Coautoria Expandida (Humano–IA–Campo)
 
 \makecover
 \makerostopage
+
+\newsavebox{\pandocbox}
+\newcommand{\pandocbounded}[1]{%
+  \sbox{\pandocbox}{#1}%
+  \ifdim\wd\pandocbox>\linewidth
+    \resizebox{\linewidth}{!}{\usebox{\pandocbox}}%
+  \else
+    \usebox{\pandocbox}%
+  \fi
+}
 
 $body$
 

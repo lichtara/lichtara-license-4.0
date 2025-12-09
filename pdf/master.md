@@ -6805,7 +6805,7 @@ Este critério é eliminatório.
 
 | Critério                         | Indicador        | Nota       |
 | -------------------------------- | ---------------- | ---------- |
-| Nenhuma Vedação Absoluta violada | análise completa | ☐ ✔️ se ok |
+| Nenhuma Vedação Absoluta violada | análise completa | ☐ ✔ se ok |
 
 Se houver violação: **reprovação automática**.
 
@@ -7013,14 +7013,14 @@ Cada matriz (Técnica, Ética e Vibracional) é aplicada em grau proporcional ao
 
 | Requisito               | LCV 1    | LCV 2       | LCV 3       | LCV 4                     |
 | ----------------------- | -------- | ----------- | ----------- | ------------------------- |
-| Salvaguardas básicas    | ✔️       | ✔️          | ✔️          | ✔️                        |
-| Salvaguardas reforçadas | ✖️       | ✔️          | ✔️          | ✔️                        |
-| Failsafe operacional    | ✖️       | Opcional    | Obrigatório | Obrigatório (avançado)    |
-| Failsafe ético          | ✖️       | ✔️          | ✔️          | ✔️                        |
-| Failsafe vibracional    | Opcional | ✔️          | ✔️          | ✔️ (formalizado)          |
+| Salvaguardas básicas    | ✔       | ✔          | ✔          | ✔                        |
+| Salvaguardas reforçadas | ✖       | ✔          | ✔          | ✔                        |
+| Failsafe operacional    | ✖       | Opcional    | Obrigatório | Obrigatório (avançado)    |
+| Failsafe ético          | ✖       | ✔          | ✔          | ✔                        |
+| Failsafe vibracional    | Opcional | ✔          | ✔          | ✔ (formalizado)          |
 | Backups de integridade  | Opcional | Obrigatório | Obrigatório | Obrigatório + redundância |
-| Auditoria interna       | ✖️       | Opcional    | Obrigatória | Obrigatória contínua      |
-| Auditoria externa       | ✖️       | ✖️          | Necessária  | Crítica e contínua        |
+| Auditoria interna       | ✖       | Opcional    | Obrigatória | Obrigatória contínua      |
+| Auditoria externa       | ✖       | ✖          | Necessária  | Crítica e contínua        |
 
 ---
 
@@ -7089,7 +7089,7 @@ Os templates abaixo podem ser usados:
 
 Cada template inclui:
 
-📄 **estrutura padrão + instruções de preenchimento + exemplos ilustrativos**
+- **estrutura padrão + instruções de preenchimento + exemplos ilustrativos**
 
 Todos os modelos devem ser versionados e rastreáveis.
 
@@ -7746,7 +7746,7 @@ Este capítulo apresenta **casos inteiros preenchidos**, cobrindo:
 
 Cada exemplo segue:
 
-📌 RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório Final → Selo
+Fluxo: RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório Final → Selo
 
 Com isso, qualquer certificadora consegue aprender o fluxo completo.
 
@@ -7799,7 +7799,7 @@ Incluída corretamente.
 2. Público: apenas a autora.
 3. Riscos: inexistentes.
 4. Confirmação vibracional: adequada.
-5. Assinatura: ✔️
+5. Assinatura: ✔
 
 ---
 
@@ -7876,7 +7876,7 @@ ChatGPT para criar atividades, revisão humana presente.
 2. Riscos → moderados: exposição pública comunitária.
 3. Salvaguardas → consentimento + supervisão humana.
 4. Check vibracional → intermediário aprovado.
-5. Assinatura → ✔️
+5. Assinatura → ✔
 
 ---
 
@@ -9033,7 +9033,7 @@ Este fluxograma:
 
 A seguir, o fluxograma oficial da Lichtara License v4.
 
-![Fluxograma Público de Permissões](fluxograma-publico.svg)
+![Fluxograma Público de Permissões](fluxograma-publico.pdf)
 
 ---
 
