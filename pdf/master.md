@@ -5868,37 +5868,30 @@ Nos casos de alto impacto, adiciona-se:
 Todo processo exige os seguintes elementos mínimos:
 
 - [ ]  **Documento de Submissão**
-
 Incluindo:
-
 - identificação do implementador,
 - responsáveis humanos,
 - escopo e finalidade da implementação.
+  
 - [ ]  **RCI (Registro Completo ou Simplificado)**
-
 Versão mais atual.
 
 - [ ]  **LCV (Simplificada ou Completa)**
-
 Compatível com risco real.
 
 - [ ]  **Logs essenciais**
-
 Técnicos, decisórios, criativos e vibracionais.
 
 - [ ]  **Atribuição Expandida (MHA)**
-
 Inclusão de:
-
 - humanos,
 - IA(s),
 - fluxo vibracional declarado.
+  
 - [ ]  **Verificação de Vedações Absolutas**
-
 Checklist obrigatório.
 
 - [ ]  **Termo de Intenção e Responsabilidade**
-
 Documento curto, declarando integridade ética e vibracional.
 
 
