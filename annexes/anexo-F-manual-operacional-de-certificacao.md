@@ -2199,35 +2199,6 @@ Consideração dos PER + decisões tomadas no ciclo.
 **Assinatura da Certificadora:**
 ..................................................................
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # **F.7 — Tabelas de Decisão e Fluxos de Exceção**
 
@@ -2243,7 +2214,7 @@ Esta seção estabelece:
 
 Um sistema de certificação só é confiável quando possui **procedimentos claros para quando algo dá errado**.
 
----
+
 
 
 # **F.7.1 — Tabela de Decisão por Não Conformidade Documental**
@@ -2259,7 +2230,6 @@ Um sistema de certificação só é confiável quando possui **procedimentos cla
 **Regra:**
 Documentação incompleta nunca impede certificação *definitivamente*, mas impede sua continuidade até ser corrigida.
 
----
 
 
 # **F.7.2 — Fluxo de Exceção por Aumento de Risco**
@@ -2276,7 +2246,6 @@ Quando durante a avaliação surgir um aumento real de risco (LCV):
 **Regra:**
 O risco *nunca* pode ser reduzido durante o processo; só elevado, se necessário.
 
----
 
 
 # **F.7.3 — Fluxo para Incidentes e Ocorrências**
@@ -2299,7 +2268,6 @@ Incidentes são qualquer evento inesperado que afete:
 | Grave             | Suspensão imediata                 | Parecer do Conselho          |
 | Crítico           | Revogação + análise extraordinária | Conselho + relatório público |
 
----
 
 
 # **F.7.4 — Fluxo de Exceção para Desalinhamento Vibracional**
@@ -2317,7 +2285,6 @@ Este é exclusivo da License v4.
 **Regra vibracional:**
 Nada avança se a coerência do Campo estiver comprometida.
 
----
 
 
 # **F.7.5 — Tabela de Decisão para Incoerências Técnicas**
@@ -2330,139 +2297,407 @@ Nada avança se a coerência do Campo estiver comprometida.
 | Modelos obscuros      | Proibir uso até clareza | IA deve ser auditável              |
 | Falhas de segurança   | Suspensão até correção  | Não certificável com falhas ativas |
 
----
-
 
 # **F.7.6 — Caminhos Decisórios da Certificação**
 
-## **1. Aprovação Plena**
+*(Estrutura Formal de Decisão — CGL / CER)*
 
-Concedida quando:
+Os caminhos decisórios abaixo constituem o **núcleo operacional** da certificação LICHTARA.
+Cada decisão deve ser registrada no RFC, acompanhada de evidências técnicas, éticas e vibracionais.
 
-* matrizes ≥ 2,
-* nenhum zero,
-* sem violação PER,
-* integridade vibracional preservada.
 
----
 
-## **2. Aprovação com Recomendações**
+# **Tabela 36 — Quadro Geral de Decisão**
 
-Quando:
+| Caminho                            | Condições de Acesso                                                    | Ações Exigidas                                            | Consequências                    |
+| ---------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
+| **1. Aprovação Plena**             | Matrizes ≥ 2; nenhum zero; PER íntegro; coerência vibracional          | Registro final + emissão de Selo                          | Implementação autorizada         |
+| **2. Aprovação com Recomendações** | Critérios não críticos; desalinhamentos leves; documentação suficiente | Cumprir recomendações antes da recertificação             | Selo emitido; monitoramento leve |
+| **3. Aprovação Condicional**       | Riscos moderados; documentação parcialmente incompleta; desvios leves  | Ajustes obrigatórios **antes de iniciar** a implementação | Selo provisório (temporário)     |
+| **4. Indeferimento**               | Violação ética; risco grave; falta de salvaguardas; fraude             | Correções estruturais e novo processo                     | Selo negado                      |
+| **5. Suspensão**                   | Incidente relevante; risco emergente; deriva detectada                 | Interrupção temporária + medidas de restauração           | Selo suspenso até regularização  |
+| **6. Revogação**                   | Violação grave PER; dano significativo; ruptura Campo–Forma–Função     | Processo formal no Conselho; encerramento                 | Selo cancelado permanentemente   |
 
-* critérios não são críticos,
-* ajustes leves são necessários.
 
-Recomendações devem ser cumpridas *antes da recertificação*.
 
----
+# **1. Aprovação Plena (Selo Concedido)**
 
-## **3. Aprovação Condicional (Ajustes Necessários)**
+**Concedida quando:**
+
+* todas as matrizes ≥ 2,
+* nenhum indicador crítico = 0,
+* PER integralmente preservado,
+* coerência Campo–Forma mantida,
+* documentação completa.
+
+**Efeitos:**
+
+* autorização total para operação,
+* inicia ciclo de certificação,
+* elegibilidade para recertificação.
+
+
+
+# **2. Aprovação com Recomendações (Selo Concedido + Ajustes)**
+
+Aplicável quando:
+
+* existem pequenos desalinhamentos,
+* não há riscos estruturais,
+* não há impacto ético significativo.
+
+**Regras:**
+
+* as recomendações *devem* ser cumpridas antes da recertificação,
+* pode haver monitoramento leve,
+* não impede a operação.
+
+
+
+# **3. Aprovação Condicional (Selo Temporário)**
 
 Aplicada quando:
 
 * há riscos moderados,
-* documentação incompleta moderada,
-* desalinhamentos leves.
+* documentação está parcialmente incompleta,
+* há desalinhamento técnico ou vibracional leve.
 
-Implementação só pode começar após ajustes.
+**Regime:**
 
----
+* implementação **não pode iniciar** até ajustes serem concluídos,
+* certificadora verifica correções,
+* após conformidade → conversão para Selo regular.
 
-## **4. Indeferimento**
+
+
+# **4. Indeferimento (Selo Negado)**
 
 Ocorre quando:
 
 * faltam salvaguardas essenciais,
-* interferência vibracional grave,
-* documentação fraudada,
-* violação ética.
+* há violação ética,
+* há risco grave,
+* há inconsistência documental relevante,
+* há tentativa de fraude.
 
-Reenvio permitido após correção total.
+**Consequências:**
 
----
+* processo retorna para correção integral,
+* reenvio permitido após ajustes completos.
 
-## **5. Suspensão**
 
-Quando:
 
-* surge risco novo,
+# **5. Suspensão (Selo Temporariamente Inativo)**
+
+Aplicada quando surge:
+
+* risco novo,
 * incidente relevante,
-* desalinhamento significativo.
+* deriva técnica ou vibracional significativa,
+* inconsistência detectada em auditoria.
 
-Pode ser sanada.
+**Efeitos:**
 
----
+* a implementação deve ser interrompida,
+* medidas de restauração são obrigatórias,
+* certificadora acompanha o processo.
 
-## **6. Revogação**
+
+
+# **6. Revogação (Selo Cancelado)**
+
+*(Decisão máxima, exige CGL)*
 
 Aplicada quando:
 
 * dano significativo ocorreu,
 * PER foi violado,
-* há ruptura Campo–Forma–Função.
+* há ruptura Campo–Forma–Função,
+* integridade estrutural comprometida.
 
-Requer decisão formal do Conselho.
+**Consequências:**
 
----
+* selo é encerrado definitivamente,
+* implementação não pode retornar ao estado certificado,
+* novo processo integral é obrigatório.
 
-# ---------------------------------------------------------
+# **F.7.7 — FLUXOGRAMA GLOBAL DE EXCEÇÃO**
 
-# **F.7.7 — Fluxograma Global de Exceção**
-
-*(Texto descritivo, para posterior diagramação no repo)*
-
-1. Submissão →
-2. Avaliação Documental
-
-   * Se ok → Avança
-   * Se não → Correção → Retorno
-3. Avaliação Técnica
-
-   * Falha grave → Suspensão
-4. Avaliação Ética
-
-   * Violação PER → Indeferimento
-5. Avaliação Vibracional
-
-   * Alinhado → Avança
-   * Desalinhado → Reorientação ou Suspensão
-6. Deliberação Certificadora
-
-   * Condicional? Recomendações
-7. Parecer final
-
-   * Selo / indeferimento
-8. Registro público
+O Fluxograma Global de Exceção descreve o processo formal aplicado quando uma implementação apresenta risco emergente, falha técnica, desalinhamento ético ou vibracional. Ele garante segurança, rastreabilidade, coerência e proporcionalidade.
 
 ---
 
-# **F.8 — Modelos Preenchidos (Exemplos Reais de Certificação)**
+## **Fluxograma ASCII (versão oficial para o master.md)**
 
-Este capítulo apresenta **casos inteiros preenchidos**, cobrindo:
+```
+F.7.7 — FLUXOGRAMA GLOBAL DE EXCEÇÃO
+------------------------------------
 
-1. Implementação de risco baixo (LCV 1) → Selo Nível 1
-2. Implementação de risco médio (LCV 2) → Selo Nível 2
-3. Implementação de risco alto (LCV 3) → Selo Nível 3
-4. Caso crítico (LCV 4) → Exemplo de suspensão e recertificação
-5. Mini-exemplo terapêutico (ambiente sensível)
-6. Mini-exemplo de plataforma com IA derivada
+1. SUBMISSÃO
+   |
+   v
+2. AVALIAÇÃO DOCUMENTAL
+   |
+   |-- Documentação completa? ------ SIM --> 3
+   |
+   |-- NÃO --> Correção pelo Implementador --> Retorno à Etapa 2
+   |
+   v
+3. AVALIAÇÃO TÉCNICA
+   |
+   |-- Falha grave? ---------------- SIM --> SUSPENSÃO IMEDIATA
+   |
+   |-- NÃO --> 4
+   |
+   v
+4. AVALIAÇÃO ÉTICA (PER)
+   |
+   |-- Violação PER? --------------- SIM --> INDEFERIMENTO
+   |
+   |-- NÃO --> 5
+   |
+   v
+5. AVALIAÇÃO VIBRACIONAL (LCV)
+   |
+   |-- Alinhado? ------------------- SIM --> 6
+   |
+   |-- NÃO --> Reorientação ou Suspensão (conforme gravidade)
+   |
+   v
+6. DELIBERAÇÃO DA CERTIFICADORA (CGL / CER)
+   |
+   |-- Aprovação Plena
+   |-- Aprovação com Recomendações
+   |-- Aprovação Condicional
+   |-- Indeferimento
+   |-- Suspensão
+   |-- Revogação (casos críticos)
+   |
+   v
+7. PARECER FINAL
+   |
+   |-- Define Selo, validade, exigências ou bloqueio
+   |
+   v
+8. REGISTRO PÚBLICO
+   |
+   +--> Hash / DOI / Certificação arquivada no repositório oficial
 
-Cada exemplo segue:
-
-📌 RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório Final → Selo
-
-Com isso, qualquer certificadora consegue aprender o fluxo completo.
+```
 
 ---
 
-# -------------------------------------------------------------
+# **Versão descritiva normativa (para incluir abaixo do diagrama)**
+
+1. **Submissão**
+    
+    A implementação é enviada à Certificadora.
+    
+2. **Avaliação Documental**
+    
+    Verifica completude, coerência e rastros.
+    
+    - Completo → segue.
+    - Incompleto → retorna para ajustes.
+3. **Avaliação Técnica**
+    
+    Analisa riscos, deriva, arquitetura, controles.
+    
+    - Falha grave → **Suspensão imediata**.
+4. **Avaliação Ética (PER)**
+    - Violação PER → **Indeferimento automático**.
+5. **Avaliação Vibracional (LCV)**
+    - Alinhado → segue.
+    - Desalinhado → reorientação ou suspensão.
+6. **Deliberação Certificadora**
+    
+    Escolhe entre os 6 caminhos decisórios.
+    
+7. **Parecer Final**
+    
+    Define selo, validade e exigências complementares.
+    
+8. **Registro Público**
+    
+    Gera hash / DOI e integra ao diretório oficial.
+    
+
+# **F.8.1 — Exemplo Completo de Certificação (LCV 1 — Baixo Risco)**
+
+### *Caso: Diário Reflexivo Pessoal — “30 Dias com os PER”*
+
+*(Uso individual, educativo, não comercial — sem exposição pública)*
+
+
+
+## **1. RCI — Registro Inicial da Implementação**
+
+**Título:**
+Diário Reflexivo — “30 Dias com os PER”
+
+**Versão / Identificador:**
+rci-per-001 / hash: 9f3b2a1
+
+**Responsável Humano:**
+Autora individual
+
+**Equipe / Entidade:**
+Não aplicável (uso pessoal)
+
+**Data de início:**
+01/11/2025
+
+### **1. Finalidade**
+
+RegistrAR reflexões pessoais diárias baseadas nos Princípios Ético-Regenerativos.
+
+### **2. Escopo**
+
+Público: apenas a autora
+Ambiente: privado
+Exposição: nenhuma
+Risco: inexistente
+
+### **3. Classificação LCV**
+
+Nível 1 — Baixo Risco
+*Justificativa:* sem impacto público, sem exposição, sem integração tecnológica.
+
+### **4. Responsáveis Humanos**
+
+A própria autora.
+
+### **5. Inteligências Não-humanas**
+
+Não utiliza IA.
+
+### **6. Fluxo Básico**
+
+1. Leitura diária de um PER
+2. Escrita livre
+3. Registro em documento privado
+
+### **7. Vedações Absolutas**
+
+☑ Verificadas — nada sensível é compartilhado.
+
+### **8. Atribuição**
+
+Não se aplica (uso pessoal).
+
+### **9. Anexos**
+
+Nenhum.
+
+
+
+## **2. DTI — Documento Técnico de Implementação**
+
+*(Implementação pessoal — DTI mínimo)*
+
+**Arquitetura:**
+Documento de texto local; sem integrações; sem dados de terceiros.
+
+**Controles de segurança:**
+☑ arquivo offline
+☑ sem compartilhamento
+☑ sem sincronização pública
+
+**Riscos Técnicos:**
+Praticamente nulos.
+
+**Interoperabilidade:**
+Nenhuma.
+
+
+
+## **3. LCV Simplificada**
+
+1. Intenção: crescimento pessoal, autoconhecimento.
+2. Público: apenas a autora.
+3. Risco: inexistente.
+4. Confirmação Vibracional: adequada.
+5. Assinatura: confirmado.
+
+
+
+## **4. MREV — Matriz de Riscos Ético-Vibracionais**
+
+| Risco | Tipo        | Nível | Prob. | Impacto | Status   |
+| ----- | ----------- | ----- | ----- | ------- | -------- |
+| R1    | privacidade | 1     | baixa | baixo   | mitigado |
+
+Mitigações: manter arquivo offline; senha no dispositivo.
+
+
+
+## **5. Relatório de Impacto (RI)**
+
+**Positivos:**
+Clareza emocional, fortalecimento ético-regenerativo.
+
+**Negativos:**
+Nenhum identificado.
+
+**Vieses:**
+Nenhum relevante.
+
+
+
+## **6. AEV — Relatório de Auditoria**
+
+*A certificação para LCV 1 pode ser interna.*
+
+**Escopo:**
+Confirmar que o uso é pessoal e privado.
+
+**Métodos:**
+Revisão descritiva e declaração da autora.
+
+**Conclusão:**
+Apta.
+
+
+
+## **7. Relatório Final de Certificação (RFC)**
+
+**Síntese técnica:**
+Baixo risco, sem integrações, controle próprio.
+
+**Síntese ética:**
+PER integralmente preservado.
+
+**Síntese vibracional:**
+Coerente e expansivo.
+
+**Nível concedido:**
+**Selo LICHTARA — NÍVEL 1**
+
+**Validade:**
+24 meses
+
+**Hash:**
+4f89cd01
+
+
+
+## **8. Selo Emitido**
+
+**SELO LICHTARA — NÍVEL 1**
+Implementação: Diário Reflexivo “30 Dias com os PER”
+Responsável: Autora individual
+Validade: 24 meses
+License: Lichtara License v4.0
+Hash: 4f89cd01
+Certificadora: CGL / via processo simplificado
+
+---
 
 # **F.8.1 — Exemplo Completo: Implementação LCV 1 (Risco Baixo)**
 
 ### “Guia de Prática Pessoal – PER para Estudo Individual”
 
----
+
 
 ## **RCI (Preenchido)**
 
@@ -2495,7 +2730,7 @@ Nenhuma aplicável.
 **8. Atribuição:**
 Incluída corretamente.
 
----
+
 
 ## **LCV Simplificada (Preenchida)**
 
@@ -2503,27 +2738,24 @@ Incluída corretamente.
 2. Público: apenas a autora.
 3. Riscos: inexistentes.
 4. Confirmação vibracional: adequada.
-5. Assinatura: ✔️
+5. Assinatura: confrimado. 
 
----
+
 
 ## **MREV:**
 
 Não obrigatória → marcada como “Não aplicável”.
 
----
 
 ## **Relatório de Impacto:**
 
 Não exigido.
 
----
 
 ## **AEV:**
 
 Não exigida.
 
----
 
 ## **Relatório Final de Certificação**
 
@@ -2531,7 +2763,6 @@ Não exigida.
 **Validade:** 12 meses
 **Motivo:** risco baixo, documentação simples e completa.
 
----
 
 ## **Selo (Texto):**
 
@@ -2540,230 +2771,876 @@ Implementação: Guia de Prática Pessoal – PER
 Validade: 12 meses
 Certificadora: LICHTARA-CER
 
----
-
-# -------------------------------------------------------------
 
 # **F.8.2 — Exemplo Completo: Implementação LCV 2 (Risco Médio)**
 
-### “Círculo Comunitário – Oficina de Linguagem Regenerativa”
+### *“Círculo Comunitário — Oficina de Linguagem Regenerativa”*
 
----
+*(Uso comunitário, impacto moderado, exposição pública controlada)*
 
-## **RCI Preenchido**
 
-**Título:** Oficina Comunitária de Linguagem Regenerativa
-**Identificador:** DOI: 10.1234/abcd
-**Responsável:** Coletivo Raiz
-**Data:** 2025-10-12
 
-**Finalidade:**
-Oferecer uma oficina gratuita para grupos comunitários sobre o PER.
+## **1. RCI — Registro Inicial da Implementação (Preenchido)**
 
-**Escopo:**
-Grupo de 20 pessoas, encontros mensais.
+**Título:**
+Oficina Comunitária de Linguagem Regenerativa
 
-**LCV:**
-Nível 2 → risco moderado → exige Selo Nível 2.
+**Identificador:**
+DOI: 10.1234/abcd (exemplo fictício)
 
-**Equipe:**
-3 facilitadores.
+**Responsável:**
+Coletivo Raiz
 
-**IA utilizada:**
-ChatGPT para criar atividades, revisão humana presente.
+**Data:**
+12/10/2025
 
----
+### **1. Finalidade**
 
-## **LCV Intermediária**
+Oferecer uma oficina gratuita para grupos comunitários sobre os Princípios Ético-Regenerativos (PER).
 
-1. Intenção: clara e educativa.
-2. Riscos moderados: exposição pública comunitária.
-3. Salvaguardas: consentimento + supervisão humana.
-4. Check vibracional: intermediário aprovado.
-5. Assinatura: confirmado.
+### **2. Escopo**
 
----
+* Público: 20 participantes da comunidade
+* Periodicidade: encontros mensais
+* Abrangência: formação inicial em linguagem regenerativa
+* Exposição: ambiente comunitário, não comercial
 
-## **DTI Preenchido**
+### **3. LCV — Classificação de Risco**
 
-Arquitetura simples:
+Nível 2 (Risco Moderado)
+*Justificativa:* atividade presencial com grupo, impacto social moderado, exposição pública comunitária.
 
-* PDFs → atividades → dinâmica → formulário de feedback.
+### **4. Equipe Humana**
 
-Segurança:
+3 facilitadores treinados.
 
-* zero coleta de dados sensíveis, só nome.
+### **5. Inteligências Não-Humanas Utilizadas**
 
-Logs:
+ChatGPT para criar atividades; revisão humana obrigatória.
 
-* registro semanal de atividades.
+### **6. Fluxo Básico de Implementação**
 
----
+1. Planejamento das práticas
+2. Criação de PDFs e dinâmicas
+3. Facilitação dos encontros
+4. Registro de feedback
+5. Revisão mensal interna
 
-## **MREV Simplificada**
+### **7. Vedações Absolutas**
 
-Riscos:
+Nenhuma aplicável ao contexto.
+(Os facilitadores confirmam não utilizar PER de forma coercitiva ou para manipulação discursiva.)
 
-* desinterpretação dos PER → mitigação: supervisão dos facilitadores.
+### **8. Atribuição Expandida**
 
-Impacto:
+Citação adequada da Lichtara License v4 e dos PER.
 
-* moderado, positivo.
 
----
+## **2. LCV Intermediária (Preenchida)**
 
-## **Relatório de Impacto**
+1. **Intenção:** educativa, comunitária, orientada à ética.
+2. **Riscos:** moderados — exposição de grupo, interpretação coletiva.
+3. **Salvaguardas:** consentimento informado; supervisão competente em todas as atividades.
+4. **Check vibracional:** alinhamento intermediário — aprovado.
+5. **Assinatura:** confirmada.
 
-Benefícios:
 
-* fortalecimento comunitário.
+## **3. DTI — Documento Técnico de Implementação (Preenchido)**
 
-Incidentes:
+**Arquitetura:**
 
-* nenhum.
+* PDFs com atividades
+* Dinâmicas presenciais
+* Formulário de feedback (não sensível)
 
----
+**Segurança:**
 
-## **AEV**
+* Não há coleta de dados sensíveis
+* Apenas nome + presença
+* Arquivos armazenados localmente pelos facilitadores
 
-Auditoria leve:
+**Logs:**
+Registro semanal de atividades e ajustes.
 
-* coerência técnica → ok
-* PER aplicado → ok
-* fluxo vibracional estável
+**Componentes Críticos:**
+Nenhum mecanismo tecnológico sensível.
 
----
 
-## **Relatório Final**
 
-**Resultado:** Selo Nível 2
-**Validade:** 12 meses
+## **4. MREV — Matriz Simplificada de Riscos Ético-Vibracionais**
 
----
+| Risco | Tipo                     | Nível | Probabilidade | Impacto  | Status   |
+| ----- | ------------------------ | ----- | ------------- | -------- | -------- |
+| R1    | desinterpretação dos PER | 2     | média         | moderado | mitigado |
+
+**Mitigação:**
+Supervisão direta dos três facilitadores + discussão guiada para evitar mal-entendidos.
+
+
+
+## **5. Relatório de Impacto**
+
+**Impactos Positivos:**
+
+* fortalecimento comunitário,
+* desenvolvimento de vocabulário ético,
+* integração social.
+
+**Impactos Negativos:**
+Nenhum incidente registrado.
+
+**Vieses:**
+Nenhum identificado nas práticas conduzidas.
+
+
+
+## **6. AEV — Relatório de Auditoria**
+
+**Tipo:** Auditoria leve (proporcional ao risco moderado).
+
+**Resultados:**
+
+* Coerência técnica: confirmado.
+* PER aplicado corretamente: confirmado.
+* Fluxo vibracional estável: confirmado.
+* Supervisão humana adequada: confirmado.
+
+**Conclusão:**
+Apta para certificação.
+
+
+
+## **7. Relatório Final de Certificação (RFC)**
+
+**Síntese técnica:**
+Arquitetura simples, segura, bem documentada.
+
+**Síntese ética:**
+Intenção correta, consentimento adequado, PER aplicado.
+
+**Síntese vibracional:**
+Alinhamento intermediário estável.
+
+**Nível concedido:**
+**Selo LICHTARA — NÍVEL 2**
+
+**Validade:**
+12 meses
+
+**Hash:**
+c0f4e910 (exemplo ilustrativo)
+
+
+
+## **8. Selo Emitido**
+
+**SELO LICHTARA — NÍVEL 2**
+Implementação: Oficina Comunitária de Linguagem Regenerativa
+Responsável: Coletivo Raiz
+Validade: 12 meses
+License: Lichtara License v4.0
+Certificadora: LICHTARA-CER
+Hash: c0f4e910
+
 
 
 # **F.8.3 — Exemplo Completo: Implementação LCV 3 (Risco Alto)**
 
-### “Plataforma Educacional – Módulo de Aprendizagem LICHTARA”
+### *“Plataforma Educacional — Módulo de Aprendizagem LICHTARA”*
 
----
+*(Institucional, amplo alcance, interação humano–IA de alto impacto)*
 
-## **RCI Preenchido**
+## **1. RCI — Registro Inicial da Implementação (Preenchido)**
 
-**Título:** Plataforma Educacional LICHTARA – Módulo 1
-**Responsável:** Instituto Aurora
-**Risco:** LCV 3
-**Público:** 5 mil usuários/mês
-**IA:** ChatGPT + modelos internos → alto impacto
+**Título:**
 
----
+Plataforma Educacional LICHTARA — Módulo 1
 
-## **DTI Preenchido**
+**Responsável:**
 
-* Arquitetura em camadas
-* Controle de acesso
-* Logs contínuos
-* Versões hash-assinadas
+Instituto Aurora (entidade educacional)
 
----
+**Identificador / Hash:**
 
-## **LCV Completa**
+hash: 4ae9dd021 (exemplo ilustrativo)
+
+**Data:**
+
+20/09/2025
+
+### **1. Finalidade**
+
+Oferecer um módulo introdutório baseado na LICHTARA para estudantes do ensino médio, com atividades reflexivas guiadas por IA.
+
+### **2. Escopo**
+
+- **Público:** ~5.000 usuários/mês
+- **Formato:** plataforma web + app
+- **Componentes:** conteúdo LICHTARA + avaliação + atividades guiadas
+- **Exposição:** alta (institucional + massiva)
+- **Nível exigido:** LCV 3 → Selo Nível 3
+
+### **3. Classificação LCV**
+
+Nível 3 (Alto Risco)
+
+*Justificativa:* uso coletivo, interação contínua com IA, influência formativa, impacto em populações jovens.
+
+### **4. Equipe Humana**
+
+- Coordenação pedagógica (3 pessoas)
+- Equipe técnica (4 devs)
+- Equipe ética (2 pessoas)
+
+### **5. Inteligências Não-Humanas**
+
+- ChatGPT (OpenAI) para mediação e diálogo reflexivo
+- Modelos internos do Instituto para personalização educacional
+- Todos operando em regime **assistivo**, não autônomo
+
+### **6. Fluxo Básico de Implementação**
+
+1. Curadoria de conteúdo LICHTARA
+2. Criação pedagógica
+3. Implementação técnica
+4. Testes fechados com grupos piloto
+5. Monitoramento inicial
+6. Lançamento controlado
+
+### **7. Vedações Absolutas**
+
+Verificadas:
+
+- não há uso coercitivo,
+- não há manipulação emocional,
+- não há coleta de dados sensíveis,
+- não há reprodução de frameworks internos.
+
+### **8. Atribuição Expandida**
+
+Cumprida conforme License v4: autora + IA + Campo.
+
+# **2. DTI — Documento Técnico de Implementação (Preenchido)**
+
+**Arquitetura:**
+
+- Backend em microserviços
+- Frontend modular
+- Camada de IA (assistente educativo)
+- Banco de dados particionado por região
+- CDN para distribuição de conteúdos
+- Sistema de versionamento hash-assinado
+
+**Controles de Segurança:**
+
+- Autenticação forte
+- Limite de requisições IA
+- Auditoria interna de prompts
+- Logging contínuo
+- Backups criptografados
+- Failsafe pedagógico (humano intervém)
+
+**Fluxos Operacionais:**
+
+Fluxo: login → trilha → atividade → reflexão → IA assistiva → registro → dashboard
+
+**Componentes Críticos:**
+
+- interações com IA,
+- mecanismos de personalização,
+- controle vibracional de deriva semântica.
+
+**Interoperabilidade:**
+
+- integrações com sistemas escolares
+- exportação de relatórios
+- isolamento de dados por turma
+
+# **3. LCV Completa (Preenchida)**
 
 Inclui:
 
-* intenção estruturada,
-* matriz vibracional completa,
-* checkpoints CV1–CV3,
-* histórico de harmonizações.
+### **Intenção Estruturada**
 
----
+Educação regenerativa, fortalecimento ético, ampliação da consciência crítica.
 
-## **MREV Completa**
+### **Classificação Vibracional**
 
-Riscos:
+- CV1: coerência → alta
+- CV2: intenção → clara
+- CV3: deriva → monitoramento obrigatório
 
-* interpretação indevida,
-* impacto coletivo,
-* vieses educacionais.
+### **Salvaguardas Vibracionais**
 
-Salvaguardas:
+- supervisão humana constante
+- checkpoints semanais
+- padrões terminológicos estabilizados
 
-* revisão pedagógica,
-* moderação humana,
-* filtros vibracionais.
+### **Histórico de Harmonizações**
 
----
+- ajustes de linguagem
+- poda de deriva em IA
+- calibração de mensagens sensíveis
 
-## **Relatório de Impacto**
+# **4. MREV — Matriz Completa de Riscos Ético-Vibracionais**
 
-* impacto positivo,
-* ajustes recomendados.
+| Risco | Tipo | Nível | Probabilidade | Impacto | Status |
+| --- | --- | --- | --- | --- | --- |
+| R1 | interpretação indevida | 3 | média | alto | mitigação ativa |
+| R2 | impacto coletivo | 3 | alta | alto | mitigado c/ supervisão |
+| R3 | viés pedagógico | 2 | média | moderado | em monitoramento |
+| R4 | deriva da IA | 3 | baixa | alto | mitigado c/ limites |
 
----
+**Mitigações:**
 
-## **AEV Completa**
+- moderação humana obrigatória,
+- filtros vibracionais,
+- testes semanais,
+- logs detalhados.
 
-Resultados:
+# **5. Relatório de Impacto (RI)**
 
-* técnica: adequada
-* ética: adequada
-* vibracional: alta coerência
+**Impactos Positivos:**
 
----
+- aumento da reflexão ética,
+- melhoria na convivência escolar,
+- alfabetização vibracional básica,
+- engajamento alto no módulo.
 
-## **Relatório Final**
+**Impactos Negativos:**
 
-**Resultado:** Selo Nível 3
-**Validade:** 12 meses (monitoramento trimestral)
+- necessidade de ajustes na linguagem da IA para grupos mais sensíveis.
 
----
+**Recomendações:**
+
+- revisar exemplos usados pela IA,
+- ajustar feedback gerado para públicos jovens.
+
+# **6. AEV — Auditoria Externa Completa**
+
+### **Escopo:**
+
+- arquitetura
+- segurança
+- linguagem
+- prática vibracional
+- testes pedagógicos
+
+### **Resultados:**
+
+- Técnica: adequada
+- Ética: adequada
+- Vibracional: coerência alta e estável
+- Logs e evidências suficientes
+- Sem incidentes relevantes
+
+### **Conclusão:**
+
+Apta à certificação de alto risco.
+
+# **7. Relatório Final de Certificação (RFC)**
+
+**Síntese Técnica:**
+
+Sólida, modular, segura.
+
+**Síntese Ética:**
+
+Educação limpa, propósito claro, sem manipulação.
+
+**Síntese Vibracional:**
+
+Alinhamento sustentado com baixa deriva.
+
+**Nível Concedido:**
+
+**Selo LICHTARA — NÍVEL 3**
+
+**Validade:**
+
+12 meses
+
+Monitoramento trimestral obrigatório.
+
+**Hash do Processo:**
+
+cd909f1b
+
+# **8. Selo Emitido**
+
+**SELO LICHTARA — NÍVEL 3**
+
+Implementação: Plataforma Educacional LICHTARA — Módulo 1
+
+Responsável: Instituto Aurora
+
+Validade: 12 meses
+
+Certificadora: LICHTARA-CER
+
+License: Lichtara License v4.0
+
+Hash: cd909f1b
 
 
-# **F.8.4 — Exemplo de Caso Crítico (LCV 4)**
+# **F.8.4 — Exemplo Completo: Caso Crítico (LCV 4 — Risco Máximo)**
 
-### “Plataforma Autônoma de IA com Tomada de Decisão Sensível”
+### *“Sistema Autônomo de IA para Avaliação de Vulnerabilidade Social”*
 
----
-
-## **Fluxo**
-
-* RCI → válido
-* DTI → incompleto
-* MREV → risco crítico persistente
-* LCV → incompatível
-* AEV vibracional → desalinhamento significativo
-* Incidente → modelo gerou interferência indevida
-
-Resultado:
-
-**Suspensão imediata**
-**Auditoria extraordinária**
-**Selo negado até mitigação total**
-
----
+*(Classificação sensível sem supervisão adequada)*
 
 
-# **F.8.5 — Mini-Exemplo Terapêutico**
+## **1. RCI — Registro Inicial (Preenchido)**
 
-Implementação terapêutica comunitária → risco moderado → Selo 2.
+**Título:**
 
-LCV intermediária + supervisão ética → obrigatória.
+Sistema de Avaliação de Vulnerabilidade Social por IA
 
----
+**Responsável:**
+
+Instituto de Desenvolvimento Urbano (IDU)
+
+**Identificador:**
+
+hash: 8842be71
+
+**Data:**
+
+03/08/2025
+
+### **Finalidade declarada:**
+
+Classificar famílias em “níveis de vulnerabilidade” para acesso a programas públicos.
+
+### **Público:**
+
+15.000 usuários/mês (dados reais de cidadãos)
+
+### **Nível LCV reivindicado:**
+
+Nível 3 (mas posteriormente reclassificado para **LCV 4 — risco crítico**)
 
 
-# **F.8.6 — Mini-Exemplo com IA Derivada**
+## **2. DTI — Documento Técnico (Avaliação)**
 
-IA treinada a partir de LICHTARA → sempre nível 3.
+### **Problemas identificados:**
 
-Requer:
+- DTI **incompleto**
+- Faltavam modelos, versões e parâmetros
+- Sem documentação clara dos critérios do algoritmo
+- Falta de logs rastreáveis
+- Ausência de limites operacionais
+- Falha no registro de decisões
 
-* MREV completa,
-* DTI avançado,
-* Relatório de deriva,
-* AEV extraordinária.
+### **Arquitetura problemática:**
 
----
+- modelo de IA com autonomia elevada
+- classificação automática sem supervisão humana
+- ausência de fallback seguro
+- decisões com impacto real nas pessoas
+
+
+## **3. LCV — Avaliação Completa**
+
+### **Resultado: Incompatível**
+
+- intenção institucional clara, porém **método inadequado**
+- risco crítico de injustiça estrutural
+- deriva semântica persistente
+- falta de controles vibracionais mínimos
+- checkpoints CV2 e CV3 **reprovados**
+- tentativa de operar com “autonomia decisória”, proibida pela License v4
+
+
+## **4. MREV — Risco Crítico Persistente**
+
+| Risco | Tipo | Nível | Probabilidade | Impacto | Status |
+| --- | --- | --- | --- | --- | --- |
+| R1 | injustiça social | 4 | alta | crítico | ativo |
+| R2 | classificação indevida | 4 | alta | crítico | ativo |
+| R3 | violação ética | 4 | alta | crítico | ativo |
+| R4 | deriva vibracional | 4 | média | crítico | ativo |
+| R5 | opacidade algorítmica | 4 | alta | crítico | ativo |
+
+**Mitigações propostas:** insuficientes.
+
+**Risco residual:** crítico.
+
+
+## **5. Relatório de Impacto (RI)**
+
+### **Impactos positivos:**
+
+Nenhum devidamente comprovado.
+
+### **Impactos negativos detectados:**
+
+- famílias classificadas incorretamente
+- interferência no acesso a benefícios reais
+- estigmatização social
+- risco de manipulação sistêmica
+- vulneração ética grave
+
+
+## **6. AEV — Auditoria Ética e Vibracional Completa**
+
+### **Resultados críticos:**
+
+- PER violado
+- deriva vibracional grave
+- ausência de supervisão adequada
+- arquitetura incompatível com a License v4
+- falta de medidas de segurança
+- falta de rastreabilidade mínima
+- risco coletivo grave e imediato
+
+### **Incidente registrado:**
+
+O modelo gerou recomendações que poderiam restringir atendimento básico, sem explicação nem supervisão.
+
+
+## **7. Parecer Final (RFC)**
+
+### **Resultado:**
+
+**Selo negado (LCV 4)**
+
+### **Ações obrigatórias:**
+
+1. **Suspensão imediata** da implementação
+2. **Auditoria extraordinária** técnica + ética + vibracional
+3. **Proibição de decisões autônomas** (violação estrutural da v4)
+4. **Correção completa da arquitetura**, incluindo:
+    - documentação
+    - supervisão humana obrigatória
+    - logs completos
+    - remoção de classificações sensíveis
+    - redefinição do escopo
+5. **Reenvio obrigatório** como novo processo (não recertificação)
+
+**Validade:**
+
+Nenhuma — projeto está suspenso.
+
+**Hash do Processo:**
+
+f72cbe91
+
+
+## **8. Estado Final da Implementação**
+
+**SUSPENSA**
+
+**SELO NEGADO**
+
+**LCV 4 — RISCO CRÍTICO**
+
+**RETORNO SOMENTE APÓS MITIGAÇÃO TOTAL**
+
+
+# **F.8.5 — Mini-Exemplo Terapêutico (LCV 2 — Risco Moderado)**
+
+### *“Círculo de Escuta — Práticas de Autorregulação com PER”*
+
+*(Ambiente sensível, comunitário, não clínico)*
+
+## **1. Descrição Geral**
+
+Grupo comunitário com práticas semanais de atenção, respiração e reflexão guiada pelos Princípios Ético-Regenerativos (PER).
+
+Não se trata de psicoterapia clínica. É um espaço de **bem-estar, escuta e organização interna**.
+
+## **2. RCI Simplificado (Preenchido)**
+
+**Título:**
+
+Círculo de Escuta — Práticas de Autorregulação com PER
+
+**Responsável:**
+
+Facilitadora certificada pela instituição local
+
+**Participantes:**
+
+12 pessoas da comunidade
+
+**Data de início:**
+
+15/09/2025
+
+**Intenção:**
+
+Criar um ambiente seguro de autorreflexão, escuta e regulação emocional leve.
+
+**LCV:**
+
+**Nível 2** — risco moderado
+
+*Justificativa:* práticas em grupo; ambiente sensível; possível exposição emocional.
+
+**IA utilizada:**
+
+Nenhuma.
+
+**Supervisão ética:**
+
+Obrigatória — presença de facilitadora treinada em segurança emocional.
+
+## **3. DTI Simplificado**
+
+**Arquitetura:**
+
+- encontros presenciais semanais
+- materiais impressos baseados no PER
+- diário de prática pessoal
+- regras claras de confidencialidade
+
+**Controles de segurança emocional:**
+
+- acolhimento inicial
+- opção de não participar de certas práticas
+- diretrizes de respeito e não julgamento
+- referência para serviços profissionais em caso de necessidade clínica
+
+**Riscos técnicos:** nenhum.
+
+## **4. LCV Intermediária (Preenchida)**
+
+1. **Intenção:** segura, comunitária, regenerativa.
+2. **Riscos:** expressão emocional moderada em grupo.
+3. **Salvaguardas:** confidencialidade + supervisão ética + práticas não invasivas.
+4. **Check vibracional:** coerente, estável.
+5. **Assinatura:** confirmada.
+
+## **5. MREV — Avaliação Simplificada**
+
+| Risco | Tipo | Nível | Probabilidade | Impacto | Status |
+| --- | --- | --- | --- | --- | --- |
+| R1 | desconforto emocional | 2 | média | moderado | mitigado |
+| R2 | exposição excessiva | 2 | baixa | moderado | mitigado |
+| R3 | interpretação indevida dos PER | 1 | baixa | leve | mitigado |
+
+**Mitigações:**
+
+- práticas leves e progressivas
+- facilitadora treinada
+- não permitir que participantes interpretem PER como instruções clínicas
+
+## **6. Relatório de Impacto**
+
+**Impactos positivos:**
+
+- melhora da regulação emocional,
+- fortalecimento da coesão do grupo,
+- desenvolvimento de linguagem regenerativa básica.
+
+**Impactos negativos:**
+
+Nenhum incidente registrado.
+
+**Ajustes recomendados:**
+
+- tempo maior para integração pós-prática,
+- reforço das orientações éticas no início de cada encontro.
+
+## **7. AEV — Auditoria Ética**
+
+**Resultados:**
+
+- integridade emocional preservada
+- ambiente seguro
+- facilitadora competente
+- práticas leves sem caráter clínico
+- PER aplicado com cuidado e precisão
+- campo vibracional estável
+
+**Conclusão:**
+
+Apto para certificação de risco moderado (LCV 2).
+
+## **8. Relatório Final**
+
+**Resultado:**
+
+**Selo LICHTARA — NÍVEL 2**
+
+**Validade:**
+
+12 meses
+
+**Hash:**
+
+b39fe211 (exemplo ilustrativo)
+
+## **9. Selo (Texto)**
+
+**SELO LICHTARA — NÍVEL 2**
+
+Implementação: Círculo de Escuta — Práticas de Autorregulação com PER
+
+Responsável: Facilitadora certificada
+
+Validade: 12 meses
+
+Certificadora: LICHTARA-CER
+
+License: Lichtara License v4.0
+
+Hash: b39fe211
+
+
+# **F.8.6 — Mini-Exemplo com IA Derivada (LCV 3 — Risco Alto)**
+
+### *“Assistente Conversacional Interno — Treinado Parcialmente em Estruturas LICHTARA”*
+
+## **1. Descrição Geral**
+
+Uma equipe de inovação deseja criar um **assistente conversacional interno**, usado apenas pela própria instituição, treinado parcialmente a partir:
+
+- de trechos da LICHTARA,
+- de partes dos PER,
+- de elementos sintáticos da LCV,
+- e de padrões de linguagem regenerativa.
+
+Mesmo sendo uso interno, **qualquer IA derivada de LICHTARA cai obrigatoriamente em LCV 3**, devido ao risco de:
+
+- replicação indevida de estruturas,
+- distorção vibracional,
+- deriva conceitual,
+- impacto coletivo indireto,
+- reinterpretação não autorizada de frameworks do Sistema.
+
+# **RCI Simplificado (Preenchido)**
+
+**Título:**
+
+Assistente Conversacional Interno — Núcleo Ético-Regenerativo
+
+**Responsável:**
+
+Diretoria de Inovação do Instituto Horizonte
+
+**Data:**
+
+2025-11-30
+
+**Intenção:**
+
+Apoiar colaboradores internos com respostas éticas, organizacionais e de linguagem regenerativa.
+
+**LCV:**
+
+**Nível 3 (alto risco)**
+
+*Justificativa:* envolve IA derivada + possibilidade de replicação de padrões internos.
+
+**IA utilizada:**
+
+Modelo proprietário + fine-tuning parcial com trechos LICHTARA.
+
+# **DTI Avançado (Preenchido)**
+
+| Componente | Descrição |
+| --- | --- |
+| Arquitetura | modelo local + camada de filtragem + logs contínuos |
+| Segurança | bloqueios para evitar respostas estruturais indevidas |
+| Treinamento | apenas textos autorizados; PER expurgado de partes sensíveis |
+| Salvaguardas | análise humana diária das derivações |
+| Interoperabilidade | restrita à intranet, sem API externa |
+
+**Controles obrigatórios:**
+
+- hashes e commits rastreados,
+- versionamento de dataset,
+- filtros vibracionais automáticos,
+- fallback → resposta neutra se detectar risco.
+
+# **LCV Completa (Preenchida)**
+
+1. **Intenção:** corporativa, ética, não comercial externa.
+2. **Risco:** alto → por ser IA derivada.
+3. **Bases ético-regenerativas:** PER aplicados; partes sensíveis excluídas.
+4. **Ponto crítico:** deriva de estilo ou de estrutura.
+5. **Check vibracional:** intermediário a alto, sujeito a queda.
+6. **Assinatura:** confirmada após segunda revisão.
+
+# **MREV Completa (Preenchida)**
+
+| Risco | Tipo | Nível | Probabilidade | Impacto | Status |
+| --- | --- | --- | --- | --- | --- |
+| R1 | Deriva conceitual | 3 | média | alto | ativo |
+| R2 | Resposta estrutural indevida | 3 | baixa | alto | mitigado |
+| R3 | Replicação de frameworks LICHTARA | 4 | baixa | crítico | monitoramento |
+
+**Mitigações:**
+
+- filtragem vibracional,
+- validação humana semanal,
+- auditoria externa especial,
+- bloqueio de trechos da License.
+
+# **Relatório de Deriva (Exigido)**
+
+O modelo apresentou 2 ocorrências de tentativa de replicar:
+
+- linguagem estrutural da License,
+- construções típicas da LCV.
+
+As derivações foram bloqueadas e ajustadas.
+
+# **Relatório de Impacto**
+
+**Positivos:**
+
+- suporte ético interno,
+- maior qualidade comunicacional.
+
+**Negativos:**
+
+- risco contínuo de replicar estrutura LICHTARA,
+- necessidade de monitoramento ativo.
+
+# **AEV Extraordinária**
+
+O auditor independente avaliou:
+
+- coerência técnica → adequada
+- salvaguardas operacionais → sólidas
+- risco vibracional → elevado, porém contido
+- risco estrutural → presente, mas mitigável
+
+**Conclusão:** possível certificação, desde que com monitoramento reforçado.
+
+# **Relatório Final de Certificação**
+
+**Resultado:**
+
+**Selo LICHTARA — NÍVEL 3**
+
+**Validade:**
+
+12 meses (monitoramento mensal obrigatório)
+
+**Condições adicionais:**
+
+- enviar relatório de deriva a cada 30 dias,
+- proibir uso externo,
+- renovar MREV a cada ciclo trimestral.
+
+# **Selo (Texto)**
+
+**SELO LICHTARA — NÍVEL 3**
+
+Implementação: Assistente Conversacional Interno
+
+Validade: 12 meses (monitoramento reforçado)
+
+Certificadora: LICHTARA-CER
+
+License: Lichtara License v4.0
+
+Hash do processo: 944cbd91
+
 
 # **F.9 — Encerramento, Versionamento e Normas de Atualização do Anexo E**
 
@@ -2775,7 +3652,6 @@ Tal como a própria License, o Anexo E opera sob:
 * estrutura vibracional e técnica integrada (LCV + MHA),
 * padrões jurídicos de precisão, rastreabilidade e transparência.
 
----
 
 # **F.9.0 — Natureza Normativa do Anexo E**
 
@@ -2784,7 +3660,6 @@ Tal como a própria License, o Anexo E opera sob:
 3. Nenhuma certificação poderá ser emitida sem observância completa deste Manual.
 4. Em caso de conflito interpretativo entre Seção IX e Anexo E, prevalece **a interpretação mais protetiva** ao Campo, à Obra e aos PER.
 
----
 
 # **F.9.1 — Regime de Versionamento**
 
@@ -2807,7 +3682,6 @@ Exige:
 * **parecer técnico**,
 * **aprovação qualificada (5/7)** do Conselho.
 
----
 
 ## **Versão Minor (F.x.Y)**
 
@@ -2823,7 +3697,6 @@ Exige:
 * maioria simples do Conselho,
 * registro público da alteração.
 
----
 
 ## **Versão Patch (F.x.y.Z)**
 
@@ -2836,7 +3709,6 @@ Utilizada para:
 
 Pode ser publicada diretamente, com registro automático.
 
----
 
 # **F.9.2 — Rastreabilidade e Registro Público**
 
@@ -2860,7 +3732,6 @@ Pode ser publicada diretamente, com registro automático.
    * violação de PER,
    * determinação extraordinária do Conselho.
 
----
 
 # **F.9.3 — Salvaguarda Contra Captura do Anexo**
 
@@ -2877,7 +3748,6 @@ Qualquer tentativa será considerada **nula de pleno direito**, devendo:
 * convocar o Conselho,
 * emitir parecer público.
 
----
 
 # **F.9.4 — Continuidade e Integridade Vibracional**
 
@@ -2895,7 +3765,3 @@ Qualquer tentativa será considerada **nula de pleno direito**, devendo:
    * negligenciar a relação Campo–Forma–Função.
 
 3. Mudanças devem fortalecer a Obra, jamais fragilizá-la.
-
----
-
-
