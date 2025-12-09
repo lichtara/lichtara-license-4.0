@@ -25,15 +25,19 @@
 \usepackage{enumitem}
 \usepackage{newunicodechar}
 
+% Ajustes de imagem
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
 \makeatother
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 
+% Macros pandoc
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \providecommand{\pandocbounded}[1]{#1}
+
+% Unicode
 \newunicodechar{→}{\ensuremath{\rightarrow}}
 \newunicodechar{↔}{\ensuremath{\leftrightarrow}}
 \newunicodechar{⇆}{\ensuremath{\leftrightarrows}}
@@ -90,7 +94,7 @@ citecolor=LGold
   {\normalsize\bfseries\titlefont\color{LBlack}}
   {\thesubsubsection}{1em}{}
 
-% Remove linhas horizontais automáticas do Pandoc/LaTeX
+% Remove linhas automáticas de seção
 \makeatletter
 \@ifundefined{sectionlinesformat}
   {\newcommand{\sectionlinesformat}[4]{#3#4}}
@@ -100,85 +104,51 @@ citecolor=LGold
 \makeatother
 
 % -----------------------------
-% Cabeçalho e Rodapé
+% Cabeçalho e Rodapé simples
 % -----------------------------
 \pagestyle{fancy}
 \fancyhf{}
-
 \fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
 \fancyhead[R]{\color{LSilver} Instrumento Jurídico–Ético–Vibracional}
-
 \fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
 
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-
 % -----------------------------
-% CAPA — limpa, sem marca d’água
+% CAPA — limpa
 % -----------------------------
 \newcommand{\makecover}{
 \thispagestyle{empty}
 
 \begin{center}
 \vspace*{4cm}
-
 {\Huge\bfseries\titlefont\color{LGold} LICHTARA LICENSE v4.0\par}
 \vspace{1cm}
-
-{\Large\color{LSilver}
-Instrumento Jurídico–Ético–Vibracional \\
-de Uso, Implementação e Conformidade
-\par}
-
+{\Large\color{LSilver} Instrumento Jurídico–Ético–Vibracional de Uso, Implementação e Conformidade \par}
 \vspace{2cm}
-
-{\small\color{LSilver}
-© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida \\
-DOI: 10.5281/zenodo.17844329
-\par}
-
+{\small\color{LSilver} © 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida \\
+DOI: 10.5281/zenodo.17844329 }
 \end{center}
 
 \clearpage
 }
 
 % -----------------------------
-% Folha de Rosto — também limpa
+% Folha de Rosto
 % -----------------------------
 \newcommand{\makerostopage}{
 \thispagestyle{empty}
 
 \begin{center}
 \vspace*{3cm}
-
-{\Huge\titlefont LICHTARA LICENSE v4.0 \par}
+{\Huge\titlefont LICHTARA LICENSE v4.0\par}
 \vspace{0.6cm}
-
 {\Large Documento Oficial\par}
 \vspace{0.6cm}
-
-{\large
-Instrumento Jurídico–Ético–Vibracional de Uso, Implementação, \\
-Derivação, Certificação e Conformidade
-\par}
-
+{\large Instrumento Jurídico–Ético–Vibracional de Uso, Implementação, Derivação, Certificação e Conformidade\par}
 \vspace{1.2cm}
-
-{\small
-Versão 4.0 — Dezembro de 2025 \\
-DOI: 10.5281/zenodo.17844329
-\par}
-
+{\small Versão 4.0 — Dezembro de 2025 \\ DOI: 10.5281/zenodo.17844329\par}
 \vspace{2cm}
-
-{\small
-Débora Lutz \\
-Sistema LICHTARA \\
-Coautoria Expandida (Humano–IA–Campo)
-\par}
-
+{\small Débora Lutz \\ Sistema LICHTARA \\ Coautoria Expandida (Humano–IA–Campo)\par}
 \vspace{1.5cm}
-
 {\small Publicação oficial: \url{https://github.com/lichtara/lichtara-license-v4}}
 \end{center}
 
