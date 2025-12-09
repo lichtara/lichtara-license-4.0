@@ -1,5 +1,5 @@
 % ============================================================
-% LICHTARA LICENSE v4.0 — TEMPLATE LATEX OFICIAL (Edição Refinada)
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX CANÔNICO FINAL
 % ============================================================
 
 \documentclass[11pt,a4paper]{article}
@@ -9,13 +9,8 @@
 % -----------------------------
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
-\usepackage{calc}
 \usepackage{titlesec}
 \usepackage{graphicx}
-\usepackage{array}
-\usepackage{booktabs}
-\usepackage{amssymb}
-\usepackage{amsmath}
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
@@ -24,35 +19,24 @@
 \usepackage{fontspec}
 \usepackage{lmodern}
 \usepackage{longtable}
-\usepackage{newunicodechar}
-\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{booktabs}
 
 % -----------------------------
 % Paleta cromática LICHTARA
 % -----------------------------
 \definecolor{LBlueDeep}{HTML}{0A1A2F}
 \definecolor{LGold}{HTML}{D4AF37}
-\definecolor{LSilver}{HTML}{B4BDC4} % prateado reforçado
+\definecolor{LSilver}{HTML}{B4BDC4} % prateado refinado
 \definecolor{LWhite}{HTML}{F5F6F7}
 \definecolor{LBlack}{HTML}{000814}
 
 % -----------------------------
-% Fontes (Inter + Libre Baskerville)
+% Fontes Institucionais
 % -----------------------------
 \setmainfont{Libre Baskerville}
 \setsansfont{Inter}
-\setmonofont{Menlo}
 \newfontfamily\titlefont{Libre Baskerville}
-\newfontfamily\symbolsfont{Arial Unicode MS}
-
-\newunicodechar{→}{\symbolsfont{→}}
-\newunicodechar{↔}{\symbolsfont{↔}}
-\newunicodechar{⇆}{\symbolsfont{⇆}}
-\newunicodechar{≥}{\symbolsfont{≥}}
-\newunicodechar{☐}{\symbolsfont{☐}}
-\newunicodechar{✔}{\symbolsfont{✔}}
-\newunicodechar{✖}{\symbolsfont{✖}}
-\newunicodechar{▼}{\symbolsfont{▼}}
+\setmonofont{Menlo}
 
 % -----------------------------
 % Geometria
@@ -73,11 +57,24 @@ citecolor=LGold
 }
 
 % -----------------------------
-% Estilo de Títulos
+% Estilo de Títulos (sem regras)
 % -----------------------------
-\titleformat{\section}{\Large\bfseries\titlefont\color{LGold}}{\thesection}{1em}{}
-\titleformat{\subsection}{\large\bfseries\titlefont\color{LSilver}}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalsize\bfseries\titlefont\color{LSilver}}{\thesubsubsection}{1em}{}
+\titleformat{\section}
+  {\Large\bfseries\titlefont\color{LGold}}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\large\bfseries\titlefont\color{LSilver}}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\titlefont\color{LSilver}}
+  {\thesubsubsection}{1em}{}
+
+% Remove linhas horizontais automáticas
+\makeatletter
+\renewcommand{\sectionlinesformat}[4]{#3#4}
+\makeatother
 
 % -----------------------------
 % Cabeçalho e Rodapé
@@ -87,19 +84,20 @@ citecolor=LGold
 
 \fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
 \fancyhead[R]{\color{LSilver} Instrumento Jurídico-Ético-Vibracional}
+
 \fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
 
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
 % -----------------------------
-% Marca d'água — APENAS NA CAPA
+% Marca d’água — APENAS NA CAPA
 % -----------------------------
 \newcommand{\coverwatermark}{
     \backgroundsetup{
-        scale=4,
+        scale=3.8,
         angle=55,
-        opacity=0.05,
+        opacity=0.035,
         color=LSilver,
         contents={LICHTARA}
     }
@@ -114,6 +112,7 @@ citecolor=LGold
 
 \begin{center}
 \vspace*{4cm}
+
 {\Huge\bfseries\titlefont\color{LGold} LICHTARA LICENSE v4.0\par}
 \vspace{1cm}
 
@@ -142,6 +141,7 @@ DOI: 10.5281/zenodo.17844329
 
 \begin{center}
 \vspace*{3cm}
+
 {\Huge\titlefont LICHTARA LICENSE v4.0 \par}
 \vspace{0.6cm}
 
@@ -183,16 +183,6 @@ Coautoria Expandida (Humano–IA–Campo)
 
 \makecover
 \makerostopage
-
-\newsavebox{\pandocbox}
-\newcommand{\pandocbounded}[1]{%
-  \sbox{\pandocbox}{#1}%
-  \ifdim\wd\pandocbox>\linewidth
-    \resizebox{\linewidth}{!}{\usebox{\pandocbox}}%
-  \else
-    \usebox{\pandocbox}%
-  \fi
-}
 
 $body$
 
