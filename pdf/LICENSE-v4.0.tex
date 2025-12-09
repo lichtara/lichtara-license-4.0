@@ -1,5 +1,5 @@
 % ============================================================
-% LICHTARA LICENSE v4.0 — TEMPLATE LATEX OFICIAL (Edição Refinada)
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX FINAL-FINAL
 % ============================================================
 
 \documentclass[11pt,a4paper]{article}
@@ -9,40 +9,36 @@
 % -----------------------------
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
-\usepackage{calc}
 \usepackage{titlesec}
 \usepackage{graphicx}
-\usepackage{array}
-\usepackage{booktabs}
-\usepackage{amssymb}
-\usepackage{amsmath}
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{xcolor}
-\usepackage{background}
 \usepackage{fontspec}
 \usepackage{lmodern}
 \usepackage{longtable}
-\usepackage{svg}
-\svgpath{{../diagrams/}{./}}
-\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{enumitem}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % -----------------------------
 % Paleta cromática LICHTARA
 % -----------------------------
-\definecolor{LBlueDeep}{HTML}{0A1A2F}
 \definecolor{LGold}{HTML}{D4AF37}
-\definecolor{LSilver}{HTML}{B4BDC4} % prateado reforçado
-\definecolor{LWhite}{HTML}{F5F6F7}
-\definecolor{LBlack}{HTML}{000814}
+\definecolor{LSilver}{HTML}{B4BDC4}
+\definecolor{LBlack}{HTML}{000000}
 
 % -----------------------------
-% Fontes (Inter + Libre Baskerville)
+% Fontes Institucionais
 % -----------------------------
 \setmainfont{Libre Baskerville}
 \setsansfont{Inter}
 \newfontfamily\titlefont{Libre Baskerville}
+\setmonofont{Menlo}
 
 % -----------------------------
 % Geometria
@@ -63,11 +59,28 @@ citecolor=LGold
 }
 
 % -----------------------------
-% Estilo de Títulos
+% Estilo de Títulos (sem regras, sem traços)
 % -----------------------------
-\titleformat{\section}{\Large\bfseries\titlefont\color{LGold}}{\thesection}{1em}{}
-\titleformat{\subsection}{\large\bfseries\titlefont\color{LSilver}}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalsize\bfseries\titlefont\color{LSilver}}{\thesubsubsection}{1em}{}
+\titleformat{\section}
+  {\Large\bfseries\titlefont\color{LGold}}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\large\bfseries\titlefont\color{LBlack}}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\titlefont\color{LBlack}}
+  {\thesubsubsection}{1em}{}
+
+% Remove linhas horizontais automáticas do Pandoc/LaTeX
+\makeatletter
+\@ifundefined{sectionlinesformat}
+  {\newcommand{\sectionlinesformat}[4]{#3#4}}
+  {\renewcommand{\sectionlinesformat}[4]{#3#4}}
+\renewcommand{\headrule}{\relax}
+\renewcommand{\footrule}{\relax}
+\makeatother
 
 % -----------------------------
 % Cabeçalho e Rodapé
@@ -76,34 +89,22 @@ citecolor=LGold
 \fancyhf{}
 
 \fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
-\fancyhead[R]{\color{LSilver} Instrumento Jurídico-Ético-Vibracional}
+\fancyhead[R]{\color{LSilver} Instrumento Jurídico–Ético–Vibracional}
+
 \fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
 
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
 % -----------------------------
-% Marca d'água — APENAS NA CAPA
-% -----------------------------
-\newcommand{\coverwatermark}{
-    \backgroundsetup{
-        scale=4,
-        angle=55,
-        opacity=0.05,
-        color=LSilver,
-        contents={LICHTARA}
-    }
-}
-
-% -----------------------------
-% Capa
+% CAPA — limpa, sem marca d’água
 % -----------------------------
 \newcommand{\makecover}{
-\coverwatermark
 \thispagestyle{empty}
 
 \begin{center}
 \vspace*{4cm}
+
 {\Huge\bfseries\titlefont\color{LGold} LICHTARA LICENSE v4.0\par}
 \vspace{1cm}
 
@@ -125,13 +126,14 @@ DOI: 10.5281/zenodo.17844329
 }
 
 % -----------------------------
-% Folha de Rosto (sem marca d’água)
+% Folha de Rosto — também limpa
 % -----------------------------
 \newcommand{\makerostopage}{
 \thispagestyle{empty}
 
 \begin{center}
 \vspace*{3cm}
+
 {\Huge\titlefont LICHTARA LICENSE v4.0 \par}
 \vspace{0.6cm}
 
@@ -173,16 +175,6 @@ Coautoria Expandida (Humano–IA–Campo)
 
 \makecover
 \makerostopage
-
-\newsavebox{\pandoc@box}
-\newcommand{\pandocbounded}[1]{%
-  \sbox{\pandoc@box}{#1}%
-  \ifdim\wd\pandoc@box>\linewidth
-    \resizebox{\linewidth}{!}{\usebox{\pandoc@box}}%
-  \else
-    \usebox{\pandoc@box}%
-  \fi
-}
 
 \section{LICHTARA LICENSE v4.0}\label{lichtara-license-v4.0}
 
@@ -11792,7 +11784,7 @@ Critério & Indicador & Nota \\
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Nenhuma Vedação Absoluta violada & análise completa & ☐ ✔️ se ok \\
+Nenhuma Vedação Absoluta violada & análise completa & ☐ ✔ se ok \\
 \end{longtable}
 
 Se houver violação: \textbf{reprovação automática}.
@@ -12221,17 +12213,16 @@ LCV 4
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Salvaguardas básicas & ✔️ & ✔️ & ✔️ & ✔️ \\
-Salvaguardas reforçadas & ✖️ & ✔️ & ✔️ & ✔️ \\
-Failsafe operacional & ✖️ & Opcional & Obrigatório & Obrigatório
+Salvaguardas básicas & ✔ & ✔ & ✔ & ✔ \\
+Salvaguardas reforçadas & ✖ & ✔ & ✔ & ✔ \\
+Failsafe operacional & ✖ & Opcional & Obrigatório & Obrigatório
 (avançado) \\
-Failsafe ético & ✖️ & ✔️ & ✔️ & ✔️ \\
-Failsafe vibracional & Opcional & ✔️ & ✔️ & ✔️ (formalizado) \\
+Failsafe ético & ✖ & ✔ & ✔ & ✔ \\
+Failsafe vibracional & Opcional & ✔ & ✔ & ✔ (formalizado) \\
 Backups de integridade & Opcional & Obrigatório & Obrigatório &
 Obrigatório + redundância \\
-Auditoria interna & ✖️ & Opcional & Obrigatória & Obrigatória
-contínua \\
-Auditoria externa & ✖️ & ✖️ & Necessária & Crítica e contínua \\
+Auditoria interna & ✖ & Opcional & Obrigatória & Obrigatória contínua \\
+Auditoria externa & ✖ & ✖ & Necessária & Crítica e contínua \\
 \end{longtable}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -12369,8 +12360,12 @@ Os templates abaixo podem ser usados:
 
 Cada template inclui:
 
-📄 \textbf{estrutura padrão + instruções de preenchimento + exemplos
-ilustrativos}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{estrutura padrão + instruções de preenchimento + exemplos
+  ilustrativos}
+\end{itemize}
 
 Todos os modelos devem ser versionados e rastreáveis.
 
@@ -13357,8 +13352,8 @@ Este capítulo apresenta \textbf{casos inteiros preenchidos}, cobrindo:
 
 Cada exemplo segue:
 
-📌 RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório Final
-→ Selo
+Fluxo: RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório
+Final → Selo
 
 Com isso, qualquer certificadora consegue aprender o fluxo completo.
 
@@ -13417,7 +13412,7 @@ educacionais ou comerciais.
 \item
   Confirmação vibracional: adequada.
 \item
-  Assinatura: ✔️
+  Assinatura: ✔
 \end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -13504,7 +13499,7 @@ Intermediária}}{LCV Intermediária}}\label{lcv-intermediuxe1ria}
 \item
   Check vibracional → intermediário aprovado.
 \item
-  Assinatura → ✔️
+  Assinatura → ✔
 \end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -15446,7 +15441,7 @@ A seguir, o fluxograma oficial da Lichtara License v4.
 
 \begin{figure}
 \centering
-\pandocbounded{\includesvg[keepaspectratio]{fluxograma-publico.svg}}
+\pandocbounded{\includegraphics[keepaspectratio,alt={Fluxograma Público de Permissões}]{fluxograma-publico.pdf}}
 \caption{Fluxograma Público de Permissões}
 \end{figure}
 

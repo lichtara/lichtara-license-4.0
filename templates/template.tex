@@ -17,9 +17,16 @@
 \usepackage{xcolor}
 \usepackage{fontspec}
 \usepackage{lmodern}
+\usepackage{amssymb}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{array}
+\usepackage{calc}
 \usepackage{enumitem}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\pandocbounded}[1]{#1}
 
 % -----------------------------
 % Paleta cromática LICHTARA
@@ -71,7 +78,9 @@ citecolor=LGold
 
 % Remove linhas horizontais automáticas do Pandoc/LaTeX
 \makeatletter
-\renewcommand{\sectionlinesformat}[4]{#3#4}
+\@ifundefined{sectionlinesformat}
+  {\newcommand{\sectionlinesformat}[4]{#3#4}}
+  {\renewcommand{\sectionlinesformat}[4]{#3#4}}
 \renewcommand{\headrule}{\relax}
 \renewcommand{\footrule}{\relax}
 \makeatother
