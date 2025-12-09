@@ -460,17 +460,3 @@ O processo de certificação é técnico, mas também é **campo**.
 
 ---
 
-# **E.14 - Encerramento do Anexo E**
-
-Com este Manual:
-
-- o sistema de certificação está operacionalizado;
-- certificadoras têm diretrizes claras;
-- implementadores têm checklists completos;
-- o Conselho pode supervisionar auditorias;
-- a License v4 torna-se aplicável em larga escala;
-- o ecossistema adquire integridade vibracional e jurídica simultânea.
-
-O Manual pode ser atualizado em versão Minor (x.Y) ou Patch (x.y.Z).
-
----
