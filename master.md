@@ -1,7 +1,6 @@
-# **Lichtara License v4 — Structural Living License**
-
-**Versão 4.0 — Documento-Matriz (master.md)**
-**DOI:** 10.5281/zenodo.17844329
+# Lichtara License v4 — Structural Living License
+Versão 4.0 — Documento-Matriz (master.md)
+DOI: 10.5281/zenodo.17844329
 
 ---
 
@@ -222,20 +221,38 @@ A obra é fornecida “tal como está”, sem garantias de qualquer natureza.
 
 # 14. ANEXOS
 
-Os anexos desta licença são parte integrante da normativa e estão localizados na pasta:
+Os anexos desta Licença são parte integrante da normativa e estão
+localizados na pasta:
 
 ```
 /annexes
 ```
 
-Incluem, entre outros:
+Eles compõem a Série VI-A, VI-B e VI-C do Sistema Lichtara e regulam
+camadas essenciais de integridade estrutural, conformidade, ética,
+coautoria e certificação.
 
-* **PER — Princípios Ético-Regenerativos**
-* **LCV — Linguagem de Conformidade Vibracional**
-* **MHA — Modelo Híbrido de Autorias**
-* Relatórios, templates e anexos operacionais da Série VI-A, VI-B e VI-C
+Atualmente, o conjunto oficial inclui:
 
-Cada anexo complementa esta licença e regula aspectos específicos de conformidade, estrutura, ética, autoria e governança.
+- **VI.A.1 — PER — Princípios Ético-Regenerativos**  
+- **VI.A.2 — LCV — Linguagem de Conformidade Vibracional**  
+- **VI.A.3 — MHA — Modelo Híbrido de Autorias**  
+- **VI.B — Relatórios de Impacto**  
+- **VI.B — Anexos Operacionais Complementares**  
+- **VI.C — Certificação Operacional**  
+- **VI.C — Templates de Certificação**
+
+Esses anexos detalham regras, parâmetros, princípios e mecanismos que
+complementam a presente Licença e orientam:
+
+- integridade estrutural,  
+- responsabilidades de autoria,  
+- uso ético e regenerativo,  
+- conformidade vibracional,  
+- governança e certificação.
+
+Nos casos de dúvida interpretativa, prevalece a leitura combinada entre
+este documento (master.md) e os anexos correspondentes.
 
 ---
 
