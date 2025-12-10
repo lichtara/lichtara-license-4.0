@@ -1,7 +1,3 @@
-# **FAQ OFICIAL — LICHTARA LICENSE v4 (Versão Revisada)**
-
----
-
 # **FAQ OFICIAL DA LICHTARA LICENSE v4**
 
 ### *Perguntas Frequentes — Portal license.lichtara.com*
