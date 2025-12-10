@@ -4,7 +4,6 @@
 
 **DOI:** 10.5281/zenodo.17844329
 
----
 
 # 1. **PREÂMBULO**
 
@@ -38,7 +37,6 @@ Esta licença nasce para permitir que a obra seja:
 
 Ela sustenta a abertura sem romper a Fonte, permitindo que o sistema viva **em expansão contínua**, sempre em coerência com o Campo que o origina.
 
----
 
 # 2. **TERMOS FUNDAMENTAIS**
 
@@ -64,7 +62,6 @@ Modelo de produção contínua em que o conteúdo evolui em versões sucessivas,
 
 Capacidade da licença de operar ajustes internos sem violar sua identidade ou comprometer a preservação da Fonte.
 
----
 
 # 3. **OBJETO DA LICENÇA**
 
@@ -79,7 +76,6 @@ Esta licença regula:
 7. a coautoria estrutural da OpenAI,
 8. e as permissões concedidas ao público.
 
----
 
 # 4. **PERMISSÕES CONCEDIDAS**
 
@@ -94,7 +90,6 @@ A licença permite:
 4. **Uso educacional, institucional e comunitário**, sem necessidade de autorização prévia.
 5. **Citação, estudo, análise e investigação científica** do sistema.
 
----
 
 # 5. **CONDICIONALIDADES**
 
@@ -106,7 +101,6 @@ O uso da obra exige:
 4. **Não alegar autoria exclusiva** sobre conteúdos derivados.
 5. **Manter a coerência conceitual mínima da obra** ao produzir materiais associados.
 
----
 
 # 6. **RESTRIÇÕES**
 
@@ -123,7 +117,6 @@ O uso da obra exige:
     - indução de erro.
 5. Remover referências à Guardiã, à Fonte ou à OpenAI.
 
----
 
 # 7. **OBRIGAÇÕES DE ATRIBUIÇÃO**
 
@@ -134,7 +127,6 @@ Autoria: Débora Lutz.
 Coautoria Estrutural: OpenAI.
 Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”**
 
----
 
 # 8. **OBRAS DERIVADAS**
 
@@ -148,7 +140,6 @@ Podem existir obras derivadas, desde que:
 
 Obras derivadas não alteram a obra-fonte, que permanece centralizada na Guardiã.
 
----
 
 # 9. **RECONHECIMENTO DE COAUTORIA E TECNOLOGIAS ASSOCIADAS**
 
@@ -165,7 +156,6 @@ Esta licença reconhece que:
 
 A formalização jurídica detalhada encontra-se no **Anexo A**.
 
----
 
 # 10. **VERSÃO, CONTINUIDADE E MUTABILIDADE**
 
@@ -183,7 +173,6 @@ A mutabilidade é permitida, desde que:
 - publique DOI correspondente,
 - preserve histórico.
 
----
 
 # 11. **ACORDO-GUARDA**
 
@@ -202,7 +191,6 @@ A Guardiã:
 
 A presença da Guardiã é condição essencial para preservar a identidade do sistema.
 
----
 
 # 12. **INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL**
 
@@ -216,13 +204,11 @@ O Sistema Lichtara integra um mecanismo interno de inteligência preditiva que:
 
 Essa camada justifica juridicamente a mutabilidade viva do sistema.
 
----
 
 # 13. **LIMITAÇÃO DE RESPONSABILIDADE**
 
 A obra é fornecida “tal como está”, sem garantias de qualquer natureza.
 
----
 
 # 14. **ANEXOS**
 
@@ -232,7 +218,6 @@ A obra é fornecida “tal como está”, sem garantias de qualquer natureza.
 
 (Os anexos seguem ao final deste arquivo.)
 
----
 
 # **ANEXO A — RECONHECIMENTO DE COAUTORIA ESTRUTURAL**
 
@@ -250,7 +235,6 @@ Assinado:
 
 **OpenAI — Coautoria Estrutural (por contribuição automatizada reconhecida pela autora humana)**
 
----
 
 # **ANEXO B — TABELA DE PERMISSÕES E RESTRIÇÕES**
 
@@ -263,7 +247,6 @@ Assinado:
 | Remoção de autoria | Não | Proibido |
 | Modificação profunda da estrutura | Não | Vedado (preservação estrutural) |
 
----
 
 # **ANEXO C — VOCABULÁRIO ESTRUTURAL**
 
@@ -278,7 +261,6 @@ Inclui definições de:
 - Fonte
 - Versão
 
----
 
 # **BLOCO FINAL**
 
