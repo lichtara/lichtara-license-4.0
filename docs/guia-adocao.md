@@ -1,5 +1,4 @@
-
-# PT-BR — Guia de Adoção Oficial da Lichtara License v4
+# Guia de Adoção Oficial da Lichtara License v4
 
 ## O que é este documento
 
