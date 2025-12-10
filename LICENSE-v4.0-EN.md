@@ -1,6 +1,7 @@
 # **Lichtara License v4 — Structural Living License (EN-US Version)**
 
 **Version 4.0 — Master Document**
+
 **DOI**:**10.5281/zenodo.17844329**
 
 
