@@ -42,6 +42,7 @@ A License v4 nasce **da própria arquitetura da Obra**, não de um modelo extern
 Sim e não.
 
 ✔ **Aberta** para leitura, estudo, pesquisa e reflexão.
+
 ✖ **Protegida** contra usos comerciais, replicações estruturais, derivação profunda e adaptações sem autorização formal.
 
 ---
