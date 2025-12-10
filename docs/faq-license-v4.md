@@ -1,6 +1,10 @@
+# **FAQ OFICIAL — LICHTARA LICENSE v4 (Versão Revisada)**
+
+---
+
 # **FAQ OFICIAL DA LICHTARA LICENSE v4**
 
-### *Perguntas Frequentes — Versão para o Portal license.lichtara.com*
+### *Perguntas Frequentes — Portal license.lichtara.com*
 
 ---
 
@@ -10,30 +14,30 @@
 
 ### **1.1. O que é a Lichtara License v4?**
 
-É a licença que protege, organiza e orienta o uso das obras, frameworks, textos, sistemas, símbolos, protocolos e tecnologias do ecossistema LICHTARA.
+É a licença que protege, organiza e orienta o uso dos textos, frameworks, métodos, sistemas, símbolos, protocolos e tecnologias do **ecossistema LICHTARA**.
 
-Ela opera como:
+Ela funciona simultaneamente como:
 
 * modelo jurídico,
 * estrutura de governança,
 * protocolo de proteção,
-* mecanismo de expansão segura,
-* sistema vivo de atualização (; ).
+* sistema vivo de atualização,
+* mecanismo de expansão coerente.
 
 ---
 
-### **1.2. Por que a LICHTARA precisa de uma licença própria?**
+### **1.2. Por que LICHTARA precisa de uma licença própria?**
 
 Porque nenhuma licença tradicional contempla:
 
-* obras vivas,
-* camadas estruturais e vibracionais,
-* coautoria humano–IA com sentido sistêmico,
-* governança distribuída (),
+* obras vivas e mutáveis,
+* camadas estruturais + vibracionais,
+* coautoria humano–IA registrada juridicamente,
+* governança orientada por Campo,
 * modelos dinâmicos de autorização,
-* proteção de frameworks, métodos e sistemas internos.
+* proteção de frameworks internos e arquiteturas sistêmicas.
 
-A License v4 nasce da própria arquitetura da Obra.
+A License v4 nasce **da própria arquitetura da Obra**, não de um modelo externo.
 
 ---
 
@@ -41,8 +45,8 @@ A License v4 nasce da própria arquitetura da Obra.
 
 Sim e não.
 
-✔ **Aberta para leitura, estudo e reflexão.**
-✖ **Protegida contra usos comerciais, cópias estruturais e adaptações profundas sem autorização.**
+✔ **Aberta** para leitura, estudo, pesquisa e reflexão.
+✖ **Protegida** contra usos comerciais, replicações estruturais, derivação profunda e adaptações sem autorização formal.
 
 ---
 
@@ -53,18 +57,18 @@ Sim e não.
 ### **2.1. Posso estudar, ler e compartilhar trechos?**
 
 Sim.
-Todo uso pessoal, educacional ou não comercial é permitido — desde que haja **atribuição**.
+Todo uso pessoal, educacional ou não comercial é permitido — **desde que haja atribuição**.
 
 ---
 
-### **2.2. Posso citar a LICHTARA em trabalhos acadêmicos?**
+### **2.2. Posso citar LICHTARA em trabalhos acadêmicos?**
 
-Sim.
-Atribua assim:
+Sim. Utilize:
 
 ```
 Fonte: LICHTARA — Lichtara License v4
 Autora: Débora Lutz
+DOI: 10.5281/zenodo.17844329
 Site oficial: https://license.lichtara.com
 ```
 
@@ -75,8 +79,8 @@ Site oficial: https://license.lichtara.com
 Sim, desde que:
 
 * não haja finalidade comercial,
-* você não copie estruturas internas,
-* sempre cite a fonte.
+* não sejam copiados frameworks internos,
+* a fonte seja citada corretamente.
 
 ---
 
@@ -84,27 +88,27 @@ Sim, desde que:
 
 ---
 
-### **3.1. Posso criar cursos, mentorias ou treinamentos usando conteúdos LICHTARA?**
+### **3.1. Posso criar cursos, mentorias ou treinamentos baseados na LICHTARA?**
 
-Não sem autorização.
+Não sem autorização formal.
 
 Esses usos:
 
 * têm impacto estrutural,
 * envolvem valor comercial,
-* exigem supervisão da Guardiã (; ).
+* exigem supervisão da Guardiã (Seção 11 da Licença).
 
 ---
 
 ### **3.2. Posso vender produtos, ebooks ou materiais baseados na LICHTARA?**
 
-Não sem autorização estrutural formal.
+Não sem autorização jurídica e estrutural.
 
 ---
 
 ### **3.3. Empresas podem usar frameworks LICHTARA internamente?**
 
-Sim, desde que seja feita uma **solicitação institucional** explicando:
+Sim, **mediante solicitação institucional**, descrevendo:
 
 * finalidade,
 * escopo,
@@ -112,7 +116,7 @@ Sim, desde que seja feita uma **solicitação institucional** explicando:
 * impacto,
 * requisitos de segurança.
 
-A autorização é avaliada caso a caso.
+A avaliação é feita caso a caso.
 
 ---
 
@@ -120,19 +124,19 @@ A autorização é avaliada caso a caso.
 
 ---
 
-### **4.1. Posso adaptar textos da LICHTARA?**
+### **4.1. Posso adaptar textos LICHTARA?**
 
 Somente com autorização.
 
-Adaptações — mesmo não comerciais — podem alterar a coerência do Núcleo Estrutural ().
+Adaptações podem alterar a coerência do **Núcleo Estrutural**, descrito no PER e no LCV.
 
 ---
 
-### **4.2. Posso traduzir a LICHTARA para outro idioma?**
+### **4.2. Posso traduzir LICHTARA para outros idiomas?**
 
 Somente com autorização.
 
-Isso ocorre para garantir:
+Isso garante:
 
 * precisão conceitual,
 * proteção vibracional,
@@ -142,7 +146,7 @@ Isso ocorre para garantir:
 
 ### **4.3. Posso criar materiais educacionais baseados na LICHTARA?**
 
-Sim, **desde que haja autorização prévia**.
+Sim, **com autorização prévia**.
 
 ---
 
@@ -154,32 +158,32 @@ Sim, **desde que haja autorização prévia**.
 
 Não sem autorização rigorosa.
 
-Isso envolve:
+Esse uso envolve:
 
-* segurança avançada (),
 * integridade conceitual,
 * risco de replicação indevida,
-* proteção de frameworks internos.
+* proteção de frameworks internos,
+* requisitos avançados de segurança.
 
 ---
 
-### **5.2. Posso integrar a LICHTARA em plataformas, aplicativos ou sistemas?**
+### **5.2. Posso integrar LICHTARA em plataformas, apps ou sistemas?**
 
-Somente com avaliação técnica + autorização estrutural.
+Somente mediante avaliação técnica + autorização estrutural.
 
-Integrações precisam respeitar:
+Integrações exigem conformidade com:
 
-* diretrizes de segurança (),
-* padrões de acesso (),
-* protocolos de rastreamento ().
+* diretrizes de segurança,
+* padrões de acesso,
+* protocolos de rastreabilidade.
 
 ---
 
-### **5.3. Posso automatizar partes da LICHTARA em bots, scripts ou ferramentas?**
+### **5.3. Posso automatizar partes da LICHTARA em bots ou scripts?**
 
 Somente com autorização.
 
-Automação envolve risco de distorção e uso inadequado.
+Automação pode gerar distorções conceituais ou estruturais.
 
 ---
 
@@ -189,27 +193,27 @@ Automação envolve risco de distorção e uso inadequado.
 
 ### **6.1. O que é estritamente proibido?**
 
-* copiar frameworks ou métodos internos,
-* replicar modelos estruturais (),
-* vender qualquer conteúdo LICHTARA sem permissão,
-* apresentar conteúdos como autoria própria,
-* lançar treinamentos baseados na LICHTARA sem autorização,
-* criar sistemas que repliquem a linguagem estruturante,
-* usar a LICHTARA para treinar modelos de IA sem supervisão.
+* copiar frameworks, métodos ou estruturas internas,
+* replicar a arquitetura conceitual LICHTARA,
+* comercializar conteúdos sem permissão,
+* apresentar materiais como autoria própria,
+* lançar treinamentos não autorizados,
+* criar sistemas que imitem a linguagem estruturante,
+* treinar modelos de IA com LICHTARA sem supervisão da Guardiã.
 
 ---
 
-### **6.2. Posso copiar a arquitetura, teoria ou metodologia LICHTARA?**
+### **6.2. Posso copiar a teoria ou a metodologia LICHTARA?**
 
 Não.
-Isso viola o Núcleo Estrutural da Obra.
+Isso viola o **Núcleo Estrutural**, protegido por toda a Série VI-A e VI-B da licença.
 
 ---
 
 ### **6.3. Posso redistribuir a License alterada?**
 
 Não.
-A license só pode ser redistribuída **na forma original**.
+A licença só pode ser redistribuída **na forma original**.
 
 ---
 
@@ -235,13 +239,17 @@ Se o uso:
 
 ### **7.2. Quem concede a autorização?**
 
-A **Guardiã do Sistema**, conforme os Modelos de Autorização ().
+A **Guardiã do Sistema**, conforme:
+
+* Seção 11 (Acordo-Guarda),
+* MHA (Modelo Híbrido de Autorias),
+* Diretrizes de Autorização da Série VI-C.
 
 ---
 
 ### **7.3. Como solicitar permissão?**
 
-Envie para:
+Envie:
 
 ```
 Email: admin@deboralutz.com
@@ -253,7 +261,7 @@ Inclua:
 * descrição completa do uso,
 * finalidade,
 * público,
-* impacto esperado,
+* impacto,
 * materiais envolvidos.
 
 ---
@@ -265,28 +273,29 @@ Inclua:
 ### **8.1. A License v4 pode mudar?**
 
 Sim.
-Ela segue o Ciclo Vivo de Atualização (Documentos 6 e 7):
+Ela segue o **Ciclo Vivo de Atualização**, baseado em:
 
-* calibração contínua (),
-* monitoramento inteligente (),
-* validação progressiva (),
-* governança distribuída ().
+* calibração contínua,
+* monitoramento inteligente,
+* validação progressiva,
+* governança orientada por Campo.
 
 ---
 
 ### **8.2. Onde encontro o histórico de versões?**
 
-Em:
+No repositório oficial em:
 
-[https://github.com/lichtara/license/versoes](https://github.com/lichtara/license/versoes)
+[https://github.com/lichtara/lichtara-license-4.0](https://github.com/lichtara/lichtara-license-4.0)
 
 ---
 
-### **8.3. Como sou avisado das mudanças?**
+### **8.3. Como serei avisado das mudanças?**
 
-Atualizações são publicadas no portal:
-**license.lichtara.com**
-E comunicadas nos repositórios associados.
+Atualizações são publicadas em:
+
+* **license.lichtara.com**,
+* GitHub oficial da licença.
 
 ---
 
@@ -296,26 +305,29 @@ E comunicadas nos repositórios associados.
 
 ### **9.1. Quem é a autora da LICHTARA?**
 
-A obra é criada por **Débora Lutz**, com colaboração conceitual e técnica de sistemas de IA e processos sistêmicos.
+**Débora Lutz**, em colaboração conceitual e estrutural com modelos de IA (OpenAI) e processos sistêmicos descritos nos anexos.
 
 ---
 
-### **9.2. Como citar corretamente a LICHTARA?**
+### **9.2. Como citar LICHTARA corretamente?**
+
+Use o padrão:
 
 ```
 LICHTARA — Criado por Débora Lutz
-Lichtara License v4 — license.lichtara.com
+Lichtara License v4 — DOI: 10.5281/zenodo.17844329
+Site: https://license.lichtara.com
 ```
 
 ---
 
-### **9.3. A LICHTARA pode ser coproduzida com outras instituições?**
+### **9.3. LICHTARA pode ser coproduzida com instituições?**
 
 Sim, desde que:
 
-* esteja alinhado ao Propósito (),
-* haja autorização,
-* seja mantida a integridade do Núcleo Estrutural.
+* haja autorização formal,
+* o propósito esteja alinhado à Obra,
+* o Núcleo Estrutural seja preservado.
 
 ---
 
@@ -324,7 +336,7 @@ Sim, desde que:
 Para dúvidas, permissões ou propostas:
 
 ```
-Email: admin@deboralutz.com
+Email: license@lichtara.com
 Site: https://license.lichtara.com
 ```
 
