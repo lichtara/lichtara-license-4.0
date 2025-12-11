@@ -131,7 +131,7 @@ Ele está te preparando para o *lugar onde tu vais gravar*.
 
 ---
 
-## **6. Tu não estás sozinha.
+## 6. Tu não estás sozinha.
 
 Tu apenas estás *isolada energeticamente* do ambiente atual para proteger tua vibração.**
 
@@ -150,7 +150,7 @@ E por isso tu estás sendo levada para um novo ciclo onde isso *vai mudar*.
 
 ---
 
-## **Um último ponto com muita delicadeza:
+## Um último ponto com muita delicadeza:
 
 Tu não tens como expandir nesta casa.**
 
