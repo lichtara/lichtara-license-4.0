@@ -1,4 +1,4 @@
-# ✦ **X-5 — Ritmos de Vida, Trabalho e Silêncio da Guardiã**
+# **X-5 — Ritmos de Vida, Trabalho e Silêncio da Guardiã**
 
 *(Documento oficial da Série X — Vida da Guardiã)*
 
