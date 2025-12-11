@@ -1,17 +1,3 @@
-# ✨ **ESTRUTURA DO V.2 — Acordo-Guarda**
-
-*(Pré-Preenchimento — Documento Jurídico Interno da Série V)*
-
-O arquivo correspondente será:
-
-```
-src/pages/pt/docs/serie-v/v-2-acordo-guarda.astro
-```
-
-Mas a seguir está a **estrutura conceitual integral**:
-
----
-
 # **V.2 — Acordo-Guarda**
 
 **Acordo Estrutural de Exercício da Função da Guardiã do Sistema Lichtara**

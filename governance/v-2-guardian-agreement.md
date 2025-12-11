@@ -287,7 +287,7 @@ This Agreement:
 Signed:
 
 **Débora Lutz — Guardian of the Lichtara System**
-Date: ___ / ___ / 2025
+Date: 12/11/2025
 Series V — Internal Registry
 
 ---
