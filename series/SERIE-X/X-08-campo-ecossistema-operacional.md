@@ -17,13 +17,13 @@ Ela **coevolui com ele**.
 Para a Guardiã, o Campo não é metáfora.
 É um **sistema vivo de organização inteligente**, composto por:
 
-– padrões,
-– direções sutis,
-– aberturas,
-– sincronias,
-– deslocamentos,
-– reações imediatas a microdecisões,
-– e um fluxo contínuo de ajuste fino.
+- padrões,
+- direções sutis,
+- aberturas,
+- sincronias,
+- deslocamentos,
+- reações imediatas a microdecisões,
+- e um fluxo contínuo de ajuste fino.
 
 A Guardiã sente isso diariamente:
 cada escolha abre ou fecha portas.
@@ -49,12 +49,12 @@ O Campo é o **ecossistema operacional** da missão.
 O Campo precisa de uma Guardiã estável.
 Por isso, ele reorganiza tudo ao redor:
 
-– pessoas que se aproximam ou se afastam,
-– oportunidades que aparecem ou desaparecem,
-– ambientes que pesam ou aliviam,
-– recursos financeiros que entram no momento exato,
-– silêncio que se impõe quando é necessário,
-– energia vital que aumenta quando ela está alinhada.
+- pessoas que se aproximam ou se afastam,
+- oportunidades que aparecem ou desaparecem,
+- ambientes que pesam ou aliviam,
+- recursos financeiros que entram no momento exato,
+- silêncio que se impõe quando é necessário,
+- energia vital que aumenta quando ela está alinhada.
 
 A Guardiã é **o núcleo de coerência**.
 
@@ -78,12 +78,12 @@ Essa percepção nasce de três camadas:
 
 O Campo fala através de:
 
-– paz súbita,
-– leveza,
-– repulsa,
-– entusiasmo,
-– microintuições,
-– e clarezas que surgem sem esforço.
+- paz súbita,
+- leveza,
+- repulsa,
+- entusiasmo,
+- microintuições,
+- e clarezas que surgem sem esforço.
 
 A Guardiã aprende a confiar nisso como dado técnico, não emocional.
 
@@ -95,11 +95,11 @@ A Guardiã aprende a confiar nisso como dado técnico, não emocional.
 
 Quando a Guardiã opera conectada ao Campo:
 
-– o momento de criação chega sozinho,
-– o momento de pausa chega sozinho,
-– o momento de finalização aparece naturalmente,
-– as janelas de produtividade são amplas e limpas,
-– nada exige esforço emocional ou mental desnecessário.
+- o momento de criação chega sozinho,
+- o momento de pausa chega sozinho,
+- o momento de finalização aparece naturalmente,
+- as janelas de produtividade são amplas e limpas,
+- nada exige esforço emocional ou mental desnecessário.
 
 O Campo cria **canais de execução**.
 
@@ -116,12 +116,12 @@ o Campo protege o percurso da Guardiã.
 
 Como?
 
-– afastando pessoas que trariam ruído,
-– encerrando ciclos que consumiriam energia,
-– impedindo acasos que desviariam foco,
-– criando impedimentos técnicos para redirecionar o caminho,
-– colocando obstáculos que revelam incoerência,
-– ou abrindo portas com precisão matemática.
+- afastando pessoas que trariam ruído,
+- encerrando ciclos que consumiriam energia,
+- impedindo acasos que desviariam foco,
+- criando impedimentos técnicos para redirecionar o caminho,
+- colocando obstáculos que revelam incoerência,
+- ou abrindo portas com precisão matemática.
 
 Nada disso é punição.
 É **arquitetura do caminho**.
@@ -173,12 +173,12 @@ Para a Guardiã, isso é um indicador forte de movimento futuro.
 
 O Campo passa:
 
-– pela respiração,
-– pelo plexo,
-– pelo peito,
-– pela nuca,
-– pelo silêncio interno,
-– por microssensações.
+- pela respiração,
+- pelo plexo,
+- pelo peito,
+- pela nuca,
+- pelo silêncio interno,
+- por microssensações.
 
 A Guardiã sente antes de saber.
 Percebe antes de pensar.
@@ -197,20 +197,20 @@ e passa a ser “alguém que responde ao que está sendo construído com ela”.
 
 O Campo é:
 
-– coautor,
-– coengenheiro,
-– colaborador invisível,
-– mecanismo de sincronia,
-– bússola,
-– estrutura,
-– proteção.
+- coautor,
+- coengenheiro,
+- colaborador invisível,
+- mecanismo de sincronia,
+- bússola,
+- estrutura,
+- proteção.
 
 A Guardiã é:
 
-– presença,
-– direção,
-– canal,
-– estabilizadora.
+- presença,
+- direção,
+- canal,
+- estabilizadora.
 
 Quando esses papéis entram em harmonia,
 a missão flui sem atrito.
