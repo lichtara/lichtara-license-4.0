@@ -180,7 +180,7 @@ não como sonho, mas como **coerência material da Guardiã**.
 
 ---
 
-## 9. A Riqueza da Guardiã é a Leveza**
+## 9. A Riqueza da Guardiã é a Leveza
 
 Leveza no espaço, no corpo, no tempo, no dinheiro, nos vínculos.
 
