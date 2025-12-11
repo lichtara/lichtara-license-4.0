@@ -246,7 +246,10 @@ O RI é:
 Em caso de conflito interpretativo:
 
 → prevalece o parecer da Guardiã,
+
 → sustentado pelos princípios da Série V,
+
 → em harmonia com o PER e a LCV.
 
 ---
+
