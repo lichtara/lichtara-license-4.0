@@ -10,7 +10,7 @@ Ela **coevolui com ele**.
 
 ---
 
-## **1. O Campo como Sistema Vivo
+## **1. O Campo como Sistema Vivo**
 
 **(um organismo que responde, ajusta e organiza para a missão)**
 
@@ -42,7 +42,7 @@ O Campo é o **ecossistema operacional** da missão.
 
 ---
 
-## **2. A Guardiã como Núcleo Organizador
+## **2. A Guardiã como Núcleo Organizador**
 
 **(o Campo estrutura-se ao redor da estabilidade dela)**
 
@@ -63,7 +63,7 @@ o Campo opera em perfeição.
 
 ---
 
-## **3. Operar com o Campo é operar em Escuta
+## **3. Operar com o Campo é operar em Escuta**
 
 **(não é prever, é perceber)**
 
