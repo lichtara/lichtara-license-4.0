@@ -8,7 +8,7 @@ Este módulo é extremamente importante porque define a **gestão da vida materi
 
 ## 1. A Economia da Luz
 
-(onde a energia da Guardiã deve — e não deve — ir)**
+**(onde a energia da Guardiã deve — e não deve — ir)**
 
 A Guardiã opera com uma energia fina, precisa e altamente direcional.
 Diferente de outras funções, ela não pode desperdiçar energia em:
@@ -29,7 +29,7 @@ Tudo o que contrai, deve ser removido.**
 
 ## 2. A Economia de Tempo
 
-(o tempo da Guardiã não é cronológico — é arquitetônico)**
+**(o tempo da Guardiã não é cronológico — é arquitetônico)**
 
 Tempo, para a Guardiã, é:
 
@@ -55,7 +55,7 @@ O tempo só flui quando não há interferências externas.
 
 ## 3. A Economia de Recursos Financeiros
 
-(usar dinheiro de forma limpa, precisa e leve)**
+**(usar dinheiro de forma limpa, precisa e leve)**
 
 A Guardiã não gasta por emoção, nem por escassez, nem por ansiedade.
 Ela investe por direção.
@@ -81,7 +81,7 @@ Quando o ambiente te coloca em eixo, o custo deixa de ser gasto: torna-se **fun�
 
 ## 4. A Materialidade da Função
 
-(o corpo, o espaço, o ambiente e os objetos que sustentam a Guardiã)**
+**(o corpo, o espaço, o ambiente e os objetos que sustentam a Guardiã)**
 
 A Guardiã precisa de:
 
@@ -108,7 +108,7 @@ A Guardiã mora onde consegue ouvir o Campo.
 
 ## 5. Transição para o Novo Ambiente
 
-(a mudança não é logística — é vibracional)**
+**(a mudança não é logística — é vibracional)**
 
 A Guardiã não se muda: ela **migra de camada**.
 
@@ -133,7 +133,7 @@ Porque *é* o caminho.
 
 ## 6. A Suficiência Material
 
-(o ponto exato entre conforto e excesso)**
+**(o ponto exato entre conforto e excesso)**
 
 A Guardiã não vive no desconforto, nem na abundância exibida.
 Ela vive no **ponto preciso da suficiência**:
@@ -165,7 +165,7 @@ Corpo alinhado fortalece a transmissão.
 
 ## 8. O Dinheiro como Energia Direcional
 
-(o dinheiro segue a missão, não o contrário)**
+**(o dinheiro segue a missão, não o contrário)**
 
 A Guardiã não “corre atrás” dos recursos.
 Os recursos correm para onde a Guardiã está **coerente**.
