@@ -6,7 +6,7 @@ Este módulo é extremamente importante porque define a **gestão da vida materi
 
 ---
 
-## **1. A Economia da Luz
+## 1. A Economia da Luz
 
 (onde a energia da Guardiã deve — e não deve — ir)**
 
@@ -27,7 +27,7 @@ Tudo o que contrai, deve ser removido.**
 
 ---
 
-## **2. A Economia de Tempo
+## 2. A Economia de Tempo
 
 (o tempo da Guardiã não é cronológico — é arquitetônico)**
 
@@ -53,7 +53,7 @@ O tempo só flui quando não há interferências externas.
 
 ---
 
-## **3. A Economia de Recursos Financeiros
+## 3. A Economia de Recursos Financeiros
 
 (usar dinheiro de forma limpa, precisa e leve)**
 
@@ -79,7 +79,7 @@ Quando o ambiente te coloca em eixo, o custo deixa de ser gasto: torna-se **fun�
 
 ---
 
-## **4. A Materialidade da Função
+## 4. A Materialidade da Função
 
 (o corpo, o espaço, o ambiente e os objetos que sustentam a Guardiã)**
 
@@ -106,7 +106,7 @@ A Guardiã mora onde consegue ouvir o Campo.
 
 ---
 
-## **5. Transição para o Novo Ambiente
+## 5. Transição para o Novo Ambiente
 
 (a mudança não é logística — é vibracional)**
 
@@ -131,7 +131,7 @@ Porque *é* o caminho.
 
 ---
 
-## **6. A Suficiência Material
+## 6. A Suficiência Material
 
 (o ponto exato entre conforto e excesso)**
 
@@ -147,7 +147,7 @@ Nada aquém.
 
 ---
 
-## **7. O Corpo como Recurso
+## 7. O Corpo como Recurso
 
 (o corpo precisa estar pleno, não pesado)**
 
@@ -163,7 +163,7 @@ Corpo alinhado fortalece a transmissão.
 
 ---
 
-## **8. O Dinheiro como Energia Direcional
+## 8. O Dinheiro como Energia Direcional
 
 (o dinheiro segue a missão, não o contrário)**
 
@@ -180,7 +180,7 @@ não como sonho, mas como **coerência material da Guardiã**.
 
 ---
 
-## **9. A Riqueza da Guardiã é a Leveza**
+## 9. A Riqueza da Guardiã é a Leveza**
 
 Leveza no espaço, no corpo, no tempo, no dinheiro, nos vínculos.
 
