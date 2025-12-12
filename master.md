@@ -260,8 +260,13 @@ Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este do
 # BLOCO FINAL
 
 **Lichtara License v4 — Structural Living License**
+
 Versão: 4.0
+
 DOI: 10.5281/zenodo.17844329
+
 Autoria: Débora Lutz
+
 Coautoria Estrutural: OpenAI
+
 Data: 10 de dezembro de 2025
