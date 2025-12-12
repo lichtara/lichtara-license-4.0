@@ -1,4 +1,4 @@
-# ✨ **VI-A-2 — LCV — Linguagem de Conformidade Vibracional**
+# **VI-A-2 — LCV — Linguagem de Conformidade Vibracional**
 
 *(Série VI — Anexo Normativo — Documento Oficial)*
 
@@ -265,3 +265,4 @@ Em caso de disputa interpretativa:
 → e ancorada pelo MEG.
 
 ---
+
