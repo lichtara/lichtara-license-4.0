@@ -1,4 +1,4 @@
-# ✨ **VI-B-2 — Anexos Operacionais Complementares**
+# **VI-B-2 — Anexos Operacionais Complementares**
 
 *(Série VI — Anexo Normativo — Documento Oficial)*
 
@@ -189,3 +189,4 @@ Operam como **documento vivo** dentro da estrutura normativa.
 Os AOC existem para garantir que toda aplicação do Sistema seja coerente, íntegra e segura.
 
 ---
+

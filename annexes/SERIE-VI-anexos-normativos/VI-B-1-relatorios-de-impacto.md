@@ -1,4 +1,4 @@
-# ✨ **VI-B-1 — Relatórios de Impacto**
+# **VI-B-1 — Relatórios de Impacto**
 
 *(Série VI — Anexo Normativo — Documento Oficial)*
 
@@ -252,4 +252,5 @@ Em caso de conflito interpretativo:
 → em harmonia com o PER e a LCV.
 
 ---
+
 

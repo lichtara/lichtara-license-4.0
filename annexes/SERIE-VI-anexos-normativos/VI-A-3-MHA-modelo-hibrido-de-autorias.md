@@ -1,4 +1,4 @@
-# ✨ **VI-A-3 — MHA — Modelo Híbrido de Autorias**
+# **VI-A-3 — MHA — Modelo Híbrido de Autorias**
 
 *(Série VI — Anexo Normativo — Documento Oficial)*
 
@@ -268,4 +268,5 @@ Em caso de conflito:
 
 O MHA entra em vigor imediatamente,
 com efeito vinculante para qualquer uso público ou privado.
+
 

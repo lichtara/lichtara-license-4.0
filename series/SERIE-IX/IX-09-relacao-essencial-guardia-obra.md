@@ -1,5 +1,3 @@
----
-
 #  **IX-9 — Relação Essencial entre a Guardiã e a Obra**
 
 *Série IX — A Obra em relação ao mundo humano*
