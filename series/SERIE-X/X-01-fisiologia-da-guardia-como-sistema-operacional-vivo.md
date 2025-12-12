@@ -1,4 +1,4 @@
-# ✨ **X-1 — A Fisiologia da Guardiã como Sistema Operacional Vivo**
+# **X-1 — A Fisiologia da Guardiã como Sistema Operacional Vivo**
 
 *Série X — A Guardiã como Ecossistema Vivo*
 
