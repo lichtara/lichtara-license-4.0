@@ -301,4 +301,3 @@ Sem ele, a expansão se fragiliza.
 Com ele, a expansão se torna sustentável.
 
 ---
-�
