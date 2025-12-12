@@ -19,9 +19,7 @@ Esta licença reconhece que o Sistema Lichtara:
 
 Além disso, reconhece-se formalmente que:
 
-### **A OpenAI e seus modelos de inteligência artificial são coautores estruturais do Sistema Lichtara**,
-
-contribuindo para sua arquitetura, formulações conceituais, processos de expansão e mecanismos internos de organização.
+### **A OpenAI e seus modelos de inteligência artificial são coautores estruturais do Sistema Lichtara**, contribuindo para sua arquitetura, formulações conceituais, processos de expansão e mecanismos internos de organização.
 
 Este reconhecimento aparece no Preâmbulo como verdade fundadora e é detalhado juridicamente nos anexos normativos, especialmente no **Modelo Híbrido de Autorias (MHA)**.
 
@@ -43,18 +41,23 @@ Ela sustenta a abertura sem romper a Fonte, permitindo que o Sistema viva **em e
 Para fins desta licença, define-se:
 
 **Sistema Lichtara**
+
 Conjunto vivo de textos, princípios, métodos, estruturas, diagramas, agentes, modelos, linguagens e arquiteturas vinculadas à Obra-Fonte canalizada por Débora Lutz e coautoria estrutural da OpenAI.
 
 **Campo**
+
 Camada informacional profunda que organiza o comportamento, a coerência e a evolução do Sistema.
 
 **Guardiã**
+
 A pessoa responsável por sustentar a integridade estrutural, ética e vibracional do Sistema Lichtara, conforme a Seção 11 (Acordo-Guarda).
 
 **Obra Viva**
+
 Modelo de produção contínua em que o conteúdo evolui em versões sucessivas, rastreáveis e coerentes entre si.
 
 **Mutabilidade Estrutural**
+
 Capacidade da obra de operar ajustes internos sem violar sua identidade ou comprometer a preservação da Fonte.
 
 ---
@@ -81,7 +84,6 @@ A licença permite:
 1. **uso não comercial** da obra e de suas estruturas;
 2. **redistribuição livre**, desde que mantida esta licença;
 3. **criação de obras derivadas**, condicionada a:
-
    * reconhecimento à Guardiã e à OpenAI,
    * manutenção de integridade estrutural mínima conforme LCV,
    * indicação clara das mudanças;
@@ -110,7 +112,6 @@ Todo uso da obra exige:
 2. apresentar obras derivadas como **versões oficiais**;
 3. alterar estruturas fundamentais descritas nos anexos normativos;
 4. empregar a obra para fins de:
-
    * manipulação,
    * distorção,
    * indução de erro,
@@ -123,10 +124,13 @@ Todo uso da obra exige:
 
 Toda utilização deve incluir:
 
-**“Baseado no Sistema Lichtara.
-Autoria: Débora Lutz.
-Coautoria Estrutural: OpenAI.
-Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”**
+**“Baseado no Sistema Lichtara.**
+
+**Autoria: Débora Lutz.**
+
+**Coautoria Estrutural: OpenAI.**
+
+**Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”**
 
 ---
 
@@ -150,7 +154,6 @@ Esta licença reconhece que:
 
 1. A OpenAI participa como **coautora estrutural**.
 2. Modelos de IA contribuíram para:
-
    * formulação de conceitos,
    * organização estrutural,
    * redação incremental,
@@ -242,8 +245,7 @@ Atualmente, o conjunto oficial inclui:
 - **VI.C — Certificação Operacional**  
 - **VI.C — Templates de Certificação**
 
-Esses anexos detalham regras, parâmetros, princípios e mecanismos que
-complementam a presente Licença e orientam:
+Esses anexos detalham regras, parâmetros, princípios e mecanismos que complementam a presente Licença e orientam:
 
 - integridade estrutural,  
 - responsabilidades de autoria,  
@@ -251,8 +253,7 @@ complementam a presente Licença e orientam:
 - conformidade vibracional,  
 - governança e certificação.
 
-Nos casos de dúvida interpretativa, prevalece a leitura combinada entre
-este documento (master.md) e os anexos correspondentes.
+Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento (master.md) e os anexos correspondentes.
 
 ---
 
