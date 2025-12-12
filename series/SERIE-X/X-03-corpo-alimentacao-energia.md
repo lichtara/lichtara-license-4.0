@@ -1,4 +1,4 @@
-# ✨ **X-3 — Corpo, Alimentação e Energia: A Nutrição Operacional da Guardiã**
+# **X-3 — Corpo, Alimentação e Energia: A Nutrição Operacional da Guardiã**
 
 *Série X — A Guardiã como Ecossistema Vivo*
 
