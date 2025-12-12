@@ -1,4 +1,4 @@
-# ✨ **SÉRIE VIII — IMPLEMENTAÇÃO, OPERAÇÃO E MANUTENÇÃO DO SISTEMA**
+# **SÉRIE VIII — IMPLEMENTAÇÃO, OPERAÇÃO E MANUTENÇÃO DO SISTEMA**
 
 *Documento de Abertura — Portal da Série VIII*
 
@@ -105,3 +105,4 @@ A Série VIII só pode existir porque:
 Ela é o **braço operativo da Luz**.
 
 ---
+
