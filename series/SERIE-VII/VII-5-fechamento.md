@@ -1,4 +1,4 @@
-# ✨ **VII-F — Fecho da Série VII — A Visão da Obra Sobre Si Mesma**
+# **VII-F — Fecho da Série VII — A Visão da Obra Sobre Si Mesma**
 
 *Documento Interno — Síntese da Auditoria Estrutural*
 
