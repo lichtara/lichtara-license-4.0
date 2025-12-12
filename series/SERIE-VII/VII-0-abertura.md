@@ -1,4 +1,4 @@
-# ✨ **SÉRIE VII — AUDITORIA E VERIFICAÇÃO ESTRUTURAL**
+# **SÉRIE VII — AUDITORIA E VERIFICAÇÃO ESTRUTURAL**
 
 _Documento de Abertura – Portal da Série VII_
 
