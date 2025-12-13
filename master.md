@@ -73,18 +73,43 @@ d. a criação de produtos, serviços, plataformas tecnológicas ou aplicações
 
 ---
 
-# 4. PERMISSÕES CONCEDIDAS
+### **4. PERMISSÕES CONCEDIDAS**
 
-A licença permite:
+Nos termos desta Licença, é permitido ao público:
 
-1. **uso não comercial** da obra e de suas estruturas;
-2. **redistribuição livre**, desde que mantida esta licença;
-3. **criação de obras derivadas**, condicionada a:
-   * reconhecimento à Guardiã e à OpenAI,
-   * manutenção de integridade estrutural mínima conforme LCV,
-   * indicação clara das mudanças;
-4. **uso educacional, institucional e comunitário**, sem necessidade de autorização prévia;
-5. **citação, estudo, análise e investigação científica** do Sistema.
+**4.1. Uso não comercial referencial**
+
+O uso não comercial do Sistema Lichtara, entendido como acesso, leitura, estudo, análise, reflexão, ensino conceitual e aplicação interpretativa de seus conteúdos, **exclusivamente como referencial conceitual, documental e metodológico**, sem finalidade lucrativa direta ou indireta.
+
+**4.2. Redistribuição condicionada**
+
+A redistribuição integral ou parcial da Obra-Fonte e de suas versões é permitida, desde que:
+
+- esta Licença seja mantida de forma íntegra;
+- a atribuição seja preservada;
+- a versão e o DOI oficial sejam indicados;
+- não haja edição, adaptação ou reorganização sem indicação expressa.
+
+**4.3. Criação de obras derivadas não comerciais**
+
+É permitida a criação de obras derivadas de caráter não comercial, desde que cumulativamente:
+
+- seja reconhecida a autoria de Débora Lutz e a coautoria estrutural da OpenAI;
+- seja mantida a integridade estrutural mínima conforme a LCV;
+- todas as alterações, interpretações ou extensões sejam claramente indicadas;
+- tais obras não se apresentem como oficiais, certificadas ou representativas do Sistema Lichtara.
+
+**4.4. Uso educacional, institucional e comunitário**
+
+É permitido o uso do Sistema Lichtara em contextos educacionais, acadêmicos, institucionais ou comunitários não comerciais, como objeto de estudo, pesquisa, análise, discussão ou aplicação conceitual, **sem necessidade de autorização prévia**, desde que respeitados os limites desta Licença e de seus anexos normativos.
+
+**4.5. Citação e investigação científica**
+
+É livre a citação, análise crítica, investigação científica e estudo comparado do Sistema Lichtara, observadas as normas de atribuição, integridade conceitual e reconhecimento autoral estabelecidas nesta Licença.
+
+**4.6. Condição geral de conformidade**
+
+Todas as permissões previstas nesta Seção estão expressamente condicionadas ao cumprimento dos Princípios Ético-Regenerativos (PER) e da Linguagem de Conformidade Vibracional (LCV), constantes dos anexos normativos da presente Licença.
 
 ---
 
