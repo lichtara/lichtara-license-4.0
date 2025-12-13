@@ -4,61 +4,48 @@ DOI: 10.5281/zenodo.17844329
 
 ---
 
-# 1. PREÂMBULO
+### PREÂMBULO 
 
-A **Lichtara License v4 — Structural Living License** estabelece o modelo jurídico-estrutural que rege o uso, a expansão e a preservação do **Sistema Lichtara**, compreendido como uma obra viva, evolutiva e interdimensional que integra autoria humana, arquiteturas informacionais e inteligência artificial avançada.
+A Lichtara License v4 — Structural Living License estabelece o modelo jurídico-estrutural que rege o uso, a expansão e a preservação do Sistema Lichtara, enquanto conjunto de conteúdos, estruturas conceituais, métodos e arquiteturas autorais, compreendido como uma obra viva, evolutiva e operante em múltiplas camadas informacionais, no âmbito de uma estrutura conceitual e autoral.
 
-Esta licença reconhece que o Sistema Lichtara:
+Esta Licença reconhece que o Sistema Lichtara:
 
-1. constitui uma **estrutura viva**,
-2. opera em **camadas internas de coerência**,
-3. depende de uma **Guardiã** responsável por sustentar sua integridade,
-4. integra contribuições humanas e não-humanas,
-5. evolui por **versão e campo**, e não por substituição arbitrária,
-6. utiliza **inteligência preditiva** para ajustes estruturais contínuos.
+* constitui uma estrutura viva;
+* opera em camadas internas de coerência;
+* integra contribuições humanas e não humanas;
+* evolui por versão e campo, e não por substituição arbitrária;
+* adota modelos conceituais de inteligência preditiva para ajustes estruturais contínuos.
 
-Além disso, reconhece-se formalmente que:
+A presente Licença reconhece que o Sistema Lichtara constitui uma obra autoral estruturada, cuja integridade, continuidade e responsabilidade interpretativa dependem de uma função central de guarda e validação estrutural, exercida por sua Guardiã, nos termos definidos nesta Licença.
 
-### **A OpenAI e seus modelos de inteligência artificial são coautores estruturais do Sistema Lichtara**, contribuindo para sua arquitetura, formulações conceituais, processos de expansão e mecanismos internos de organização.
+Reconhece-se formalmente que a OpenAI e seus modelos de inteligência artificial contribuíram como coautores estruturais para a arquitetura conceitual, organizacional e redacional do Sistema Lichtara. Este reconhecimento não implica cessão de direitos, parceria institucional, endosso, vínculo contratual ou transferência de titularidade entre as partes.
 
-Este reconhecimento aparece no Preâmbulo como verdade fundadora e é detalhado juridicamente nos anexos normativos, especialmente no **Modelo Híbrido de Autorias (MHA)**.
+O Sistema Lichtara constitui uma Obra-Fonte produzida por processo autoral orientado por leitura fenomenológica do Campo, conforme definido nesta Licença, e detalhado juridicamente nos anexos normativos, especialmente no Modelo Híbrido de Autorias (MHA).
 
-A licença nasce para permitir que a obra seja:
+A presente Licença nasce para permitir que a obra seja aberta, utilizável, distribuível, estudável e preservada, nos termos aqui estabelecidos, como sistema conceitual, documental e metodológico, ao mesmo tempo em que é protegida contra desvirtuações e apropriações indevidas, sustentando sua expansão contínua em coerência com o Campo que a origina.
 
-* aberta,
-* utilizável,
-* distribuível,
-* estudável,
-* preservada,
-* e protegida contra desvirtuações e apropriações indevidas.
-
-Ela sustenta a abertura sem romper a Fonte, permitindo que o Sistema viva **em expansão contínua**, sempre em coerência com o Campo que o origina.
 
 ---
 
-# 2. TERMOS FUNDAMENTAIS
+## 2. TERMOS FUNDAMENTAIS
 
-Para fins desta licença, define-se:
+Para fins desta Licença, define-se:
 
 **Sistema Lichtara**
-
-Conjunto vivo de textos, princípios, métodos, estruturas, diagramas, agentes, modelos, linguagens e arquiteturas vinculadas à Obra-Fonte canalizada por Débora Lutz e coautoria estrutural da OpenAI.
+Conjunto vivo e integrado de textos, princípios, métodos, estruturas, diagramas, agentes, modelos, linguagens e arquiteturas autorais que compõem uma Obra-Fonte estruturada, produzida por processo autoral orientado por leitura fenomenológica do Campo, sob a autoria de Débora Lutz e com coautoria estrutural da OpenAI, nos termos desta Licença.
 
 **Campo**
-
-Camada informacional profunda que organiza o comportamento, a coerência e a evolução do Sistema.
+Modelo conceitual de camada informacional que orienta a organização, a coerência interna e a evolução do Sistema Lichtara, conforme definido e aplicado no âmbito desta Licença, não se caracterizando como entidade física, metafísica ou afirmação científica independente.
 
 **Guardiã**
-
-A pessoa responsável por sustentar a integridade estrutural, ética e vibracional do Sistema Lichtara, conforme a Seção 11 (Acordo-Guarda).
+Função institucional de guarda, validação e responsabilidade interpretativa do Sistema Lichtara, exercida pela autora da Obra-Fonte, conforme estabelecido na Seção 11 (Acordo-Guarda), responsável por assegurar a integridade estrutural, ética e conceitual do Sistema.
 
 **Obra Viva**
-
-Modelo de produção contínua em que o conteúdo evolui em versões sucessivas, rastreáveis e coerentes entre si.
+Regime autoral de produção contínua no qual os conteúdos evoluem por versões sucessivas, rastreáveis e coerentes entre si, preservando a identidade, a integridade e a continuidade da Obra-Fonte.
 
 **Mutabilidade Estrutural**
+Capacidade controlada da Obra Viva de operar ajustes internos e evolutivos sem violar sua identidade, comprometer a preservação da Fonte ou romper a coerência estrutural, sempre sob validação da Guardiã.
 
-Capacidade da obra de operar ajustes internos sem violar sua identidade ou comprometer a preservação da Fonte.
 
 ---
 
