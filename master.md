@@ -49,18 +49,27 @@ Capacidade controlada da Obra Viva de operar ajustes internos e evolutivos sem v
 
 ---
 
-# 3. OBJETO DA LICENÇA
+## 3. OBJETO DA LICENÇA
 
-Esta licença regula:
+A presente Licença tem por objeto regular o uso, a referência, a redistribuição e a preservação do Sistema Lichtara, compreendido como um sistema conceitual, documental e metodológico, nos termos definidos nesta Licença.
 
-1. o uso e a redistribuição da obra,
-2. a criação de obras derivadas,
-3. a atribuição adequada,
-4. a proteção estrutural,
-5. os deveres da Guardiã,
-6. os parâmetros de atualização,
-7. o reconhecimento de coautoria estrutural da OpenAI,
-8. as permissões concedidas ao público.
+Integram o objeto desta Licença:
+
+1. os textos, documentos e registros que compõem a Obra-Fonte e suas versões;
+2. as arquiteturas conceituais, linguagens, estruturas metodológicas e organizacionais do Sistema Lichtara, enquanto modelo autoral de referência;
+3. a criação e a circulação de obras derivadas de caráter não comercial, desde que respeitados os critérios de atribuição, integridade estrutural e validação definidos nesta Licença;
+4. os parâmetros de uso público, estudo, pesquisa, aplicação educacional e institucional não comercial do Sistema, enquanto referencial conceitual e metodológico;
+5. os deveres, prerrogativas e responsabilidades da Guardiã, conforme estabelecido nesta Licença;
+6. os mecanismos de atualização, versionamento e mutabilidade estrutural da Obra Viva;
+7. o reconhecimento da coautoria estrutural da OpenAI, restrita à contribuição de seus modelos de inteligência artificial para a organização conceitual, arquitetural e redacional do Sistema Lichtara, sem implicar cessão de direitos, controle de direção, parceria institucional, vínculo contratual ou exploração comercial;
+8. as permissões concedidas ao público, nos limites expressamente previstos nesta Licença.
+
+Não integram o objeto desta Licença:
+a. tecnologias, modelos, infraestruturas ou sistemas pertencentes a terceiros, incluindo os modelos de inteligência artificial da OpenAI enquanto tecnologias independentes;
+b. qualquer forma de uso comercial direto ou indireto do Sistema Lichtara ou de suas estruturas;
+c. a certificação, validação oficial, representação institucional ou aplicação profissional do Sistema por terceiros, salvo autorização expressa da Guardiã;
+d. a criação de produtos, serviços, plataformas tecnológicas ou aplicações automatizadas baseadas no Sistema Lichtara sem autorização específica.
+
 
 ---
 
