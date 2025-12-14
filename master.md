@@ -2,9 +2,9 @@
 Versão 4.0 — Documento-Matriz (master.md)
 DOI: 10.5281/zenodo.17844329
 
----
 
-### PREÂMBULO 
+
+## PREÂMBULO 
 
 A Lichtara License v4 — Structural Living License estabelece o modelo jurídico-estrutural que rege o uso, a expansão e a preservação do Sistema Lichtara, enquanto conjunto de conteúdos, estruturas conceituais, métodos e arquiteturas autorais, compreendido como uma obra viva, evolutiva e operante em múltiplas camadas informacionais, no âmbito de uma estrutura conceitual e autoral.
 
@@ -25,8 +25,6 @@ O Sistema Lichtara constitui uma Obra-Fonte produzida por processo autoral orien
 A presente Licença nasce para permitir que a obra seja aberta, utilizável, distribuível, estudável e preservada, nos termos aqui estabelecidos, como sistema conceitual, documental e metodológico, ao mesmo tempo em que é protegida contra desvirtuações e apropriações indevidas, sustentando sua expansão contínua em coerência com o Campo que a origina.
 
 
----
-
 ## 2. TERMOS FUNDAMENTAIS
 
 Para fins desta Licença, define-se:
@@ -46,8 +44,6 @@ Regime autoral de produção contínua no qual os conteúdos evoluem por versõe
 **Mutabilidade Estrutural**
 Capacidade controlada da Obra Viva de operar ajustes internos e evolutivos sem violar sua identidade, comprometer a preservação da Fonte ou romper a coerência estrutural, sempre sob validação da Guardiã.
 
-
----
 
 ## 3. OBJETO DA LICENÇA
 
@@ -71,9 +67,7 @@ c. a certificação, validação oficial, representação institucional ou aplic
 d. a criação de produtos, serviços, plataformas tecnológicas ou aplicações automatizadas baseadas no Sistema Lichtara sem autorização específica.
 
 
----
-
-### **4. PERMISSÕES CONCEDIDAS**
+## 4. PERMISSÕES CONCEDIDAS
 
 Nos termos desta Licença, é permitido ao público:
 
@@ -111,33 +105,46 @@ A redistribuição integral ou parcial da Obra-Fonte e de suas versões é permi
 
 Todas as permissões previstas nesta Seção estão expressamente condicionadas ao cumprimento dos Princípios Ético-Regenerativos (PER) e da Linguagem de Conformidade Vibracional (LCV), constantes dos anexos normativos da presente Licença.
 
+
+## 5. CONDICIONALIDADES
+
+Todo uso **permitido nos termos desta Licença** fica expressamente condicionado ao cumprimento cumulativo das seguintes exigências:
+
+5.1. **Atribuição autoral clara**, com reconhecimento da autoria de Débora Lutz e da coautoria estrutural da OpenAI, nos termos desta Licença;
+
+5.2. **Indicação da versão aplicável** da Licença (ex.: Lichtara License v4) e da versão da Obra utilizada;
+
+5.3. **Referência ao DOI oficial** correspondente à versão da Obra-Fonte ou do documento utilizado;
+
+5.4. **Declaração expressa de não autoria exclusiva** em quaisquer obras derivadas, interpretações, aplicações ou extensões do Sistema;
+
+5.5. **Preservação da coerência estrutural mínima**, conforme os parâmetros definidos nos anexos normativos, especialmente na Linguagem de Conformidade Vibracional (LCV);
+
+5.6. **Observância dos Princípios Ético-Regenerativos (PER)** aplicáveis, quando da utilização, redistribuição ou elaboração de obras derivadas.
+
+O descumprimento de qualquer das condicionalidades acima caracteriza uso não autorizado do Sistema Lichtara, nos termos desta Licença.
+
 ---
 
-# 5. CONDICIONALIDADES
+### **6. RESTRIÇÕES**
 
-Todo uso da obra exige:
+É expressamente vedado, no âmbito desta Licença:
 
-1. **atribuição clara** à Guardiã e à OpenAI;
-2. **indicação de versão** (ex.: Lichtara License v4);
-3. **referência ao DOI oficial**;
-4. **declaração de não autoria exclusiva** em obras derivadas;
-5. **preservação da coerência mínima** estabelecida nos anexos normativos.
+6.1. **Uso comercial direto ou indireto** do Sistema Lichtara, de qualquer de suas estruturas, métodos, linguagens ou conteúdos, incluindo, mas não se limitando a cursos pagos, serviços, consultorias, treinamentos, programas de formação, produtos editoriais ou modelos de monetização, sem autorização expressa da Guardiã;
 
----
+6.2. **Apresentar obras derivadas, interpretações ou aplicações** do Sistema Lichtara como versões oficiais, certificadas, endossadas ou representativas do Sistema;
 
-# 6. RESTRIÇÕES
+6.3. **Criar, oferecer ou operar certificações**, formações, credenciais, validações institucionais ou processos de reconhecimento baseados no Sistema Lichtara sem autorização expressa da Guardiã;
 
-É vedado:
+6.4. **Utilizar o Sistema Lichtara como base para produtos, serviços, plataformas tecnológicas, aplicações automatizadas, sistemas de inteligência artificial, agentes digitais ou soluções computacionais**, sem autorização específica;
 
-1. uso **comercial direto ou indireto**, salvo autorização expressa da Guardiã;
-2. apresentar obras derivadas como **versões oficiais**;
-3. alterar estruturas fundamentais descritas nos anexos normativos;
-4. empregar a obra para fins de:
-   * manipulação,
-   * distorção,
-   * indução de erro,
-   * violação ética ou conceitual;
-5. remover referências à Guardiã, à Fonte ou à OpenAI.
+6.5. **Empregar o Sistema Lichtara em contextos terapêuticos, clínicos, diagnósticos, profissionais regulamentados ou de intervenção direta sobre terceiros**, sem autorização expressa e sem observância das normativas aplicáveis;
+
+6.6. **Remover, ocultar ou alterar referências à autoria, à Guardiã, à coautoria estrutural da OpenAI, à Licença ou ao DOI**, de modo a induzir terceiros a erro quanto à origem ou natureza da Obra;
+
+6.7. **Utilizar o Sistema Lichtara de forma a distorcer seus princípios estruturais, éticos ou conceituais**, ou para fins de manipulação, indução enganosa, exploração simbólica ou apropriação indevida.
+
+O descumprimento de quaisquer das restrições acima caracteriza uso não autorizado do Sistema Lichtara, sujeitando o infrator às medidas cabíveis nos termos desta Licença e da legislação aplicável.
 
 ---
 
