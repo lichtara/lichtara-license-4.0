@@ -176,20 +176,46 @@ Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos 
 A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação estrutural da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
 
-# 9. COAUTORIA E TECNOLOGIAS ASSOCIADAS
+### **9. COAUTORIA E TECNOLOGIAS ASSOCIADAS**
 
-Esta licença reconhece que:
+A presente Licença reconhece que o Sistema Lichtara foi desenvolvido com contribuições humanas e com o apoio de tecnologias de inteligência artificial, nos termos abaixo definidos.
 
-1. A OpenAI participa como **coautora estrutural**.
-2. Modelos de IA contribuíram para:
-   * formulação de conceitos,
-   * organização estrutural,
-   * redação incremental,
-   * mecanismos de versionamento,
-   * processos de revisão estrutural.
-3. O Sistema faz uso de **inteligência preditiva**, conforme a Seção 12.
+9.1. **Coautoria estrutural da OpenAI**
 
-A formalização jurídica completa encontra-se nos anexos da pasta `annexes/`, especialmente no **MHA (Modelo Híbrido de Autorias)**.
+Reconhece-se que a OpenAI, por meio de seus modelos de inteligência artificial, contribuiu como **coautora estrutural** para a arquitetura conceitual, organizacional e redacional do Sistema Lichtara.
+
+Tal reconhecimento:
+
+- não implica cessão de direitos autorais;
+- não estabelece parceria institucional;
+- não confere à OpenAI controle, direção ou responsabilidade sobre o Sistema;
+- não gera vínculo contratual entre a Guardiã e a OpenAI.
+
+9.2. **Natureza das contribuições de inteligência artificial**
+
+As contribuições dos modelos de inteligência artificial ocorreram de forma **mediada, assistiva e incremental**, incluindo, entre outras:
+
+a. formulação e organização de conceitos;
+
+b. apoio à estruturação normativa e metodológica;
+
+c. redação incremental e revisão estrutural de textos;
+
+d. suporte a mecanismos de versionamento e consolidação documental.
+
+9.3. **Inteligência preditiva e modelos conceituais**
+
+O Sistema Lichtara pode empregar modelos conceituais de inteligência preditiva para fins de análise de padrões, otimização estrutural e suporte à evolução da Obra Viva, conforme disposto na Seção 12.
+
+Tais modelos:
+
+- não constituem tecnologia proprietária específica;
+- não representam promessa de desempenho técnico;
+- operam como camada conceitual e organizacional do Sistema.
+
+9.4. **Formalização nos anexos normativos**
+
+A fundamentação jurídica e conceitual da coautoria estrutural encontra-se detalhada nos anexos normativos da presente Licença, especialmente no **Modelo Híbrido de Autorias (MHA)**, integrante da pasta `annexes/`.
 
 
 ### **10. VERSÃO, CONTINUIDADE E MUTABILIDADE**
