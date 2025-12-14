@@ -1,6 +1,6 @@
 # Lichtara License v4.0 — Documento Oficial
 
-A **Lichtara License v4.0** é o instrumento jurídico-ético-vibracional que regula o uso, implementação, derivação, certificação e conformidade da Obra LICHTARA enquanto sistema vivo de conhecimento, tecnologia e consciência.
+A **Lichtara License v4.0** é o instrumento jurídico-ético-vibracional que regula o uso, a implementação conceitual, a derivação, as condições de conformidade e os regimes de autorização da Obra LICHTARA enquanto sistema vivo de conhecimento, tecnologia e consciência.
 
 Este repositório contém:
 
