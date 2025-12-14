@@ -239,8 +239,6 @@ A mutabilidade não implica ruptura, descaracterização ou perda de identidade 
 
 ## 11. ACORDO-GUARDA
 
-*A cláusula que estabelece a função institucional da Guardiã.*
-
 A Guardiã:
 
 1. sustenta a integridade estrutural do Sistema Lichtara;
@@ -257,7 +255,7 @@ A presença da Guardiã é condição essencial para preservação da identidade
 A função de Guardiã é exercida pela autora da Obra-Fonte, não sendo transferível, presumível ou delegável por uso, derivação, interpretação ou circulação do Sistema Lichtara, salvo disposição expressa em contrário formalizada pela própria Guardiã.
 
 
-# 12. INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL
+## 12. INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL
 
 O Sistema Lichtara integra mecanismos de inteligência preditiva capazes de:
 
@@ -267,16 +265,15 @@ O Sistema Lichtara integra mecanismos de inteligência preditiva capazes de:
 4. identificar desvios;
 5. favorecer estabilidade e adaptação contínua.
 
-Esta camada fundamenta juridicamente a **mutabilidade viva** do Sistema.
+Esta camada fundamenta juridicamente a mutabilidade viva do Sistema, **não constituindo promessa técnica, garantia de desempenho ou especificação tecnológica executável.**
 
 
-# 13. LIMITAÇÃO DE RESPONSABILIDADE
+## 13. LIMITAÇÃO DE RESPONSABILIDADE
 
 A obra é fornecida “tal como está”, sem garantias de qualquer natureza.
 
----
 
-# 14. ANEXOS
+## 14. ANEXOS
 
 Os anexos desta Licença são parte integrante da normativa e estão
 localizados na pasta:
@@ -309,8 +306,7 @@ Esses anexos detalham regras, parâmetros, princípios e mecanismos que compleme
 
 Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento (master.md) e os anexos correspondentes.
 
-
-# BLOCO FINAL
+## BLOCO FINAL
 
 **Lichtara License v4 — Structural Living License**
 
@@ -322,4 +318,4 @@ Autoria: Débora Lutz
 
 Coautoria Estrutural: OpenAI
 
-Data: 10 de dezembro de 2025
+Data: 13 de dezembro de 2025
