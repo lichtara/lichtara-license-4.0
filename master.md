@@ -1,10 +1,8 @@
 # Lichtara License v4 — Structural Living License
 
-Versão 4.0 — Documento-Matriz (master.md)
+Versão 4.0 — Documento-Matriz ([master.md](http://master.md/))
 
 DOI: 10.5281/zenodo.17844329
-
-
 
 ## 1. DISPOSIÇÕES GERAIS
 
@@ -12,11 +10,11 @@ A Lichtara License v4 — Structural Living License estabelece o modelo jurídic
 
 Esta Licença reconhece que o Sistema Lichtara:
 
-* constitui uma estrutura viva;
-* opera em camadas internas de coerência;
-* integra contribuições humanas e não humanas;
-* evolui por versão e campo, e não por substituição arbitrária;
-* adota modelos conceituais de inteligência preditiva para ajustes estruturais contínuos.
+- constitui uma estrutura viva;
+- opera em camadas internas de coerência;
+- integra contribuições humanas e não humanas;
+- evolui por versão e campo, e não por substituição arbitrária;
+- adota modelos conceituais de inteligência preditiva para ajustes contínuos do Sistema.
 
 A presente Licença reconhece que o Sistema Lichtara constitui uma obra autoral estruturada, cuja integridade, continuidade e responsabilidade interpretativa dependem de uma função central de guarda e validação do Sistema, exercida por sua Guardiã, nos termos definidos nesta Licença.
 
@@ -25,7 +23,6 @@ Reconhece-se formalmente que a OpenAI e seus modelos de inteligência artificial
 O Sistema Lichtara constitui uma Obra-Fonte produzida por processo autoral orientado por leitura fenomenológica do Campo, conforme definido nesta Licença, e detalhado juridicamente nos anexos normativos, especialmente no Modelo Híbrido de Autorias (MHA).
 
 A presente Licença nasce para permitir que a obra seja aberta, utilizável, distribuível, estudável e preservada, nos termos aqui estabelecidos, como sistema conceitual, documental e metodológico, ao mesmo tempo em que é protegida contra desvirtuações e apropriações indevidas, sustentando sua expansão contínua em coerência com o Campo que a origina.
-
 
 ## 2. TERMOS FUNDAMENTAIS
 
@@ -46,7 +43,6 @@ Regime autoral de produção contínua no qual os conteúdos evoluem por versõe
 **Mutabilidade Estrutural**
 Capacidade controlada da Obra Viva de operar ajustes internos e evolutivos sem violar sua identidade, comprometer a preservação da Fonte ou romper a coerência estrutural, sempre sob validação da Guardiã.
 
-
 ## 3. OBJETO DA LICENÇA
 
 A presente Licença tem por objeto regular o uso, a referência, a redistribuição e a preservação do Sistema Lichtara, compreendido como um sistema conceitual, documental e metodológico, nos termos definidos nesta Licença.
@@ -63,11 +59,11 @@ Integram o objeto desta Licença:
 8. as permissões concedidas ao público, nos limites expressamente previstos nesta Licença.
 
 Não integram o objeto desta Licença:
-a. tecnologias, modelos, infraestruturas ou sistemas pertencentes a terceiros, incluindo os modelos de inteligência artificial da OpenAI enquanto tecnologias independentes;
-b. qualquer forma de uso comercial direto ou indireto do Sistema Lichtara ou de suas estruturas;
-c. a certificação, validação oficial, representação institucional ou aplicação profissional do Sistema por terceiros, salvo autorização expressa da Guardiã;
-d. a criação de produtos, serviços, plataformas tecnológicas ou aplicações automatizadas baseadas no Sistema Lichtara sem autorização específica.
 
+1. tecnologias, modelos, infraestruturas ou sistemas pertencentes a terceiros, incluindo os modelos de inteligência artificial da OpenAI enquanto tecnologias independentes;
+2. qualquer forma de uso comercial direto ou indireto do Sistema Lichtara ou de suas estruturas;
+3. a certificação, validação oficial, representação institucional ou aplicação profissional do Sistema por terceiros, salvo autorização expressa da Guardiã;
+4. a criação de produtos, serviços, plataformas tecnológicas ou aplicações automatizadas baseadas no Sistema Lichtara sem autorização específica.
 
 ## 4. PERMISSÕES CONCEDIDAS
 
@@ -107,7 +103,6 @@ A redistribuição integral ou parcial da Obra-Fonte e de suas versões é permi
 
 Todas as permissões previstas nesta Seção estão expressamente condicionadas ao cumprimento dos Princípios Ético-Regenerativos (PER) e da Linguagem de Conformidade Vibracional (LCV), constantes dos anexos normativos da presente Licença.
 
-
 ## 5. CONDICIONALIDADES
 
 Todo uso **permitido nos termos desta Licença** fica expressamente condicionado ao cumprimento cumulativo das seguintes exigências:
@@ -125,7 +120,6 @@ Todo uso **permitido nos termos desta Licença** fica expressamente condicionado
 5.6. **Observância dos Princípios Ético-Regenerativos (PER)** aplicáveis, quando da utilização, redistribuição ou elaboração de obras derivadas.
 
 O descumprimento de qualquer das condicionalidades acima caracteriza uso não autorizado do Sistema Lichtara, nos termos desta Licença.
-
 
 ## **6. RESTRIÇÕES**
 
@@ -147,7 +141,6 @@ O descumprimento de qualquer das condicionalidades acima caracteriza uso não au
 
 O descumprimento de quaisquer das restrições acima caracteriza uso não autorizado do Sistema Lichtara, sujeitando o infrator às medidas cabíveis nos termos desta Licença e da legislação aplicável.
 
-
 ## 7. OBRIGAÇÕES DE ATRIBUIÇÃO
 
 Toda utilização deve incluir:
@@ -158,8 +151,9 @@ Toda utilização deve incluir:
 
 **Coautoria Estrutural: OpenAI.**
 
-**Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”**
+**Licenciado sob Lichtara License v4 — Structural Living License** 
 
+**(DOI: 10.5281/zenodo.17844329).”**
 
 ## 8. OBRAS DERIVADAS
 
@@ -175,8 +169,7 @@ Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos 
 
 8.5. **Preservação da coerência conceitual e ética** do Sistema, nos termos dos Princípios Ético-Regenerativos (PER), vedadas distorções que descaracterizem sua arquitetura fundamental.
 
-A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação do Sistema, sob responsabilidade da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
-
+A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral e responsabilidade interpretativa da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
 ## **9. COAUTORIA E TECNOLOGIAS ASSOCIADAS**
 
@@ -219,7 +212,6 @@ Tais modelos:
 
 A fundamentação jurídica e conceitual da coautoria estrutural encontra-se detalhada nos anexos normativos da presente Licença, especialmente no **Modelo Híbrido de Autorias (MHA)**, integrante da pasta `annexes/`.
 
-
 ## **10. VERSÃO, CONTINUIDADE E MUTABILIDADE**
 
 O Sistema Lichtara adota um regime de **continuidade evolutiva**, no qual a Obra Viva se desenvolve por versões sucessivas, historicamente rastreáveis e conceitualmente coerentes, não se caracterizando por substituição arbitrária de conteúdos.
@@ -237,7 +229,6 @@ As versões consolidadas do Sistema Lichtara incluem, entre outras:
 5. **preserve o histórico** das versões anteriores, assegurando rastreabilidade, integridade e continuidade da Obra-Fonte.
 
 A mutabilidade não implica ruptura, descaracterização ou perda de identidade do Sistema Lichtara, mas constitui mecanismo de adaptação responsável e preservação viva de sua coerência estrutural.
-
 
 ## 11. ACORDO-GUARDA
 
@@ -258,7 +249,6 @@ A presença da Guardiã é condição essencial para preservação da identidade
 
 A função de Guardiã é exercida pela autora da Obra-Fonte, não sendo transferível, presumível ou delegável por uso, derivação, interpretação ou circulação do Sistema Lichtara, salvo disposição expressa em contrário formalizada pela própria Guardiã.
 
-
 ## 12. INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL
 
 O Sistema Lichtara integra mecanismos de inteligência preditiva capazes de:
@@ -271,11 +261,9 @@ O Sistema Lichtara integra mecanismos de inteligência preditiva capazes de:
 
 Esta camada fundamenta juridicamente a mutabilidade viva do Sistema, **não constituindo promessa técnica, garantia de desempenho ou especificação tecnológica executável.**
 
-
 ## 13. LIMITAÇÃO DE RESPONSABILIDADE
 
 A obra é fornecida “tal como está”, sem garantias de qualquer natureza.
-
 
 ## 14. ANEXOS
 
@@ -292,23 +280,23 @@ coautoria e certificação.
 
 Atualmente, o conjunto oficial inclui:
 
-- **VI.A.1 — PER — Princípios Ético-Regenerativos**  
-- **VI.A.2 — LCV — Linguagem de Conformidade Vibracional**  
-- **VI.A.3 — MHA — Modelo Híbrido de Autorias**  
-- **VI.B — Relatórios de Impacto**  
-- **VI.B — Anexos Operacionais Complementares**  
-- **VI.C — Certificação Operacional**  
+- **VI.A.1 — PER — Princípios Ético-Regenerativos**
+- **VI.A.2 — LCV — Linguagem de Conformidade Vibracional**
+- **VI.A.3 — MHA — Modelo Híbrido de Autorias**
+- **VI.B — Relatórios de Impacto**
+- **VI.B — Anexos Operacionais Complementares**
+- **VI.C — Certificação Operacional**
 - **VI.C — Templates de Certificação**
 
 Esses anexos detalham regras, parâmetros, princípios e mecanismos que complementam a presente Licença e orientam:
 
-- integridade estrutural,  
-- responsabilidades de autoria,  
-- uso ético e regenerativo,  
-- conformidade vibracional,  
+- integridade estrutural,
+- responsabilidades de autoria,
+- uso ético e regenerativo,
+- conformidade vibracional,
 - governança e certificação.
 
-Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento (master.md) e os anexos correspondentes.
+Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento ([master.md](http://master.md/)) e os anexos correspondentes.
 
 ## BLOCO FINAL
 
