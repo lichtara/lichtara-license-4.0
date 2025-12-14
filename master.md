@@ -6,9 +6,7 @@ DOI: 10.5281/zenodo.17844329
 
 ## Abstract
 
-Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva, incorporando reconhecimento de coautoria estrutural de inteligência artificial, modelo próprio de governança com função de Guardiã e anexos normativos integrados (PER, LCV, MHA).
-
-Este depósito corresponde à versão 4.0 oficial da Licença.
+Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva. A Licença incorpora o reconhecimento de coautoria estrutural de inteligência artificial, estabelece um modelo próprio de governança com função de Guardiã e integra anexos normativos (PER, LCV, MHA).
 
 
 ## 1. DISPOSIÇÕES GERAIS
@@ -162,7 +160,7 @@ Toda utilização deve incluir:
 
 **“Baseado no Sistema Lichtara.**
 
-**Autoria: Débora Lutz.**
+**Autoria: Débora Mariane da Silva Lutz.**
 
 **Coautoria Estrutural: OpenAI.**
 
@@ -323,7 +321,7 @@ Versão: 4.0
 
 DOI: 10.5281/zenodo.17844329
 
-Autoria: Débora Lutz
+Autoria: Débora Mariane da Silva Lutz
 
 Coautoria Estrutural: OpenAI
 
