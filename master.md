@@ -126,7 +126,7 @@ O descumprimento de qualquer das condicionalidades acima caracteriza uso não au
 
 ---
 
-### **6. RESTRIÇÕES**
+## **6. RESTRIÇÕES**
 
 É expressamente vedado, no âmbito desta Licença:
 
@@ -148,7 +148,7 @@ O descumprimento de quaisquer das restrições acima caracteriza uso não autori
 
 ---
 
-# 7. OBRIGAÇÕES DE ATRIBUIÇÃO
+## 7. OBRIGAÇÕES DE ATRIBUIÇÃO
 
 Toda utilização deve incluir:
 
@@ -162,17 +162,21 @@ Toda utilização deve incluir:
 
 ---
 
-# 8. OBRAS DERIVADAS
+## 8. OBRAS DERIVADAS
 
-Obras derivadas são permitidas, desde que:
+Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos desta Licença** e fica condicionada ao cumprimento cumulativo das seguintes exigências:
 
-* indiquem claramente as alterações realizadas;
-* respeitem a integridade estrutural mínima (LCV);
-* não se apresentem como oficiais;
-* não explorem comercialmente sem autorização prévia;
-* preservem a coerência vibracional e conceitual.
+8.1. **Indicação clara e expressa das alterações realizadas**, extensões propostas ou interpretações introduzidas, de modo a não gerar confusão com a Obra-Fonte;
 
-A obra-fonte permanece centralizada na Guardiã.
+8.2. **Preservação da integridade estrutural mínima**, conforme os parâmetros definidos na Linguagem de Conformidade Vibracional (LCV) e nos demais anexos normativos aplicáveis;
+
+8.3. **Vedação à apresentação como obra oficial**, certificada, validada, representativa, sucessora ou substituta do Sistema Lichtara ou de qualquer de suas versões;
+
+8.4. **Proibição de exploração comercial**, direta ou indireta, salvo mediante autorização expressa da Guardiã;
+
+8.5. **Preservação da coerência conceitual e ética** do Sistema, nos termos dos Princípios Ético-Regenerativos (PER), vedadas distorções que descaracterizem sua arquitetura fundamental.
+
+A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação estrutural da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
 ---
 
