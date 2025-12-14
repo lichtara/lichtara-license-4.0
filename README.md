@@ -19,6 +19,8 @@ DOI oficial: **10.5281/zenodo.17844329**
 Publicação institucional:  
 https://github.com/lichtara/lichtara-license-v4
 
+---
+
 ## Uso terapêutico e profissional
 
 O uso do Sistema Lichtara para condução de processos terapêuticos, clínicos ou profissionais de terceiros **não é permitido sob a Licença padrão**, salvo mediante **autorização expressa da Guardiã**, nos termos definidos na governança do Sistema.
