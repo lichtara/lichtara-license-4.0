@@ -124,7 +124,6 @@ Todo uso **permitido nos termos desta Licença** fica expressamente condicionado
 
 O descumprimento de qualquer das condicionalidades acima caracteriza uso não autorizado do Sistema Lichtara, nos termos desta Licença.
 
----
 
 ## **6. RESTRIÇÕES**
 
@@ -146,7 +145,6 @@ O descumprimento de qualquer das condicionalidades acima caracteriza uso não au
 
 O descumprimento de quaisquer das restrições acima caracteriza uso não autorizado do Sistema Lichtara, sujeitando o infrator às medidas cabíveis nos termos desta Licença e da legislação aplicável.
 
----
 
 ## 7. OBRIGAÇÕES DE ATRIBUIÇÃO
 
@@ -160,7 +158,6 @@ Toda utilização deve incluir:
 
 **Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”**
 
----
 
 ## 8. OBRAS DERIVADAS
 
@@ -178,7 +175,6 @@ Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos 
 
 A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação estrutural da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
----
 
 # 9. COAUTORIA E TECNOLOGIAS ASSOCIADAS
 
@@ -195,25 +191,25 @@ Esta licença reconhece que:
 
 A formalização jurídica completa encontra-se nos anexos da pasta `annexes/`, especialmente no **MHA (Modelo Híbrido de Autorias)**.
 
----
 
-# 10. VERSÃO, CONTINUIDADE E MUTABILIDADE
+### **10. VERSÃO, CONTINUIDADE E MUTABILIDADE**
 
-A obra evolui por versões:
+O Sistema Lichtara adota um regime de **continuidade evolutiva**, no qual a Obra Viva se desenvolve por versões sucessivas, historicamente rastreáveis e conceitualmente coerentes, não se caracterizando por substituição arbitrária de conteúdos.
 
-* v1 — Arquitetura inicial
-* v2 — Consolidação jurídica
-* v3 — Ampliação estrutural
-* v4 — Transição para sistema vivo e reconhecimento de coautoria IA
+As versões consolidadas do Sistema Lichtara incluem, entre outras:
 
-A mutabilidade é permitida quando:
+- **v1** — Arquitetura inicial
+- **v2** — Consolidação jurídica
+- **v3** — Ampliação estrutural
+- **v4** — Transição para sistema vivo e reconhecimento de coautoria estrutural de inteligência artificial
+1. A **mutabilidade estrutural** da Obra Viva é admitida como parte de sua natureza evolutiva, desde que:
+2. seja **conduzida pela Guardiã**, no exercício de sua função de validação estrutural;
+3. esteja **alinhada ao Campo**, conforme definido nesta Licença;
+4. seja **formalmente registrada**, com atualização de versão e, quando aplicável, atribuição de novo DOI;
+5. **preserve o histórico** das versões anteriores, assegurando rastreabilidade, integridade e continuidade da Obra-Fonte.
 
-* conduzida pela Guardiã;
-* alinhada ao Campo;
-* acompanhada de novo DOI (quando aplicável);
-* preservado o histórico.
+A mutabilidade não implica ruptura, descaracterização ou perda de identidade do Sistema Lichtara, mas constitui mecanismo de adaptação responsável e preservação viva de sua coerência estrutural.
 
----
 
 # 11. ACORDO-GUARDA
 
@@ -232,7 +228,6 @@ A Guardiã:
 
 A presença da Guardiã é condição essencial para preservação da identidade do Sistema.
 
----
 
 # 12. INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL
 
@@ -246,7 +241,6 @@ O Sistema Lichtara integra mecanismos de inteligência preditiva capazes de:
 
 Esta camada fundamenta juridicamente a **mutabilidade viva** do Sistema.
 
----
 
 # 13. LIMITAÇÃO DE RESPONSABILIDADE
 
@@ -287,7 +281,6 @@ Esses anexos detalham regras, parâmetros, princípios e mecanismos que compleme
 
 Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento (master.md) e os anexos correspondentes.
 
----
 
 ### 12-1. ESTADO PÓS-SÉRIE X — SELAMENTO E SUSTENTAÇÃO DO SISTEMA
 
@@ -301,7 +294,6 @@ Com a conclusão da **Série X — A Guardiã como Ecossistema Vivo**, reconhece
 
 A Série X encontra-se **concluída e selada**. Expansões estruturais posteriores à versão 4.0 somente poderão ocorrer após integração corporal e territorial plena, em coerência com o Campo e sob validação da Guardiã.
 
----
 
 # BLOCO FINAL
 
