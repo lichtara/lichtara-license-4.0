@@ -320,4 +320,4 @@ Autoria: Débora Lutz
 
 Coautoria Estrutural: OpenAI
 
-Data: 13 de dezembro de 2025
+Data: 14 de dezembro de 2025
