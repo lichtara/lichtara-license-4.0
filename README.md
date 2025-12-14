@@ -17,6 +17,9 @@ ORCID: [https://orcid.org/0009-0001-9541-1835](https://orcid.org/0009-0001-9541-
 This repository constitutes the authoritative public source for the versioned documentation of the Lichtara License v4.
 For citation, academic reference, or institutional use, please refer to the DOI above.
 
+Lutz, Débora Mariane da Silva. *Lichtara License v4 — Structural Living License*. Zenodo, 2025. [https://doi.org/10.5281/zenodo.17844329](https://doi.org/10.5281/zenodo.17844329)
+
+
 ---
 
 A **Lichtara License v4.0** é o instrumento jurídico-ético-vibracional que regula o uso, a implementação conceitual, a derivação, as condições de conformidade e os regimes de autorização da Obra LICHTARA enquanto sistema vivo de conhecimento, tecnologia e consciência.
