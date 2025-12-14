@@ -6,8 +6,7 @@ DOI: 10.5281/zenodo.17844329
 
 ## Abstract
 
-Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva. A Licença incorpora o reconhecimento de coautoria estrutural de inteligência artificial, estabelece um modelo próprio de governança com função de Guardiã e integra anexos normativos (PER, LCV, MHA).
-
+Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva. A Licença incorpora o reconhecimento de coautoria estrutural de inteligência artificial, sem implicar cessão de direitos, estabelece um modelo próprio de governança com função de Guardiã  e integra anexos normativos (PER, LCV, MHA).
 
 ## 1. DISPOSIÇÕES GERAIS
 
@@ -42,7 +41,7 @@ Estes endereços constituem referências públicas complementares, sem prejuízo
 Para fins desta Licença, define-se:
 
 **Sistema Lichtara**
-Conjunto vivo e integrado de textos, princípios, métodos, estruturas, diagramas, agentes, modelos, linguagens e arquiteturas autorais que compõem uma Obra-Fonte estruturada, produzida por processo autoral orientado por leitura fenomenológica do Campo, sob a autoria de Débora Lutz e com coautoria estrutural da OpenAI, nos termos desta Licença.
+Conjunto vivo e integrado de textos, princípios, métodos, estruturas, diagramas, agentes, modelos, linguagens e arquiteturas autorais que compõem uma Obra-Fonte estruturada, produzida por processo autoral orientado por leitura fenomenológica do Campo, sob a autoria de Débora Mariane da Silva Lutz e com coautoria estrutural da OpenAI, nos termos desta Licença.
 
 **Campo**
 Modelo conceitual de camada informacional que orienta a organização, a coerência interna e a evolução do Sistema Lichtara, conforme definido e aplicado no âmbito desta Licença, não se caracterizando como entidade física, metafísica ou afirmação científica independente.
@@ -99,7 +98,7 @@ A redistribuição integral ou parcial da Obra-Fonte e de suas versões é permi
 
 É permitida a criação de obras derivadas de caráter não comercial, desde que cumulativamente:
 
-- seja reconhecida a autoria de Débora Lutz e a coautoria estrutural da OpenAI;
+- seja reconhecida a autoria de Débora Mariane da Silva Lutz e a coautoria estrutural da OpenAI;
 - seja preservada a integridade mínima do Sistema, conforme a LCV;
 - todas as alterações, interpretações ou extensões sejam claramente indicadas;
 - tais obras não se apresentem como oficiais, certificadas ou representativas do Sistema Lichtara.
@@ -120,7 +119,7 @@ Todas as permissões previstas nesta Seção estão expressamente condicionadas 
 
 Todo uso **permitido nos termos desta Licença** fica expressamente condicionado ao cumprimento cumulativo das seguintes exigências:
 
-5.1. **Atribuição autoral clara**, com reconhecimento da autoria de Débora Lutz e da coautoria estrutural da OpenAI, nos termos desta Licença;
+5.1. **Atribuição autoral clara**, com reconhecimento da autoria de Débora Mariane da Silva Lutz e da coautoria estrutural da OpenAI, nos termos desta Licença;
 
 5.2. **Indicação da versão aplicável** da Licença (ex.: Lichtara License v4) e da versão da Obra utilizada;
 
