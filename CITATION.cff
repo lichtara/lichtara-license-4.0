@@ -2,34 +2,34 @@ cff-version: 1.2.0
 title: "LICHTARA LICENSE v4 — STRUCTURAL LIVING LICENSE"
 message: "If you use or reference the Lichtara System or this license, please cite this work."
 type: other
-authors:
 
-* family-names: "da Silva Lutz"
-  given-names: "Débora Mariane"
-  orcid: "[https://orcid.org/0009-0001-9541-1835](https://orcid.org/0009-0001-9541-1835)"
-  affiliation: "Lichtara Institute"
-  contributors:
-* name: "(Structural Co-authorship, non-human), Artificial Intelligence"
-  type: other
-  version: "4.0"
-  doi: "10.5281/zenodo.17844329"
-  date-released: 2025-12-14
-  publisher: "Zenodo"
-  keywords:
-* Lichtara
-* Structural Living License
-* Living Systems Governance
-* Ethical-Regenerative Licensing
-* Artificial Intelligence Co-authorship
-* Legal Framework
-* Non-Commercial License
-* Digital Commons
-* Living Work
-  license: "Lichtara License v4 — Structural Living License"
-  url: "[https://doi.org/10.5281/zenodo.17844329](https://doi.org/10.5281/zenodo.17844329)"
-  abstract: >
-  Juridical master document governing the use, preservation, and expansion of the
-  Lichtara System as a living, structured, and evolutive work. Version 4.0 establishes
-  ethical-regenerative principles, a living governance model with a non-transferable
-  Guardian function, and formally recognizes structural co-authorship by artificial
-  intelligence without implying assignment of rights or institutional partnership.
+authors:
+  - family-names: "da Silva Lutz"
+    given-names: "Débora Mariane"
+    orcid: "https://orcid.org/0009-0001-9541-1835"
+    affiliation: "Lichtara Institute"
+
+contributors:
+  - name: "Artificial Intelligence"
+    type: other
+    description: "Structural co-authorship (non-human)"
+
+version: "4.0"
+doi: "10.5281/zenodo.17844329"
+date-released: 2025-12-14
+publisher: "Zenodo"
+
+keywords:
+  - Lichtara
+  - Structural Living License
+  - Living Systems Governance
+  - Ethical-Regenerative Licensing
+  - Artificial Intelligence Co-authorship
+  - Legal Framework
+  - Non-Commercial License
+  - Digital Commons
+  - Living Work
+
+license: "Lichtara License v4 — Structural Living License"
+url: "https://doi.org/10.5281/zenodo.17844329"
+```
