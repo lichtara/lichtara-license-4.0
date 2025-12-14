@@ -1,0 +1,58 @@
+{
+  "title": "LICHTARA LICENSE v4 — STRUCTURAL LIVING LICENSE",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva. A versão 4.0 estabelece princípios ético-regenerativos, um modelo próprio de governança com função de Guardiã, o reconhecimento de coautoria estrutural de inteligência artificial e a integração de anexos normativos oficiais (PER, LCV, MHA). O depósito inclui o Documento-Matriz em PDF, os arquivos-fonte e os anexos normativos correspondentes.",
+  "creators": [
+    {
+      "name": "da Silva Lutz, Débora Mariane",
+      "affiliation": "Lichtara Institute",
+      "orcid": "0009-0001-9541-1835"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "(Structural Co-authorship, non-human), Artificial Intelligence",
+      "type": "Other"
+    }
+  ],
+  "keywords": [
+    "Lichtara",
+    "Structural Living License",
+    "Living Systems Governance",
+    "Systemic Governance",
+    "Ethical-Regenerative Licensing",
+    "Artificial Intelligence Co-authorship",
+    "Legal Framework",
+    "Non-Commercial License",
+    "Digital Commons",
+    "Living Work"
+  ],
+  "license": {
+    "id": "other-open"
+  },
+  "access_right": "open",
+  "version": "4.0",
+  "language": [
+    "por",
+    "eng"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.17844329",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://github.com/lichtara/lichtara-license-4.0",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://license.lichtara.com",
+      "relation": "isReferencedBy",
+      "resource_type": "website"
+    }
+  ],
+  "notes": "Este depósito corresponde à versão oficial 4.0 da Lichtara License — Structural Living License e inclui o Documento-Matriz em PDF, os arquivos-fonte e os anexos normativos que integram formalmente a licença."
+}
