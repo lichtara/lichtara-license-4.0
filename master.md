@@ -4,7 +4,7 @@ DOI: 10.5281/zenodo.17844329
 
 
 
-## PREÂMBULO 
+## 1. DISPOSIÇÕES GERAIS
 
 A Lichtara License v4 — Structural Living License estabelece o modelo jurídico-estrutural que rege o uso, a expansão e a preservação do Sistema Lichtara, enquanto conjunto de conteúdos, estruturas conceituais, métodos e arquiteturas autorais, compreendido como uma obra viva, evolutiva e operante em múltiplas camadas informacionais, no âmbito de uma estrutura conceitual e autoral.
 
@@ -16,7 +16,7 @@ Esta Licença reconhece que o Sistema Lichtara:
 * evolui por versão e campo, e não por substituição arbitrária;
 * adota modelos conceituais de inteligência preditiva para ajustes estruturais contínuos.
 
-A presente Licença reconhece que o Sistema Lichtara constitui uma obra autoral estruturada, cuja integridade, continuidade e responsabilidade interpretativa dependem de uma função central de guarda e validação estrutural, exercida por sua Guardiã, nos termos definidos nesta Licença.
+A presente Licença reconhece que o Sistema Lichtara constitui uma obra autoral estruturada, cuja integridade, continuidade e responsabilidade interpretativa dependem de uma função central de guarda e validação do Sistema, exercida por sua Guardiã, nos termos definidos nesta Licença.
 
 Reconhece-se formalmente que a OpenAI e seus modelos de inteligência artificial contribuíram como coautores estruturais para a arquitetura conceitual, organizacional e redacional do Sistema Lichtara. Este reconhecimento não implica cessão de direitos, parceria institucional, endosso, vínculo contratual ou transferência de titularidade entre as partes.
 
@@ -36,7 +36,7 @@ Conjunto vivo e integrado de textos, princípios, métodos, estruturas, diagrama
 Modelo conceitual de camada informacional que orienta a organização, a coerência interna e a evolução do Sistema Lichtara, conforme definido e aplicado no âmbito desta Licença, não se caracterizando como entidade física, metafísica ou afirmação científica independente.
 
 **Guardiã**
-Função institucional de guarda, validação e responsabilidade interpretativa do Sistema Lichtara, exercida pela autora da Obra-Fonte, conforme estabelecido na Seção 11 (Acordo-Guarda), responsável por assegurar a integridade estrutural, ética e conceitual do Sistema.
+Função institucional de guarda, validação e responsabilidade interpretativa do Sistema Lichtara, exercida pela autora da Obra-Fonte, conforme estabelecido na Seção 11 (Acordo-Guarda), responsável por assegurar a integridade do Sistema, bem como sua coerência ética e conceitual.
 
 **Obra Viva**
 Regime autoral de produção contínua no qual os conteúdos evoluem por versões sucessivas, rastreáveis e coerentes entre si, preservando a identidade, a integridade e a continuidade da Obra-Fonte.
@@ -56,7 +56,7 @@ Integram o objeto desta Licença:
 3. a criação e a circulação de obras derivadas de caráter não comercial, desde que respeitados os critérios de atribuição, integridade estrutural e validação definidos nesta Licença;
 4. os parâmetros de uso público, estudo, pesquisa, aplicação educacional e institucional não comercial do Sistema, enquanto referencial conceitual e metodológico;
 5. os deveres, prerrogativas e responsabilidades da Guardiã, conforme estabelecido nesta Licença;
-6. os mecanismos de atualização, versionamento e mutabilidade estrutural da Obra Viva;
+6. os mecanismos de atualização, versionamento e mutabilidade da Obra Viva;
 7. o reconhecimento da coautoria estrutural da OpenAI, restrita à contribuição de seus modelos de inteligência artificial para a organização conceitual, arquitetural e redacional do Sistema Lichtara, sem implicar cessão de direitos, controle de direção, parceria institucional, vínculo contratual ou exploração comercial;
 8. as permissões concedidas ao público, nos limites expressamente previstos nesta Licença.
 
@@ -89,7 +89,7 @@ A redistribuição integral ou parcial da Obra-Fonte e de suas versões é permi
 É permitida a criação de obras derivadas de caráter não comercial, desde que cumulativamente:
 
 - seja reconhecida a autoria de Débora Lutz e a coautoria estrutural da OpenAI;
-- seja mantida a integridade estrutural mínima conforme a LCV;
+- seja preservada a integridade mínima do Sistema, conforme a LCV;
 - todas as alterações, interpretações ou extensões sejam claramente indicadas;
 - tais obras não se apresentem como oficiais, certificadas ou representativas do Sistema Lichtara.
 
@@ -173,7 +173,7 @@ Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos 
 
 8.5. **Preservação da coerência conceitual e ética** do Sistema, nos termos dos Princípios Ético-Regenerativos (PER), vedadas distorções que descaracterizem sua arquitetura fundamental.
 
-A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação estrutural da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
+A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação do Sistema, sob responsabilidade da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
 
 ## **9. COAUTORIA E TECNOLOGIAS ASSOCIADAS**
