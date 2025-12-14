@@ -2,7 +2,7 @@
   "title": "Lichtara License v4 — Structural Living License",
   "upload_type": "publication",
   "publication_type": "other",
-  "description": "Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva. Esta versão (v4.0) reconhece coautoria estrutural de inteligência artificial, estabelece modelo de governança com função de Guardiã e integra anexos normativos (PER, LCV, MHA). O depósito inclui o Documento-Matriz em PDF e os anexos normativos oficiais.",
+  "description": "Documento jurídico-matriz do Sistema Lichtara. Regula o uso, a preservação e a expansão da obra como estrutura viva, evolutiva e versionada. A versão 4.0 reconhece coautoria estrutural de inteligência artificial, estabelece modelo de governança com função de Guardiã e integra anexos normativos oficiais (PER, LCV, MHA). O depósito inclui o Documento-Matriz em PDF e os anexos normativos correspondentes.",
   "creators": [
     {
       "name": "Lutz, Débora",
@@ -19,13 +19,19 @@
   "keywords": [
     "license",
     "living license",
+    "open license",
+    "non-commercial license",
     "governance",
+    "AI governance",
+    "ethical AI",
     "co-authorship",
     "artificial intelligence",
+    "intellectual property",
     "ethical licensing",
-    "non-commercial use",
     "structural authorship",
     "Lichtara"
+    "non-commercial license",
+    "living system"
   ],
   "license": {
     "id": "other-open"
@@ -37,7 +43,7 @@
     {
       "identifier": "https://github.com/lichtara/lichtara-license-4.0",
       "relation": "isSupplementTo",
-      "resource_type": "software"
+      "resource_type": "publication"
     },
     {
       "identifier": "https://license.lichtara.com",
@@ -45,5 +51,5 @@
       "resource_type": "website"
     }
   ],
-  "notes": "This deposit includes the official PDF of the Document-Matrix (master.md rendered) and a ZIP archive containing the normative annexes that form an integral part of the Lichtara License v4."
+  "notes": "Este depósito inclui o PDF oficial do Documento-Matriz (master.md renderizado) e um arquivo ZIP contendo os anexos normativos que integram formalmente a Lichtara License v4."
 }
