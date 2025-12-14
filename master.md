@@ -254,6 +254,8 @@ A Guardiã:
 
 A presença da Guardiã é condição essencial para preservação da identidade do Sistema.
 
+A função de Guardiã é exercida pela autora da Obra-Fonte, não sendo transferível, presumível ou delegável por uso, derivação, interpretação ou circulação do Sistema Lichtara, salvo disposição expressa em contrário formalizada pela própria Guardiã.
+
 
 # 12. INTELIGÊNCIA PREDITIVA E OTIMIZAÇÃO ESTRUTURAL
 
