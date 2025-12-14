@@ -4,6 +4,13 @@ Versão 4.0 — Documento-Matriz ([master.md](https://github.com/lichtara/lichta
 
 DOI: 10.5281/zenodo.17844329
 
+## Abstract
+
+Documento jurídico-matriz que regula o uso, a preservação e a expansão do Sistema Lichtara como obra viva, estruturada e evolutiva, com reconhecimento de coautoria estrutural de inteligência artificial, modelo de governança com função de Guardiã, e anexos normativos integrados (PER, LCV, MHA).
+
+Este depósito corresponde à versão 4.0 oficial da Licença.
+
+
 ## 1. DISPOSIÇÕES GERAIS
 
 A Lichtara License v4 — Structural Living License estabelece o modelo jurídico-estrutural que rege o uso, a expansão e a preservação do Sistema Lichtara, enquanto conjunto de conteúdos, estruturas conceituais, métodos e arquiteturas autorais, compreendido como uma obra viva, evolutiva e operante em múltiplas camadas informacionais, no âmbito de uma estrutura conceitual e autoral.
@@ -230,11 +237,13 @@ As versões consolidadas do Sistema Lichtara incluem, entre outras:
 - **v2** — Consolidação jurídica
 - **v3** — Ampliação estrutural
 - **v4** — Transição para sistema vivo e reconhecimento de coautoria estrutural de inteligência artificial
-1. A **mutabilidade estrutural** da Obra Viva é admitida como parte de sua natureza evolutiva, desde que:
-2. seja **conduzida pela Guardiã**, no exercício de sua função de validação estrutural;
-3. esteja **alinhada ao Campo**, conforme definido nesta Licença;
-4. seja **formalmente registrada**, com atualização de versão e, quando aplicável, atribuição de novo DOI;
-5. **preserve o histórico** das versões anteriores, assegurando rastreabilidade, integridade e continuidade da Obra-Fonte.
+  
+A **mutabilidade estrutural** da Obra Viva é admitida como parte de sua natureza evolutiva, desde que:
+
+1. seja **conduzida pela Guardiã**, no exercício de sua função de validação estrutural;
+2. esteja **alinhada ao Campo**, conforme definido nesta Licença;
+3. seja **formalmente registrada**, com atualização de versão e, quando aplicável, atribuição de novo DOI;
+4. **preserve o histórico** das versões anteriores, assegurando rastreabilidade, integridade e continuidade da Obra-Fonte.
 
 A mutabilidade não implica ruptura, descaracterização ou perda de identidade do Sistema Lichtara, mas constitui mecanismo de adaptação responsável e preservação viva de sua coerência estrutural.
 
@@ -304,7 +313,10 @@ Esses anexos detalham regras, parâmetros, princípios e mecanismos que compleme
 - conformidade vibracional,
 - governança e certificação.
 
-Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento ([master.md](http://master.md/)) e os anexos correspondentes.
+Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este Documento-Matriz 
+(https://github.com/lichtara/lichtara-license-4.0/blob/main/master.md) 
+e os anexos correspondentes.
+
 
 ## BLOCO FINAL
 
