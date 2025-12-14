@@ -239,6 +239,8 @@ A mutabilidade não implica ruptura, descaracterização ou perda de identidade 
 
 ## 11. ACORDO-GUARDA
 
+O presente Acordo-Guarda estabelece a função institucional de guarda, validação e responsabilidade estrutural do Sistema Lichtara.
+
 A Guardiã:
 
 1. sustenta a integridade estrutural do Sistema Lichtara;
