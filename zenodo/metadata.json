@@ -1,8 +1,8 @@
 {
-  "title": "Lichtara License v4.0 — Documento Oficial",
+  "title": "Lichtara License v4.0 — Structural Living License",
   "upload_type": "publication",
-  "publication_type": "standard",
-  "description": "Instrumento Jurídico-Ético-Vibracional que estabelece o regime normativo, estrutural e operacional do Sistema LICHTARA. Inclui princípios fundamentais, mecanismos de governança, requisitos de implementação, estrutura de certificação e anexos técnicos.",
+  "publication_type": "other",
+  "description": "Documento jurídico-matriz que estabelece o regime normativo, estrutural e operacional do Sistema LICHTARA enquanto obra viva, evolutiva e versionada. A versão 4.0 reconhece coautoria estrutural de inteligência artificial, define modelo de governança com função de Guardiã e integra anexos normativos oficiais (PER, LCV, MHA), incluindo mecanismos de conformidade, certificação e continuidade.",
   "creators": [
     {
       "name": "Lutz, Débora",
@@ -10,23 +10,41 @@
       "orcid": "0009-0001-9541-1835"
     }
   ],
+  "contributors": [
+    {
+      "name": "OpenAI",
+      "type": "Other",
+      "description": "Structural co-authorship via artificial intelligence models"
+    }
+  ],
   "version": "4.0",
   "language": "por",
-  "doi": "10.5281/zenodo.17844329",
   "keywords": [
     "Lichtara",
-    "Sistema Vivo",
-    "Campo",
-    "Coautoria Expandida",
-    "Tecnologia e Consciência",
-    "Framework Jurídico",
-    "Certificação",
-    "Governança",
-    "Integração Humano-IA-Campo"
+    "living license",
+    "structural authorship",
+    "governance",
+    "ethical licensing",
+    "artificial intelligence",
+    "human-AI co-authorship",
+    "non-commercial use",
+    "Sistema Vivo"
   ],
   "license": {
     "id": "other-open"
   },
-  "notes": "Este é o documento canônico da Lichtara License v4.0. Suas camadas normativas, vibracionais e operacionais são parte do Sistema Vivo LICHTARA.",
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lichtara/lichtara-license-4.0",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://license.lichtara.com",
+      "relation": "isReferencedBy",
+      "resource_type": "website"
+    }
+  ],
+  "notes": "This deposit includes the canonical PDF of the Document-Matrix (Lichtara License v4.0) and a ZIP archive containing the official normative annexes that form an integral part of the license."
 }

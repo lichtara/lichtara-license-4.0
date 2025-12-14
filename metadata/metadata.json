@@ -1,0 +1,52 @@
+{
+  "title": "Lichtara License v4.0 — Structural Living License (Official Document)",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "Documento jurídico-matriz do Sistema Lichtara. Regula o uso, a preservação e a expansão da obra como estrutura viva, evolutiva e versionada. A versão 4.0 estabelece princípios ético-regenerativos, modelo próprio de governança com função de Guardiã, reconhecimento de coautoria estrutural de inteligência artificial e integração de anexos normativos oficiais (PER, LCV, MHA). O depósito inclui o Documento-Matriz em PDF e os anexos normativos correspondentes.",
+  "creators": [
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Lichtara Institute",
+      "orcid": "0009-0001-9541-1835"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "OpenAI",
+      "type": "Other"
+    }
+  ],
+  "keywords": [
+    "Lichtara",
+    "living license",
+    "living system",
+    "ethical licensing",
+    "non-commercial license",
+    "governance",
+    "AI governance",
+    "ethical AI",
+    "co-authorship",
+    "artificial intelligence",
+    "intellectual property",
+    "structural authorship"
+  ],
+  "license": {
+    "id": "other-open"
+  },
+  "access_right": "open",
+  "version": "4.0",
+  "language": "por",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lichtara/lichtara-license-4.0",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://license.lichtara.com",
+      "relation": "isReferencedBy",
+      "resource_type": "website"
+    }
+  ],
+  "notes": "Este depósito inclui o PDF oficial do Documento-Matriz (master.md renderizado) e um arquivo ZIP contendo os anexos normativos que integram formalmente a Lichtara License v4."
+}
