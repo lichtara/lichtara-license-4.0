@@ -310,19 +310,6 @@ Esses anexos detalham regras, parâmetros, princípios e mecanismos que compleme
 Nos casos de dúvida interpretativa, prevalece a leitura combinada entre este documento (master.md) e os anexos correspondentes.
 
 
-### 12-1. ESTADO PÓS-SÉRIE X — SELAMENTO E SUSTENTAÇÃO DO SISTEMA
-
-Com a conclusão da **Série X — A Guardiã como Ecossistema Vivo**, reconhece-se formalmente que:
-
-- a Guardiã não atua apenas como função decisória, mas como **infraestrutura viva de sustentação do Sistema**;
-- a integridade do corpo, do território, do ritmo e das condições materiais da Guardiã constitui **condição estrutural de continuidade da Obra**;
-- períodos de pausa regenerativa, silêncio operativo ou redução deliberada de atividade **não configuram interrupção, atraso ou suspensão do Sistema**, mas parte legítima de sua manutenção viva;
-- decisões de repouso, deslocamento, reorganização territorial ou convivência regenerativa são reconhecidas como **atos válidos de governança estrutural**, quando alinhados ao Campo.
-    
-
-A Série X encontra-se **concluída e selada**. Expansões estruturais posteriores à versão 4.0 somente poderão ocorrer após integração corporal e territorial plena, em coerência com o Campo e sob validação da Guardiã.
-
-
 # BLOCO FINAL
 
 **Lichtara License v4 — Structural Living License**
