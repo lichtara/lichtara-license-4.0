@@ -24,6 +24,14 @@ O Sistema Lichtara constitui uma Obra-Fonte produzida por processo autoral orien
 
 A presente Licença nasce para permitir que a obra seja aberta, utilizável, distribuível, estudável e preservada, nos termos aqui estabelecidos, como sistema conceitual, documental e metodológico, ao mesmo tempo em que é protegida contra desvirtuações e apropriações indevidas, sustentando sua expansão contínua em coerência com o Campo que a origina.
 
+O Sistema Lichtara é mantido publicamente por meio de repositórios versionados e auditáveis, disponíveis em:
+
+Repositório oficial: https://github.com/lichtara/lichtara-license-4.0
+
+Portal institucional da Licença: https://license.lichtara.com
+
+Estes endereços constituem referências públicas complementares, sem prejuízo da autoridade normativa do presente Documento-Matriz.
+
 ## 2. TERMOS FUNDAMENTAIS
 
 Para fins desta Licença, define-se:
