@@ -1,6 +1,6 @@
 # Lichtara License v4 — Structural Living License
 
-Versão 4.0 — Documento-Matriz ([master.md](http://master.md/))
+Versão 4.0 — Documento-Matriz ([master.md](https://github.com/lichtara/lichtara-license-4.0/blob/main/master.md))
 
 DOI: 10.5281/zenodo.17844329
 
