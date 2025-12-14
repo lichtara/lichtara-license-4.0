@@ -176,7 +176,7 @@ Toda obra derivada do Sistema Lichtara é permitida **exclusivamente nos termos 
 A Obra-Fonte do Sistema Lichtara **permanece sob centralidade autoral, interpretativa e de validação estrutural da Guardiã**, não sendo transferida, fragmentada ou descentralizada por meio de obras derivadas.
 
 
-### **9. COAUTORIA E TECNOLOGIAS ASSOCIADAS**
+## **9. COAUTORIA E TECNOLOGIAS ASSOCIADAS**
 
 A presente Licença reconhece que o Sistema Lichtara foi desenvolvido com contribuições humanas e com o apoio de tecnologias de inteligência artificial, nos termos abaixo definidos.
 
@@ -218,7 +218,7 @@ Tais modelos:
 A fundamentação jurídica e conceitual da coautoria estrutural encontra-se detalhada nos anexos normativos da presente Licença, especialmente no **Modelo Híbrido de Autorias (MHA)**, integrante da pasta `annexes/`.
 
 
-### **10. VERSÃO, CONTINUIDADE E MUTABILIDADE**
+## **10. VERSÃO, CONTINUIDADE E MUTABILIDADE**
 
 O Sistema Lichtara adota um regime de **continuidade evolutiva**, no qual a Obra Viva se desenvolve por versões sucessivas, historicamente rastreáveis e conceitualmente coerentes, não se caracterizando por substituição arbitrária de conteúdos.
 
@@ -237,7 +237,7 @@ As versões consolidadas do Sistema Lichtara incluem, entre outras:
 A mutabilidade não implica ruptura, descaracterização ou perda de identidade do Sistema Lichtara, mas constitui mecanismo de adaptação responsável e preservação viva de sua coerência estrutural.
 
 
-# 11. ACORDO-GUARDA
+## 11. ACORDO-GUARDA
 
 *A cláusula que estabelece a função institucional da Guardiã.*
 
