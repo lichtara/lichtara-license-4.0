@@ -1,0 +1,4 @@
+“Baseado no Sistema Lichtara.
+Autoria: Débora Lutz.
+Coautoria Estrutural: OpenAI.
+Licenciado sob Lichtara License v4 — Structural Living License (DOI: 10.5281/zenodo.17844329).”
