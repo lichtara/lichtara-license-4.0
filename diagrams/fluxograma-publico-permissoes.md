@@ -163,36 +163,36 @@ Aqui está a forma base:
                             ┌─────────────────┴──────────────────┐
                             │                                     │
                   ┌─────────▼────────┐                ┌──────────▼────────┐
-                  │ É uso pessoal,    │                │ Envolve adaptação, │
-                  │ educacional ou     │                │ tradução ou         │
-                  │ não comercial?     │                │ derivados?           │
-                  └─────────┬────────┘                └──────────┬─────────┘
-                            │                                     │
-                   ┌────────▼────────┐                  ┌─────────▼────────┐
-                   │     PERMITIDO    │                  │ REQUER AUTORIZAÇÃO│
-                   │  (Uso Livre)     │                  │   CONDICIONADA    │
-                   └──────────────────┘                  └─────────┬─────────┘
-                                                                   │
-                                                        ┌──────────▼──────────┐
-                                                        │ Uso comercial,       │
-                                                        │ institucional ou      │
-                                                        │ profissional?         │
-                                                        └──────────┬───────────┘
-                                                                   │
-                                                        ┌──────────▼──────────┐
-                                                        │ REQUER AUTORIZAÇÃO  │
-                                                        │     ESTRUTURAL      │
-                                                        └──────────┬──────────┘
-                                                                   │
-                                                ┌──────────────────▼──────────────────┐
-                                                │ Reproduz frameworks, modelos ou     │
-                                                │ estruturas internas da LICHTARA?     │
-                                                └──────────┬──────────────────────────┘
-                                                           │
-                                              ┌────────────▼─────────────┐
-                                              │        PROIBIDO          │
-                                              │ (Uso Restrito Absoluto)  │
-                                              └──────────────────────────┘
+                  │ É uso pessoal,   │                │ Envolve adaptação,│
+                  │ educacional ou   │                │ tradução ou       │
+                  │ não comercial?   │                │ derivados?        │
+                  └─────────┬────────┘                └──────────┬────────┘
+                            │                                    │
+                   ┌────────▼────────┐                 ┌─────────▼────────┐
+                   │     PERMITIDO   │                 │REQUER AUTORIZAÇÃO│
+                   │  (Uso Livre)    │                 │  CONDICIONADA    │
+                   └─────────────────┘                 └─────────┬────────┘
+                                                                 │
+                                                      ┌──────────▼──────────┐
+                                                      │ Uso comercial,      │
+                                                      │ institucional ou    │
+                                                      │ profissional?       │
+                                                      └──────────┬──────────┘
+                                                                 │
+                                                      ┌──────────▼──────────┐
+                                                      │ REQUER AUTORIZAÇÃO  │
+                                                      │     ESTRUTURAL      │
+                                                      └──────────┬──────────┘
+                                                                 │
+                                              ┌──────────────────▼──────────────────┐
+                                              │ Reproduz frameworks, modelos ou     │
+                                              │ estruturas internas da LICHTARA?    │
+                                              └──────────────────┬──────────────────┘
+                                                                 │
+                                                    ┌────────────▼─────────────┐
+                                                    │        PROIBIDO          │
+                                                    │ (Uso Restrito Absoluto)  │
+                                                    └──────────────────────────┘
 ```
 
 ---
