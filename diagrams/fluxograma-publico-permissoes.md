@@ -217,7 +217,7 @@ Aqui está a forma base:
 # **6. Canal Oficial para Autorização**
 
 ```
-Email: admin@deboralutz.com  
+Email: license@lichtara.com  
 Assunto: Solicitação de Autorização — License v4
 ```
 
